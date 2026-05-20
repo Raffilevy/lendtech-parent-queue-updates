@@ -1,7 +1,7 @@
 {
-    "version":  "1.2.0",
-    "latestVersion":  "1.2.0",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.2.0/LendTech.Parent.Queue.1.2.0.Installer.exe",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.2.0/LendTech.Parent.Queue.1.2.0.Installer.exe",
-    "notes":  "Adds stale warnings, setup queue URL validation, fail-fast internal browser refresh errors, clearer refresh completed/succeeded state, and removes the GitHub token from shipped config."
+    "version":  "1.2.1",
+    "latestVersion":  "1.2.1",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.2.1/LendTech.Parent.Queue.1.2.1.Installer.exe",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.2.1/LendTech.Parent.Queue.1.2.1.Installer.exe",
+    "notes":  "Waits for internal queue pages to load and settle before refresh, fails fast for missing internal browsers, removes duplicate hidden 30-second scrapes, and documents/protects local bug-report token storage."
 }
