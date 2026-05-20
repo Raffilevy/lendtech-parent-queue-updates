@@ -1,6 +1,7 @@
 {
-    "ok":  true,
-    "version":  "1.1.6",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.1.6/LendTech.Parent.Queue.1.1.6.Installer.exe",
-    "notes":  "Adds explicit refresh batches so refresh waits for the requested UFS/TruPath scrapes, adds per-account health chips, and opens the right browser when a manual refresh detects a signed-out account."
+    "version":  "1.1.7",
+    "latestVersion":  "1.1.7",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.1.7/LendTech.Parent.Queue.1.1.7.Installer.exe",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.1.7/LendTech.Parent.Queue.1.1.7.Installer.exe",
+    "notes":  "Browser tabs now shrink like Chrome, show page icons, and bookmarks live beside the address bar with overflow."
 }
