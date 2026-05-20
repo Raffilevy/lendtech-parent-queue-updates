@@ -1,7 +1,7 @@
 {
-    "version":  "1.1.7",
-    "latestVersion":  "1.1.7",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.1.7/LendTech.Parent.Queue.1.1.7.Installer.exe",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.1.7/LendTech.Parent.Queue.1.1.7.Installer.exe",
-    "notes":  "Browser tabs now shrink like Chrome, show page icons, and bookmarks live beside the address bar with overflow."
+    "version":  "1.1.8",
+    "latestVersion":  "1.1.8",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.1.8/LendTech.Parent.Queue.1.1.8.Installer.exe",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.1.8/LendTech.Parent.Queue.1.1.8.Installer.exe",
+    "notes":  "Moved UFS/TruPath View controls beside the browser controls, removed duplicate queue-page buttons, and tightened the header spacing."
 }
