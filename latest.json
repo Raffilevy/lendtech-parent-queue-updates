@@ -1,6 +1,6 @@
 {
     "ok":  true,
-    "version":  "1.1.5",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.1.5/LendTech.Parent.Queue.1.1.5.Installer.exe",
-    "notes":  "Installer now installs/extracts the app to C:\\LendTech Parent Queue. No payload zip is kept locally."
+    "version":  "1.1.6",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.1.6/LendTech.Parent.Queue.1.1.6.Installer.exe",
+    "notes":  "Adds explicit refresh batches so refresh waits for the requested UFS/TruPath scrapes, adds per-account health chips, and opens the right browser when a manual refresh detects a signed-out account."
 }
