@@ -1,7 +1,7 @@
 {
-    "version":  "1.1.8",
-    "latestVersion":  "1.1.8",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.1.8/LendTech.Parent.Queue.1.1.8.Installer.exe",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.1.8/LendTech.Parent.Queue.1.1.8.Installer.exe",
-    "notes":  "Moved UFS/TruPath View controls beside the browser controls, removed duplicate queue-page buttons, and tightened the header spacing."
+    "version":  "1.1.9",
+    "latestVersion":  "1.1.9",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.1.9/LendTech.Parent.Queue.1.1.9.Installer.exe",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.1.9/LendTech.Parent.Queue.1.1.9.Installer.exe",
+    "notes":  "Grouped UFS/TruPath Browser buttons together and UFS/TruPath View buttons together."
 }
