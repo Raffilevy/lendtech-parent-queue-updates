@@ -1,7 +1,7 @@
 {
-    "version":  "1.2.2",
-    "latestVersion":  "1.2.2",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.2.2/LendTech.Parent.Queue.1.2.2.Installer.exe",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.2.2/LendTech.Parent.Queue.1.2.2.Installer.exe",
-    "notes":  "Fixes startup refresh timing: auto-refresh now waits during internal browser warm-up and app-level batch wait is long enough for queue readiness."
+    "version":  "1.2.3",
+    "latestVersion":  "1.2.3",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.2.3/LendTech.Parent.Queue.1.2.3.Installer.exe",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.2.3/LendTech.Parent.Queue.1.2.3.Installer.exe",
+    "notes":  "Startup app refresh now waits 30 seconds, checks each internal browser is on the configured underwriting queue URL, and waits another 30 seconds if not."
 }
