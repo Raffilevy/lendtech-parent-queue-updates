@@ -1,6 +1,6 @@
 {
     "ok":  true,
-    "version":  "1.1.0",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.1.0/LendTech.Parent.Queue.1.1.0.Installer.exe",
-    "notes":  "Initial GitHub updater release with automatic bug reports and GitHub-based updates."
+    "version":  "1.1.1",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.1.1/LendTech.Parent.Queue.1.1.1.Installer.exe",
+    "notes":  "Adds per-user profiles so each coworker keeps separate queue URLs, browser sessions, logs, aliases, and diagnostics while sharing the same base app."
 }
