@@ -1,6 +1,6 @@
 {
     "ok":  true,
-    "version":  "1.1.4",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.1.4/LendTech.Parent.Queue.1.1.4.Installer.exe",
-    "notes":  "Switches update checks to GitHub Contents API to avoid raw CDN caching. Includes stale-backend fix and per-user profiles."
+    "version":  "1.1.5",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.1.5/LendTech.Parent.Queue.1.1.5.Installer.exe",
+    "notes":  "Installer now installs/extracts the app to C:\\LendTech Parent Queue. No payload zip is kept locally."
 }
