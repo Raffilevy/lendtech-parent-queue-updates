@@ -1,7 +1,7 @@
 {
-    "version":  "1.2.4",
-    "latestVersion":  "1.2.4",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.2.4/LendTech.Parent.Queue.1.2.4.Installer.exe",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.2.4/LendTech.Parent.Queue.1.2.4.Installer.exe",
-    "notes":  "Adds domain validation for UFS/TruPath queue URLs, Google Chat reconnect alerts and health chips, visible app version/update notes, structured error codes, installer desktop shortcut, and stricter payload token/profile protection."
+    "version":  "1.2.5",
+    "latestVersion":  "1.2.5",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.2.5/LendTech.Parent.Queue.1.2.5.Installer.exe",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.2.5/LendTech.Parent.Queue.1.2.5.Installer.exe",
+    "notes":  "Replaced the return button/expanded queue overlay with a small desktop switcher that appears only when the main app is minimized. Buttons: UFS, TruPath, Max."
 }
