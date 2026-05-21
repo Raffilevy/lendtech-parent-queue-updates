@@ -1,7 +1,7 @@
 {
-    "version":  "1.2.5",
-    "latestVersion":  "1.2.5",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.2.5/LendTech.Parent.Queue.1.2.5.Installer.exe",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.2.5/LendTech.Parent.Queue.1.2.5.Installer.exe",
-    "notes":  "Replaced the return button/expanded queue overlay with a small desktop switcher that appears only when the main app is minimized. Buttons: UFS, TruPath, Max."
+    "version":  "1.2.6",
+    "latestVersion":  "1.2.6",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.2.6/LendTech.Parent.Queue.1.2.6.Installer.exe",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.2.6/LendTech.Parent.Queue.1.2.6.Installer.exe",
+    "notes":  "Fixes minimized-app switcher detection by watching Resize, WM_SIZE, and a state timer. The switcher now reasserts TopMost with SetWindowPos when shown."
 }
