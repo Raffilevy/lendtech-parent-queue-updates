@@ -1,7 +1,7 @@
 {
-    "version":  "1.2.8",
-    "latestVersion":  "1.2.8",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.2.8/LendTech.Parent.Queue.1.2.8.Installer.exe",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.2.8/LendTech.Parent.Queue.1.2.8.Installer.exe",
-    "notes":  "The minimize button now shows the UFS/TruPath/Max desktop switcher immediately before minimizing, removing timing issues with WindowState detection."
+    "version":  "1.2.9",
+    "latestVersion":  "1.2.9",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.2.9/LendTech.Parent.Queue.1.2.9.Installer.exe",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.2.9/LendTech.Parent.Queue.1.2.9.Installer.exe",
+    "notes":  "Minimize now deterministically shows the UFS/TruPath/Max switcher and hides the main window instead of relying on Windows minimized state."
 }
