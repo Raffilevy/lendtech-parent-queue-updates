@@ -1,7 +1,7 @@
 {
-    "version":  "1.3.10",
-    "latestVersion":  "1.3.10",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.10/LendTech.Parent.Queue.1.3.10.Installer.exe",
-    "notes":  "Fixes triple-click address bar selection with manual click-sequence tracking.",
-    "publishedAt":  "2026-05-28T21:19:40.0234461Z"
+    "version":  "1.3.11",
+    "latestVersion":  "1.3.11",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.11/LendTech.Parent.Queue.1.3.11.Installer.exe",
+    "notes":  "Speeds up Google OAuth completion by breaking the sign-in loop once auth ends and routing to the configured queue after a short settle check.",
+    "publishedAt":  "2026-05-28T21:24:59.0413124Z"
 }
