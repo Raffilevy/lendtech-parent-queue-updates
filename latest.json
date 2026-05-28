@@ -1,7 +1,7 @@
 {
-    "version":  "1.3.11",
-    "latestVersion":  "1.3.11",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.11/LendTech.Parent.Queue.1.3.11.Installer.exe",
-    "notes":  "Speeds up Google OAuth completion by breaking the sign-in loop once auth ends and routing to the configured queue after a short settle check.",
-    "publishedAt":  "2026-05-28T21:24:59.0413124Z"
+    "version":  "1.3.12",
+    "latestVersion":  "1.3.12",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.12/LendTech.Parent.Queue.1.3.12.Installer.exe",
+    "notes":  "Prevents premature OAuth callback interruption by waiting for non-auth LendTech pages before routing to queue, and hides transient aborted queue loads while retrying.",
+    "publishedAt":  "2026-05-28T21:28:10.8927759Z"
 }
