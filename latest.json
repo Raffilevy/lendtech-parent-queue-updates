@@ -1,7 +1,7 @@
 {
-    "version":  "1.3.3",
-    "latestVersion":  "1.3.3",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.3/LendTech.Parent.Queue.1.3.3.Installer.exe",
-    "notes":  "Hotfix: prevents a crash when opening a new blank browser tab before the form handle is ready.",
-    "publishedAt":  "2026-05-28T16:19:45.9073676Z"
+    "version":  "1.3.4",
+    "latestVersion":  "1.3.4",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.4/LendTech.Parent.Queue.1.3.4.Installer.exe",
+    "notes":  "Address bar polish: first click selects the full current address text even when the address bar already has focus.",
+    "publishedAt":  "2026-05-28T16:34:42.6808925Z"
 }
