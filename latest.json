@@ -1,7 +1,7 @@
 {
-    "version":  "1.3.6",
-    "latestVersion":  "1.3.6",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.6/LendTech.Parent.Queue.1.3.6.Installer.exe",
-    "notes":  "Address bar polish: uses a timing-based first-click select-all rule so WebView focus quirks do not block selection.",
-    "publishedAt":  "2026-05-28T18:40:34.8414704Z"
+    "version":  "1.3.7",
+    "latestVersion":  "1.3.7",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.7/LendTech.Parent.Queue.1.3.7.Installer.exe",
+    "notes":  "Address bar selection now follows Chrome-style first-click and triple-click behavior.",
+    "publishedAt":  "2026-05-28T20:17:18.3831482Z"
 }
