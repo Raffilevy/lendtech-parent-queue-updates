@@ -1,7 +1,7 @@
 {
-    "version":  "1.3.8",
-    "latestVersion":  "1.3.8",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.8/LendTech.Parent.Queue.1.3.8.Installer.exe",
-    "notes":  "Address bar now uses a custom browser-style text box so first-click selection is handled before native caret placement.",
-    "publishedAt":  "2026-05-28T20:38:23.5598381Z"
+    "version":  "1.3.9",
+    "latestVersion":  "1.3.9",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.9/LendTech.Parent.Queue.1.3.9.Installer.exe",
+    "notes":  "Refines address bar mouse behavior: first click selects all, second click places caret, double-click selects URL segment, triple-click selects all.",
+    "publishedAt":  "2026-05-28T21:02:24.3292523Z"
 }
