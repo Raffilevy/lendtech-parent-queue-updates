@@ -1,7 +1,7 @@
 {
-    "version":  "1.3.1",
-    "latestVersion":  "1.3.1",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.1/LendTech.Parent.Queue.1.3.1.Installer.exe",
-    "notes":  "Installer wizard build. Clean first-run setup, native Phase 5 app, shared Google OAuth client config, no user tokens or browser data.",
-    "publishedAt":  "2026-05-28T15:58:54.8293966Z"
+    "version":  "1.3.2",
+    "latestVersion":  "1.3.2",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.2/LendTech.Parent.Queue.1.3.2.Installer.exe",
+    "notes":  "Browser polish: new tabs focus an empty address bar, and first address-bar click selects the full URL.",
+    "publishedAt":  "2026-05-28T16:09:06.4393877Z"
 }
