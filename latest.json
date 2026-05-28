@@ -1,7 +1,7 @@
 {
-    "version":  "1.3.12",
-    "latestVersion":  "1.3.12",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.12/LendTech.Parent.Queue.1.3.12.Installer.exe",
-    "notes":  "Prevents premature OAuth callback interruption by waiting for non-auth LendTech pages before routing to queue, and hides transient aborted queue loads while retrying.",
-    "publishedAt":  "2026-05-28T21:28:10.8927759Z"
+    "version":  "1.3.13",
+    "latestVersion":  "1.3.13",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.13/LendTech.Parent.Queue.1.3.13.Installer.exe",
+    "notes":  "Fixes Set Name by preferring same-origin native API calls and adding CORS preflight support for native JSON POST routes.",
+    "publishedAt":  "2026-05-28T21:34:02.0780702Z"
 }
