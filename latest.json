@@ -1,7 +1,7 @@
 {
-    "version":  "1.3.16",
-    "latestVersion":  "1.3.16",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.16/LendTech.Parent.Queue.1.3.16.Installer.exe",
-    "notes":  "Disables the Refresh button while queue links are still loading and re-enables it once embedded UFS and TruPath queues are ready.",
-    "publishedAt":  "2026-05-29T16:41:08.6812120Z"
+    "version":  "1.3.17",
+    "latestVersion":  "1.3.17",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.17/LendTech.Parent.Queue.1.3.17.Installer.exe",
+    "notes":  "Prevents deal tabs and other non-default tabs from being redirected back to the configured queue page after navigation.",
+    "publishedAt":  "2026-05-29T17:21:36.9700733Z"
 }
