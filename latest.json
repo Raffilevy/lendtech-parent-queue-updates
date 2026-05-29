@@ -1,7 +1,7 @@
 {
-    "version":  "1.3.15",
-    "latestVersion":  "1.3.15",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.15/LendTech.Parent.Queue.1.3.15.Installer.exe",
-    "notes":  "Restores UFS View and TruPath View desktop switching by shipping the desktop switch helper dependency and adding an in-app hotkey fallback.",
-    "publishedAt":  "2026-05-29T16:35:38.2701392Z"
+    "version":  "1.3.16",
+    "latestVersion":  "1.3.16",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.16/LendTech.Parent.Queue.1.3.16.Installer.exe",
+    "notes":  "Disables the Refresh button while queue links are still loading and re-enables it once embedded UFS and TruPath queues are ready.",
+    "publishedAt":  "2026-05-29T16:41:08.6812120Z"
 }
