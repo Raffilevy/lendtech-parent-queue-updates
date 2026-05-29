@@ -1,7 +1,7 @@
 {
-    "version":  "1.3.13",
-    "latestVersion":  "1.3.13",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.13/LendTech.Parent.Queue.1.3.13.Installer.exe",
-    "notes":  "Fixes Set Name by preferring same-origin native API calls and adding CORS preflight support for native JSON POST routes.",
-    "publishedAt":  "2026-05-28T21:34:02.0780702Z"
+    "version":  "1.3.14",
+    "latestVersion":  "1.3.14",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.14/LendTech.Parent.Queue.1.3.14.Installer.exe",
+    "notes":  "Prevents startup/manual queue refresh until embedded UFS and TruPath queue links are ready, with a visible queue-link loading indicator.",
+    "publishedAt":  "2026-05-29T16:22:45.1798111Z"
 }
