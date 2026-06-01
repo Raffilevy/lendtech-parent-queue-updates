@@ -1,7 +1,7 @@
 {
-    "version":  "1.3.19",
-    "latestVersion":  "1.3.19",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.19/LendTech.Parent.Queue.1.3.19.Installer.exe",
-    "notes":  "Adds silent in-app update mode so updates install without showing the setup wizard while preserving local profile data and Google tokens.",
-    "publishedAt":  "2026-06-01T13:04:08.9494519Z"
+    "version":  "1.3.20",
+    "latestVersion":  "1.3.20",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.20/LendTech.Parent.Queue.1.3.20.Installer.exe",
+    "notes":  "Adds Google Drive app-data cloud sync for chat aliases, muted chats, and bookmarks. Reconnect Google once from Settings to grant Drive app-data permission.",
+    "publishedAt":  "2026-06-01T13:17:02.6983012Z"
 }
