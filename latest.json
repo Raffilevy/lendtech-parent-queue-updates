@@ -1,7 +1,7 @@
 {
-    "version":  "1.3.31",
-    "latestVersion":  "1.3.31",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.31/LendTech.Parent.Queue.1.3.31.Installer.exe",
-    "notes":  "Path/config alignment cleanup, faster Google Chat refresh with cached paginated spaces and refresh coalescing, normalized queue URLs, and consistent native backend metadata.",
-    "publishedAt":  "2026-06-01T18:39:46.3565897Z"
+    "version":  "1.3.32",
+    "latestVersion":  "1.3.32",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.32/LendTech.Parent.Queue.1.3.32.Installer.exe",
+    "notes":  "Google Chat refresh now uses async HttpClient calls with bounded concurrent space checks, plus the existing cached/paginated/coalesced refresh behavior.",
+    "publishedAt":  "2026-06-01T18:53:18.3714884Z"
 }
