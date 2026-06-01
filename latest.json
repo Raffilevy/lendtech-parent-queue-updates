@@ -1,7 +1,7 @@
 {
-    "version":  "1.3.27",
-    "latestVersion":  "1.3.27",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.27/LendTech.Parent.Queue.1.3.27.Installer.exe",
-    "notes":  "Prevents muted chat rows from reappearing from stale cached background sync data immediately after muting.",
-    "publishedAt":  "2026-06-01T15:04:32.9088506Z"
+    "version":  "1.3.28",
+    "latestVersion":  "1.3.28",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.28/LendTech.Parent.Queue.1.3.28.Installer.exe",
+    "notes":  "Consolidates work item, deal, and chat counts into one compact two-line summary chip.",
+    "publishedAt":  "2026-06-01T15:12:20.4899311Z"
 }
