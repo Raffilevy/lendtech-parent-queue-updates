@@ -1,7 +1,7 @@
 {
-    "version":  "1.3.20",
-    "latestVersion":  "1.3.20",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.20/LendTech.Parent.Queue.1.3.20.Installer.exe",
-    "notes":  "Adds Google Drive app-data cloud sync for chat aliases, muted chats, and bookmarks. Reconnect Google once from Settings to grant Drive app-data permission.",
-    "publishedAt":  "2026-06-01T13:17:02.6983012Z"
+    "version":  "1.3.21",
+    "latestVersion":  "1.3.21",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.21/LendTech.Parent.Queue.1.3.21.Installer.exe",
+    "notes":  "Keeps Google refresh tokens when reconnecting and automatically syncs chat aliases, muted chats, and bookmarks on app open when Google is already connected.",
+    "publishedAt":  "2026-06-01T13:22:59.9536650Z"
 }
