@@ -1,7 +1,7 @@
 {
-    "version":  "1.3.21",
-    "latestVersion":  "1.3.21",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.21/LendTech.Parent.Queue.1.3.21.Installer.exe",
-    "notes":  "Keeps Google refresh tokens when reconnecting and automatically syncs chat aliases, muted chats, and bookmarks on app open when Google is already connected.",
-    "publishedAt":  "2026-06-01T13:22:59.9536650Z"
+    "version":  "1.3.22",
+    "latestVersion":  "1.3.22",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.22/LendTech.Parent.Queue.1.3.22.Installer.exe",
+    "notes":  "Adds encrypted local backup and restore for embedded LendTech and Google session cookies so LendTech logins survive app restarts more reliably.",
+    "publishedAt":  "2026-06-01T13:31:47.7378709Z"
 }
