@@ -1,7 +1,7 @@
 {
-    "version":  "1.3.30",
-    "latestVersion":  "1.3.30",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.30/LendTech.Parent.Queue.1.3.30.Installer.exe",
-    "notes":  "Faster Google Chat refresh, independent saved zoom controls for Queue and embedded browsers, and installer reliability hardening.",
-    "publishedAt":  "2026-06-01T18:18:56.4114387Z"
+    "version":  "1.3.31",
+    "latestVersion":  "1.3.31",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.31/LendTech.Parent.Queue.1.3.31.Installer.exe",
+    "notes":  "Path/config alignment cleanup, faster Google Chat refresh with cached paginated spaces and refresh coalescing, normalized queue URLs, and consistent native backend metadata.",
+    "publishedAt":  "2026-06-01T18:39:46.3565897Z"
 }
