@@ -1,7 +1,7 @@
 {
-    "version":  "1.3.25",
-    "latestVersion":  "1.3.25",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.25/LendTech.Parent.Queue.1.3.25.Installer.exe",
-    "notes":  "Adds Last Synced next to the version and immediately updates chat rows after setting a name or muting a chat.",
-    "publishedAt":  "2026-06-01T14:37:21.5320545Z"
+    "version":  "1.3.26",
+    "latestVersion":  "1.3.26",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.26/LendTech.Parent.Queue.1.3.26.Installer.exe",
+    "notes":  "Adds a Google OAuth listener check before Connect Google so users see a clear restart message instead of a 127.0.0.1 connection error.",
+    "publishedAt":  "2026-06-01T14:57:19.2693266Z"
 }
