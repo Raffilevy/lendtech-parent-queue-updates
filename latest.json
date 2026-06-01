@@ -1,7 +1,7 @@
 {
-    "version":  "1.3.33",
-    "latestVersion":  "1.3.33",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.33/LendTech.Parent.Queue.1.3.33.Installer.exe",
-    "notes":  "Google Chat refresh now publishes unread chat rows incrementally while the refresh is still running.",
-    "publishedAt":  "2026-06-01T19:16:52.9629058Z"
+    "version":  "1.3.34",
+    "latestVersion":  "1.3.34",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.34/LendTech.Parent.Queue.1.3.34.Installer.exe",
+    "notes":  "Adds configurable Google Chat lookback window. Default is 7 days, with 1/3/7/14/30 day options in Settings.",
+    "publishedAt":  "2026-06-01T19:24:55.9096083Z"
 }
