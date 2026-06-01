@@ -1,7 +1,7 @@
 {
-    "version":  "1.3.28",
-    "latestVersion":  "1.3.28",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.28/LendTech.Parent.Queue.1.3.28.Installer.exe",
-    "notes":  "Consolidates work item, deal, and chat counts into one compact two-line summary chip.",
-    "publishedAt":  "2026-06-01T15:12:20.4899311Z"
+    "version":  "1.3.29",
+    "latestVersion":  "1.3.29",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.29/LendTech.Parent.Queue.1.3.29.Installer.exe",
+    "notes":  "Restores last visible queue rows on app startup, keeps the app open when clicking chats, matches the count chip height, and starts maximized.",
+    "publishedAt":  "2026-06-01T15:18:56.9417390Z"
 }
