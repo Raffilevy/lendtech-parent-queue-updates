@@ -1,7 +1,7 @@
 {
-    "version":  "1.3.22",
-    "latestVersion":  "1.3.22",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.22/LendTech.Parent.Queue.1.3.22.Installer.exe",
-    "notes":  "Adds encrypted local backup and restore for embedded LendTech and Google session cookies so LendTech logins survive app restarts more reliably.",
-    "publishedAt":  "2026-06-01T13:31:47.7378709Z"
+    "version":  "1.3.23",
+    "latestVersion":  "1.3.23",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.23/LendTech.Parent.Queue.1.3.23.Installer.exe",
+    "notes":  "Hides Google OAuth client ID and secret from Settings while keeping the packaged OAuth configuration available to the backend.",
+    "publishedAt":  "2026-06-01T14:07:36.1194155Z"
 }
