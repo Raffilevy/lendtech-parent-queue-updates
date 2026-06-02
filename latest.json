@@ -1,10 +1,10 @@
 {
-    "version":  "1.3.56",
-    "latestVersion":  "1.3.56",
-    "payloadVersion":  "1.3.56",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.56/LendTech.Parent.Queue.1.3.56.Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.56/LendTech.Parent.Queue.1.3.56.Installer.exe",
-    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.56/LendTech.Parent.Queue.1.3.56.Installer.exe",
-    "notes":  "Admin-only activity panel for Raffi/local admin users, local app activity logging, and recent activity included in safe diagnostics. Activity logs capture app events only, not passwords, cookies, tokens, or page contents.",
-    "publishedAt":  "2026-06-02T20:12:34.2870962Z"
+    "version":  "1.3.57",
+    "latestVersion":  "1.3.57",
+    "payloadVersion":  "1.3.57",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.57/LendTech.Parent.Queue.1.3.57.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.57/LendTech.Parent.Queue.1.3.57.Installer.exe",
+    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.57/LendTech.Parent.Queue.1.3.57.Installer.exe",
+    "notes":  "Admin activity logging now records only manual/user-triggered actions. Auto-refreshes, app open, and background sync events are not logged.",
+    "publishedAt":  "2026-06-02T20:18:40.5436000Z"
 }
