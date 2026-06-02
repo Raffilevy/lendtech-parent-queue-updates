@@ -1,8 +1,8 @@
 {
-    "version":  "1.3.49",
-    "publishedAt":  "2026-06-02T14:02:22.6959658Z",
-    "notes":  "- Fixed browser tab activation so regular links/new-window opens jump to the new tab again.\n- Kept mouse-wheel/middle-click link opens in the background.",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.49/LendTech.Parent.Queue.1.3.49.Installer.exe",
-    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.49/LendTech.Parent.Queue.1.3.49.Installer.exe",
-    "payloadVersion":  "1.3.49"
+    "version":  "1.3.50",
+    "publishedAt":  "2026-06-02T14:16:42.4713595Z",
+    "notes":  "- Fixed middle-click link opening by catching both mousedown and auxclick in the embedded browser.\n- Middle-click opens links in a background tab; regular link opens still activate the new tab.",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.50/LendTech.Parent.Queue.1.3.50.Installer.exe",
+    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.50/LendTech.Parent.Queue.1.3.50.Installer.exe",
+    "payloadVersion":  "1.3.50"
 }
