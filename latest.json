@@ -1,9 +1,9 @@
 {
-    "latestVersion":  "1.3.37",
-    "version":  "1.3.37",
-    "publishedAt":  "2026-06-01T21:17:33.4077005Z",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.37/LendTech.Parent.Queue.1.3.37.Installer.exe",
-    "notes":  "Fixes tab right-click menu conflict and adds Mute tab / Unmute tab audio controls.",
-    "fileName":  "LendTech Parent Queue 1.3.37 Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.37/LendTech.Parent.Queue.1.3.37.Installer.exe"
+    "latestVersion":  "1.3.38",
+    "version":  "1.3.38",
+    "publishedAt":  "2026-06-02T12:20:44.4404592Z",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.38/LendTech.Parent.Queue.1.3.38.Installer.exe",
+    "notes":  "Fixes coworker queue readiness detection and automatic Report Issue submission.",
+    "fileName":  "LendTech Parent Queue 1.3.38 Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.38/LendTech.Parent.Queue.1.3.38.Installer.exe"
 }
