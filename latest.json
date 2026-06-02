@@ -1,9 +1,9 @@
 {
-    "latestVersion":  "1.3.40",
-    "version":  "1.3.40",
-    "publishedAt":  "2026-06-02T12:42:20.5150627Z",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.40/LendTech.Parent.Queue.1.3.40.Installer.exe",
-    "notes":  "Adds custom queue colors and a neutral no-account-color mode in Settings.",
-    "fileName":  "LendTech Parent Queue 1.3.40 Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.40/LendTech.Parent.Queue.1.3.40.Installer.exe"
+    "latestVersion":  "1.3.41",
+    "version":  "1.3.41",
+    "publishedAt":  "2026-06-02T12:50:30.5115901Z",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.41/LendTech.Parent.Queue.1.3.41.Installer.exe",
+    "notes":  "Simplifies Queue Colors settings: saving colors enables them, Default Colors restores the built-in palette, and No Colors returns to neutral styling.",
+    "fileName":  "LendTech Parent Queue 1.3.41 Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.41/LendTech.Parent.Queue.1.3.41.Installer.exe"
 }
