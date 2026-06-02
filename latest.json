@@ -1,10 +1,10 @@
 {
-    "version":  "1.3.57",
-    "latestVersion":  "1.3.57",
-    "payloadVersion":  "1.3.57",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.57/LendTech.Parent.Queue.1.3.57.Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.57/LendTech.Parent.Queue.1.3.57.Installer.exe",
-    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.57/LendTech.Parent.Queue.1.3.57.Installer.exe",
-    "notes":  "Admin activity logging now records only manual/user-triggered actions. Auto-refreshes, app open, and background sync events are not logged.",
-    "publishedAt":  "2026-06-02T20:18:40.5436000Z"
+    "version":  "1.3.58",
+    "latestVersion":  "1.3.58",
+    "payloadVersion":  "1.3.58",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.58/LendTech.Parent.Queue.1.3.58.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.58/LendTech.Parent.Queue.1.3.58.Installer.exe",
+    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.58/LendTech.Parent.Queue.1.3.58.Installer.exe",
+    "notes":  "Admin Activity now includes summary cards for Today, Last 7 days, and All logged manual actions, while keeping exact timestamped manual events below.",
+    "publishedAt":  "2026-06-02T20:50:06.2204915Z"
 }
