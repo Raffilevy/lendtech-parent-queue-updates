@@ -1,10 +1,10 @@
 {
-    "version":  "1.3.61",
-    "latestVersion":  "1.3.61",
-    "payloadVersion":  "1.3.61",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.61/LendTech.Parent.Queue.1.3.61.Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.61/LendTech.Parent.Queue.1.3.61.Installer.exe",
-    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.61/LendTech.Parent.Queue.1.3.61.Installer.exe",
-    "notes":  "Activity sync added. Each computer uploads its last 7 days of manual activity to GitHub activity-reports after manual actions, and the admin activity view reads synced reports across users.",
-    "publishedAt":  "2026-06-02T21:25:23.2615517Z"
+    "version":  "1.3.62",
+    "latestVersion":  "1.3.62",
+    "payloadVersion":  "1.3.62",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.62/LendTech.Parent.Queue.1.3.62.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.62/LendTech.Parent.Queue.1.3.62.Installer.exe",
+    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.62/LendTech.Parent.Queue.1.3.62.Installer.exe",
+    "notes":  "Automatic updates added. The app checks for updates every 15 minutes while open and silently downloads/launches the installer when a newer version is available.",
+    "publishedAt":  "2026-06-02T21:30:03.1904081Z"
 }
