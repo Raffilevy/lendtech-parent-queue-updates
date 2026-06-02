@@ -1,8 +1,8 @@
 {
-    "version":  "1.3.44",
-    "publishedAt":  "2026-06-02T13:25:53.8884485Z",
-    "notes":  "- Source-column labels and left rails now follow the selected queue theme colors. No Colors still removes the source rails.\n- Rebalanced the preset themes so UFS/TruPath deal and chat colors are more diverse and less green-heavy.",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.44/LendTech.Parent.Queue.1.3.44.Installer.exe",
-    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.44/LendTech.Parent.Queue.1.3.44.Installer.exe",
-    "payloadVersion":  "1.3.44"
+    "version":  "1.3.45",
+    "publishedAt":  "2026-06-02T13:35:57.4199390Z",
+    "notes":  "- Made the Source column labels and left rails brighter and thicker so account/source markings stand out more.\n- Rebuilt the theme presets into cleaner color families, including red, orange, yellow, green, cyan, blue, and purple options, plus a few balanced mixed themes.",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.45/LendTech.Parent.Queue.1.3.45.Installer.exe",
+    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.45/LendTech.Parent.Queue.1.3.45.Installer.exe",
+    "payloadVersion":  "1.3.45"
 }
