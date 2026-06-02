@@ -1,8 +1,8 @@
 {
-    "version":  "1.3.45",
-    "publishedAt":  "2026-06-02T13:35:57.4199390Z",
-    "notes":  "- Made the Source column labels and left rails brighter and thicker so account/source markings stand out more.\n- Rebuilt the theme presets into cleaner color families, including red, orange, yellow, green, cyan, blue, and purple options, plus a few balanced mixed themes.",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.45/LendTech.Parent.Queue.1.3.45.Installer.exe",
-    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.45/LendTech.Parent.Queue.1.3.45.Installer.exe",
-    "payloadVersion":  "1.3.45"
+    "version":  "1.3.46",
+    "publishedAt":  "2026-06-02T13:42:26.6469033Z",
+    "notes":  "- Removed the glow from Source labels.\n- Changed Source label and rail color generation so they stay vivid and theme-colored instead of washing out toward white.",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.46/LendTech.Parent.Queue.1.3.46.Installer.exe",
+    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.46/LendTech.Parent.Queue.1.3.46.Installer.exe",
+    "payloadVersion":  "1.3.46"
 }
