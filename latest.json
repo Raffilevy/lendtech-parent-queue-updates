@@ -1,10 +1,10 @@
 {
-    "version":  "1.3.55",
-    "latestVersion":  "1.3.55",
-    "payloadVersion":  "1.3.55",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.55/LendTech.Parent.Queue.1.3.55.Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.55/LendTech.Parent.Queue.1.3.55.Installer.exe",
-    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.55/LendTech.Parent.Queue.1.3.55.Installer.exe",
-    "notes":  "- Fixed startup Refresh staying disabled when saved queue rows were restored from the previous session.\n- Cached queue data no longer prevents the app from checking embedded browser readiness and unlocking Refresh immediately.",
-    "publishedAt":  "2026-06-02T19:20:11.3329913Z"
+    "version":  "1.3.56",
+    "latestVersion":  "1.3.56",
+    "payloadVersion":  "1.3.56",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.56/LendTech.Parent.Queue.1.3.56.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.56/LendTech.Parent.Queue.1.3.56.Installer.exe",
+    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.56/LendTech.Parent.Queue.1.3.56.Installer.exe",
+    "notes":  "Admin-only activity panel for Raffi/local admin users, local app activity logging, and recent activity included in safe diagnostics. Activity logs capture app events only, not passwords, cookies, tokens, or page contents.",
+    "publishedAt":  "2026-06-02T20:12:34.2870962Z"
 }
