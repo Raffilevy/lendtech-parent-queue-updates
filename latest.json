@@ -1,8 +1,8 @@
 {
-    "version":  "1.3.52",
-    "publishedAt":  "2026-06-02T19:00:47.7925345Z",
-    "notes":  "- Google Chat unread messages now stay as separate queue rows instead of bundling by chat source.\n- Separate messages from the same chat can now be interleaved with deals according to their received/waiting time.",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.52/LendTech.Parent.Queue.1.3.52.Installer.exe",
-    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.52/LendTech.Parent.Queue.1.3.52.Installer.exe",
-    "payloadVersion":  "1.3.52"
+    "version":  "1.3.53",
+    "publishedAt":  "2026-06-02T19:04:08.9868931Z",
+    "notes":  "- Consecutive unread Google Chat messages from the same source bundle together again.\n- Bundles now split whenever a deal is chronologically between those messages, so deals can appear between messages from the same chat.",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.53/LendTech.Parent.Queue.1.3.53.Installer.exe",
+    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.53/LendTech.Parent.Queue.1.3.53.Installer.exe",
+    "payloadVersion":  "1.3.53"
 }
