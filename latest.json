@@ -1,8 +1,8 @@
 {
-    "version":  "1.3.46",
-    "publishedAt":  "2026-06-02T13:42:26.6469033Z",
-    "notes":  "- Removed the glow from Source labels.\n- Changed Source label and rail color generation so they stay vivid and theme-colored instead of washing out toward white.",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.46/LendTech.Parent.Queue.1.3.46.Installer.exe",
-    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.46/LendTech.Parent.Queue.1.3.46.Installer.exe",
-    "payloadVersion":  "1.3.46"
+    "version":  "1.3.47",
+    "publishedAt":  "2026-06-02T13:48:03.9453777Z",
+    "notes":  "- Replaced the Solar preset with a Cyberpunk preset so it no longer overlaps with Amber.\n- Reduced purple-heavy TruPath deal/chat colors across the theme presets, using more navy, cobalt, slate, and teal instead.",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.47/LendTech.Parent.Queue.1.3.47.Installer.exe",
+    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.47/LendTech.Parent.Queue.1.3.47.Installer.exe",
+    "payloadVersion":  "1.3.47"
 }
