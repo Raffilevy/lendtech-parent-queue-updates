@@ -1,10 +1,10 @@
 {
-    "version":  "1.3.75",
-    "publishedAt":  "2026-06-03T17:37:58.7773225Z",
-    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.75/LendTech.Parent.Queue.1.3.75.Installer.exe",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.75/LendTech.Parent.Queue.1.3.75.Installer.exe",
-    "latestVersion":  "1.3.75",
-    "payloadVersion":  "1.3.75",
-    "notes":  "Fixes Settings responsiveness by moving admin activity/version loading off the UI request path, adding Settings fetch timeouts, and delaying version check-in until after startup settles.",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.75/LendTech.Parent.Queue.1.3.75.Installer.exe"
+    "version":  "1.3.76",
+    "publishedAt":  "2026-06-03T18:00:46.3981342Z",
+    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.76/LendTech.Parent.Queue.1.3.76.Installer.exe",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.76/LendTech.Parent.Queue.1.3.76.Installer.exe",
+    "latestVersion":  "1.3.76",
+    "payloadVersion":  "1.3.76",
+    "notes":  "Fixes empty Settings fields by preferring same-window native config loading, retrying Settings startup, and preventing multiple app instances from running at once.",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.76/LendTech.Parent.Queue.1.3.76.Installer.exe"
 }
