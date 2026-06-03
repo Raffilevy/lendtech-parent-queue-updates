@@ -1,10 +1,10 @@
 {
-    "version":  "1.3.67",
-    "publishedAt":  "2026-06-03T13:39:52.7920370Z",
-    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.67/LendTech.Parent.Queue.1.3.67.Installer.exe",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.67/LendTech.Parent.Queue.1.3.67.Installer.exe",
-    "latestVersion":  "1.3.67",
-    "payloadVersion":  "1.3.67",
-    "notes":  "Prevents Google Chat rows from briefly splitting apart during refresh by normalizing bundled rows at render time.",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.67/LendTech.Parent.Queue.1.3.67.Installer.exe"
+    "version":  "1.3.68",
+    "publishedAt":  "2026-06-03T13:45:28.1902196Z",
+    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.68/LendTech.Parent.Queue.1.3.68.Installer.exe",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.68/LendTech.Parent.Queue.1.3.68.Installer.exe",
+    "latestVersion":  "1.3.68",
+    "payloadVersion":  "1.3.68",
+    "notes":  "Keeps unread Google Chat rows visible during in-progress chat refreshes until a completed refresh confirms they were read/cleared.",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.68/LendTech.Parent.Queue.1.3.68.Installer.exe"
 }
