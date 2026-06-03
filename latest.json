@@ -1,10 +1,10 @@
 {
-    "version":  "1.3.70",
-    "publishedAt":  "2026-06-03T14:15:58.1505169Z",
-    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.70/LendTech.Parent.Queue.1.3.70.Installer.exe",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.70/LendTech.Parent.Queue.1.3.70.Installer.exe",
-    "latestVersion":  "1.3.70",
-    "payloadVersion":  "1.3.70",
-    "notes":  "Startup fix: the app no longer disables Refresh or gets stuck on Opening queue links while embedded browsers initialize. Manual refresh starts immediately; auto refresh waits only for a short warm-up.",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.70/LendTech.Parent.Queue.1.3.70.Installer.exe"
+    "version":  "1.3.71",
+    "publishedAt":  "2026-06-03T15:14:08.5653630Z",
+    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.71/LendTech.Parent.Queue.1.3.71.Installer.exe",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.71/LendTech.Parent.Queue.1.3.71.Installer.exe",
+    "latestVersion":  "1.3.71",
+    "payloadVersion":  "1.3.71",
+    "notes":  "Deal clicks now open in the correct embedded browser and switch to the matching UFS or TruPath desktop view.",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.71/LendTech.Parent.Queue.1.3.71.Installer.exe"
 }
