@@ -1,10 +1,10 @@
 {
-    "version":  "1.3.73",
-    "publishedAt":  "2026-06-03T16:14:08.0758005Z",
-    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.73/LendTech.Parent.Queue.1.3.73.Installer.exe",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.73/LendTech.Parent.Queue.1.3.73.Installer.exe",
-    "latestVersion":  "1.3.73",
-    "payloadVersion":  "1.3.73",
-    "notes":  "Fixes stale Google Chat rows staying in the queue after messages are read. Chat rows are now preserved only while that specific account is still refreshing, then cleared when Google confirms no unread messages.",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.73/LendTech.Parent.Queue.1.3.73.Installer.exe"
+    "version":  "1.3.74",
+    "publishedAt":  "2026-06-03T16:34:37.9225261Z",
+    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.74/LendTech.Parent.Queue.1.3.74.Installer.exe",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.74/LendTech.Parent.Queue.1.3.74.Installer.exe",
+    "latestVersion":  "1.3.74",
+    "payloadVersion":  "1.3.74",
+    "notes":  "Adds admin version tracking. The app now reports a small version check-in on launch/update, and Raffi\u0027s admin panel shows user, machine, installed version, and last seen time.",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.74/LendTech.Parent.Queue.1.3.74.Installer.exe"
 }
