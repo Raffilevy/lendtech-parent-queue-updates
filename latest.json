@@ -1,10 +1,10 @@
 {
     "version":  "1.3.72",
-    "publishedAt":  "2026-06-03T15:19:12.7994215Z",
+    "publishedAt":  "2026-06-03T15:20:40.6839039Z",
     "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.72/LendTech.Parent.Queue.1.3.72.Installer.exe",
     "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.72/LendTech.Parent.Queue.1.3.72.Installer.exe",
     "latestVersion":  "1.3.72",
     "payloadVersion":  "1.3.72",
-    "notes":  "Stability follow-up: deal clicks now wait briefly after opening the embedded tab before switching desktops, preventing the app/browser from getting visually out of sync.",
+    "notes":  "Adds a short handoff delay before switching desktops after a deal click, so the embedded deal tab has time to open first.",
     "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.72/LendTech.Parent.Queue.1.3.72.Installer.exe"
 }
