@@ -1,10 +1,10 @@
 {
-    "version":  "1.3.64",
-    "publishedAt":  "2026-06-03T13:05:45.4351899Z",
-    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.64/LendTech.Parent.Queue.1.3.64.Installer.exe",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.64/LendTech.Parent.Queue.1.3.64.Installer.exe",
-    "latestVersion":  "1.3.64",
-    "payloadVersion":  "1.3.64",
-    "notes":  "Fixes queue refresh success when Google Chat is not connected and includes inline diagnostics if report upload fails.",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.64/LendTech.Parent.Queue.1.3.64.Installer.exe"
+    "version":  "1.3.65",
+    "publishedAt":  "2026-06-03T13:15:33.5694795Z",
+    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.65/LendTech.Parent.Queue.1.3.65.Installer.exe",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.65/LendTech.Parent.Queue.1.3.65.Installer.exe",
+    "latestVersion":  "1.3.65",
+    "payloadVersion":  "1.3.65",
+    "notes":  "Adds Settings \u003e Google Chat option to hide all Google Chat messages from the queue. Deals still refresh normally.",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.65/LendTech.Parent.Queue.1.3.65.Installer.exe"
 }
