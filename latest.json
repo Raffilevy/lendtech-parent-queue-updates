@@ -1,10 +1,10 @@
 {
-    "version":  "1.3.74",
-    "publishedAt":  "2026-06-03T16:34:37.9225261Z",
-    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.74/LendTech.Parent.Queue.1.3.74.Installer.exe",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.74/LendTech.Parent.Queue.1.3.74.Installer.exe",
-    "latestVersion":  "1.3.74",
-    "payloadVersion":  "1.3.74",
-    "notes":  "Adds admin version tracking. The app now reports a small version check-in on launch/update, and Raffi\u0027s admin panel shows user, machine, installed version, and last seen time.",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.74/LendTech.Parent.Queue.1.3.74.Installer.exe"
+    "version":  "1.3.75",
+    "publishedAt":  "2026-06-03T17:37:58.7773225Z",
+    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.75/LendTech.Parent.Queue.1.3.75.Installer.exe",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.75/LendTech.Parent.Queue.1.3.75.Installer.exe",
+    "latestVersion":  "1.3.75",
+    "payloadVersion":  "1.3.75",
+    "notes":  "Fixes Settings responsiveness by moving admin activity/version loading off the UI request path, adding Settings fetch timeouts, and delaying version check-in until after startup settles.",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.75/LendTech.Parent.Queue.1.3.75.Installer.exe"
 }
