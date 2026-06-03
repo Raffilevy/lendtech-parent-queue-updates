@@ -1,10 +1,10 @@
 {
-    "version":  "1.3.71",
-    "publishedAt":  "2026-06-03T15:14:08.5653630Z",
-    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.71/LendTech.Parent.Queue.1.3.71.Installer.exe",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.71/LendTech.Parent.Queue.1.3.71.Installer.exe",
-    "latestVersion":  "1.3.71",
-    "payloadVersion":  "1.3.71",
-    "notes":  "Deal clicks now open in the correct embedded browser and switch to the matching UFS or TruPath desktop view.",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.71/LendTech.Parent.Queue.1.3.71.Installer.exe"
+    "version":  "1.3.72",
+    "publishedAt":  "2026-06-03T15:19:12.7994215Z",
+    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.72/LendTech.Parent.Queue.1.3.72.Installer.exe",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.72/LendTech.Parent.Queue.1.3.72.Installer.exe",
+    "latestVersion":  "1.3.72",
+    "payloadVersion":  "1.3.72",
+    "notes":  "Stability follow-up: deal clicks now wait briefly after opening the embedded tab before switching desktops, preventing the app/browser from getting visually out of sync.",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.72/LendTech.Parent.Queue.1.3.72.Installer.exe"
 }
