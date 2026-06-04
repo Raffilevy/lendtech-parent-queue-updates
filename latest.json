@@ -1,10 +1,10 @@
 {
-    "version":  "1.3.78",
-    "publishedAt":  "2026-06-04T14:01:37.5796194Z",
-    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.78/LendTech.Parent.Queue.1.3.78.Installer.exe",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.78/LendTech.Parent.Queue.1.3.78.Installer.exe",
-    "latestVersion":  "1.3.78",
-    "payloadVersion":  "1.3.78",
-    "notes":  "Fixes invisible text on the built-in browser sign-in/error page action buttons. The buttons now keep high-contrast labels regardless of selected theme.",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.78/LendTech.Parent.Queue.1.3.78.Installer.exe"
+    "version":  "1.3.79",
+    "publishedAt":  "2026-06-04T14:53:52.2058499Z",
+    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.79/LendTech.Parent.Queue.1.3.79.Installer.exe",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.79/LendTech.Parent.Queue.1.3.79.Installer.exe",
+    "latestVersion":  "1.3.79",
+    "payloadVersion":  "1.3.79",
+    "notes":  "Adds Chrome-style tab behavior in the built-in browsers: middle-click tab close, full tab context menu, tab overflow scrolling, MRU Ctrl+Tab, Ctrl+T/Ctrl+W/Ctrl+Shift+T/Ctrl+number shortcuts, restore closed tabs with original index, opener-adjacent new tabs, and persisted tab order.",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.79/LendTech.Parent.Queue.1.3.79.Installer.exe"
 }
