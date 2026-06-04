@@ -1,10 +1,10 @@
 {
-    "version":  "1.3.82",
-    "publishedAt":  "2026-06-04T16:18:17.1016502Z",
-    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.82/LendTech.Parent.Queue.1.3.82.Installer.exe",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.82/LendTech.Parent.Queue.1.3.82.Installer.exe",
-    "latestVersion":  "1.3.82",
-    "payloadVersion":  "1.3.82",
-    "notes":  "Maintenance cleanup: removes stale generated build artifacts locally, removes dead shortcut/loopback helper code, and trims the shipped installer payload by excluding the unused WebView2 reference package while keeping required runtime DLLs and desktop switching support.",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.82/LendTech.Parent.Queue.1.3.82.Installer.exe"
+    "version":  "1.3.83",
+    "publishedAt":  "2026-06-04T19:03:21.6135192Z",
+    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.83/LendTech.Parent.Queue.1.3.83.Installer.exe",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.83/LendTech.Parent.Queue.1.3.83.Installer.exe",
+    "latestVersion":  "1.3.83",
+    "payloadVersion":  "1.3.83",
+    "notes":  "Fixes Charles TruPath refresh failure: removes the old TruPath criteriaName=Que scrape redirect so coworker-specific queue URLs are accepted, and makes empty scrape results post a clear warning payload instead of leaving refresh stuck or showing failed to fetch.",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.83/LendTech.Parent.Queue.1.3.83.Installer.exe"
 }
