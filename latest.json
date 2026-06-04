@@ -1,10 +1,10 @@
 {
-    "version":  "1.3.80",
-    "publishedAt":  "2026-06-04T15:05:43.1595799Z",
-    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.80/LendTech.Parent.Queue.1.3.80.Installer.exe",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.80/LendTech.Parent.Queue.1.3.80.Installer.exe",
-    "latestVersion":  "1.3.80",
-    "payloadVersion":  "1.3.80",
-    "notes":  "Fixes tab-strip regressions from 1.3.79: middle-click closes tabs reliably, the new-tab plus button stays visible, and tab context menu separators now render in the selected dark theme instead of showing a white line.",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.80/LendTech.Parent.Queue.1.3.80.Installer.exe"
+    "version":  "1.3.81",
+    "publishedAt":  "2026-06-04T15:28:48.6500629Z",
+    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.81/LendTech.Parent.Queue.1.3.81.Installer.exe",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.81/LendTech.Parent.Queue.1.3.81.Installer.exe",
+    "latestVersion":  "1.3.81",
+    "payloadVersion":  "1.3.81",
+    "notes":  "Fixes the built-in browser tab strip: the new-tab plus button now stays directly after the visible tabs, and tab context menus no longer show the light image-margin line.",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.81/LendTech.Parent.Queue.1.3.81.Installer.exe"
 }
