@@ -1,10 +1,10 @@
 {
-    "version":  "1.3.77",
-    "publishedAt":  "2026-06-03T18:09:11.3701933Z",
-    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.77/LendTech.Parent.Queue.1.3.77.Installer.exe",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.77/LendTech.Parent.Queue.1.3.77.Installer.exe",
-    "latestVersion":  "1.3.77",
-    "payloadVersion":  "1.3.77",
-    "notes":  "Fixes Settings startup by removing a JavaScript syntax error that prevented setup.js from running. Settings fields, theme presets, and queue URLs should populate again.",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.77/LendTech.Parent.Queue.1.3.77.Installer.exe"
+    "version":  "1.3.78",
+    "publishedAt":  "2026-06-04T14:01:37.5796194Z",
+    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.78/LendTech.Parent.Queue.1.3.78.Installer.exe",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.78/LendTech.Parent.Queue.1.3.78.Installer.exe",
+    "latestVersion":  "1.3.78",
+    "payloadVersion":  "1.3.78",
+    "notes":  "Fixes invisible text on the built-in browser sign-in/error page action buttons. The buttons now keep high-contrast labels regardless of selected theme.",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.78/LendTech.Parent.Queue.1.3.78.Installer.exe"
 }
