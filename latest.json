@@ -1,10 +1,10 @@
 {
-    "version":  "1.3.83",
-    "publishedAt":  "2026-06-04T19:03:21.6135192Z",
-    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.83/LendTech.Parent.Queue.1.3.83.Installer.exe",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.83/LendTech.Parent.Queue.1.3.83.Installer.exe",
-    "latestVersion":  "1.3.83",
-    "payloadVersion":  "1.3.83",
-    "notes":  "Fixes Charles TruPath refresh failure: removes the old TruPath criteriaName=Que scrape redirect so coworker-specific queue URLs are accepted, and makes empty scrape results post a clear warning payload instead of leaving refresh stuck or showing failed to fetch.",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.83/LendTech.Parent.Queue.1.3.83.Installer.exe"
+    "version":  "1.3.84",
+    "publishedAt":  "2026-06-05T13:59:16.4983666Z",
+    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.84/LendTech.Parent.Queue.1.3.84.Installer.exe",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.84/LendTech.Parent.Queue.1.3.84.Installer.exe",
+    "latestVersion":  "1.3.84",
+    "payloadVersion":  "1.3.84",
+    "notes":  "Reduces startup and idle-lock freezes: hidden LendTech browser warmup is now delayed and staggered, settings/status/Google/sync API calls run off the WebView UI path, diagnostic snapshot writes are throttled in the background, and startup cloud sync waits until the UI has settled.",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.3.84/LendTech.Parent.Queue.1.3.84.Installer.exe"
 }
