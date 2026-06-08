@@ -1,10 +1,10 @@
 {
-    "version":  "1.4.0",
-    "publishedAt":  "2026-06-08T14:17:01.0650220Z",
-    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.4.0/LendTech.Parent.Queue.1.4.0.Installer.exe",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.4.0/LendTech.Parent.Queue.1.4.0.Installer.exe",
-    "latestVersion":  "1.4.0",
-    "payloadVersion":  "1.4.0",
-    "notes":  "Adds Contracts Back: a separate Gmail-powered contracts queue, shared Done/Working/Delete status, manual contract add, and Gmail readonly support. Reconnect Google once after updating so Gmail permission is granted.",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.4.0/LendTech.Parent.Queue.1.4.0.Installer.exe"
+    "version":  "1.4.1",
+    "publishedAt":  "2026-06-08T16:13:51.2306473Z",
+    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.4.1/LendTech.Parent.Queue.1.4.1.Installer.exe",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.4.1/LendTech.Parent.Queue.1.4.1.Installer.exe",
+    "latestVersion":  "1.4.1",
+    "payloadVersion":  "1.4.1",
+    "notes":  "Contracts Back fixes: Gmail refresh errors no longer get overwritten by background sync, Gmail permission is independent from Google Chat refresh, and test emails like â€œContracts Signed for TESTâ€ can appear even without a deal ID.",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.4.1/LendTech.Parent.Queue.1.4.1.Installer.exe"
 }
