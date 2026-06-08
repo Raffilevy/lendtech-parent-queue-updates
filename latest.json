@@ -1,7 +1,7 @@
 {
-    "latestVersion":  "1.4.10",
-    "publishedAt":  "2026-06-08T20:14:19.7144262Z",
-    "version":  "1.4.10",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.4.10/LendTech.Parent.Queue.1.4.10.Installer.exe",
-    "notes":  "Court searches now stop after clicking NYSCEF Search so results stay open. Contracts Back status changes now sync through a central GitHub state file so all users can see the same statuses."
+    "latestVersion":  "1.4.11",
+    "publishedAt":  "2026-06-08T20:27:03.2059001Z",
+    "version":  "1.4.11",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.4.11/LendTech.Parent.Queue.1.4.11.Installer.exe",
+    "notes":  "Contracts Back now checks shared status every 5 seconds. Court search now opens CaseSearch, activates the Name tab, fills only after the Name form appears, and clicks the Search button closest to those fields."
 }
