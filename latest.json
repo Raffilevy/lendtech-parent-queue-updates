@@ -1,7 +1,7 @@
 {
-    "latestVersion":  "1.4.15",
-    "publishedAt":  "2026-06-08T21:16:08.2592107Z",
-    "version":  "1.4.15",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.4.15/LendTech.Parent.Queue.1.4.15.Installer.exe",
-    "notes":  "Fixes Court Search duplicate owner searches on deals with multiple principals by de-duping personal names by first and last name while preserving fuller middle-name versions when available."
+    "latestVersion":  "1.4.16",
+    "publishedAt":  "2026-06-08T21:23:28.3608064Z",
+    "version":  "1.4.16",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.4.16/LendTech.Parent.Queue.1.4.16.Installer.exe",
+    "notes":  "Fixes NYSCEF personal court search fields so middle names are ignored: full owner names like Dane Anthony Wilson now search First=Dane and Last=Wilson."
 }
