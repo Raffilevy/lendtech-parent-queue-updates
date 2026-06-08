@@ -1,7 +1,7 @@
 {
-    "latestVersion":  "1.4.6",
-    "publishedAt":  "2026-06-08T16:59:44.3974099Z",
-    "version":  "1.4.6",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.4.6/LendTech.Parent.Queue.1.4.6.Installer.exe",
-    "notes":  "Adds Chrome-style address suggestions and a Court button on LendTech deal pages for NYSCEF searches."
+    "latestVersion":  "1.4.7",
+    "publishedAt":  "2026-06-08T19:05:50.7627667Z",
+    "version":  "1.4.7",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.4.7/LendTech.Parent.Queue.1.4.7.Installer.exe",
+    "notes":  "Improves Court search: reads business from the LendTech deal header, reads one or more principals from the Principals tab fields, and fills the NYSCEF Name search form directly."
 }
