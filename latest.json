@@ -1,10 +1,7 @@
 {
-    "version":  "1.4.5",
-    "publishedAt":  "2026-06-08T16:40:27.3072926Z",
-    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.4.5/LendTech.Parent.Queue.1.4.5.Installer.exe",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.4.5/LendTech.Parent.Queue.1.4.5.Installer.exe",
-    "latestVersion":  "1.4.5",
-    "payloadVersion":  "1.4.5",
-    "notes":  "Contracts Back: Done and Deal Killed rows now show a Removed In countdown. Deal Killed rows expire after 7 days, matching Done.",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.4.5/LendTech.Parent.Queue.1.4.5.Installer.exe"
+    "latestVersion":  "1.4.6",
+    "publishedAt":  "2026-06-08T16:58:31.5666567Z",
+    "version":  "1.4.6",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.4.6/LendTech.Parent.Queue.1.4.6.Installer.exe",
+    "notes":  "Adds Chrome-style address suggestions and a Court button on LendTech deal pages for NYSCEF searches."
 }
