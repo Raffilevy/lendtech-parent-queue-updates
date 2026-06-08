@@ -1,10 +1,10 @@
 {
-    "version":  "1.4.1",
-    "publishedAt":  "2026-06-08T16:13:51.2306473Z",
-    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.4.1/LendTech.Parent.Queue.1.4.1.Installer.exe",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.4.1/LendTech.Parent.Queue.1.4.1.Installer.exe",
-    "latestVersion":  "1.4.1",
-    "payloadVersion":  "1.4.1",
-    "notes":  "Contracts Back fixes: Gmail refresh errors no longer get overwritten by background sync, Gmail permission is independent from Google Chat refresh, and test emails like â€œContracts Signed for TESTâ€ can appear even without a deal ID.",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.4.1/LendTech.Parent.Queue.1.4.1.Installer.exe"
+    "version":  "1.4.2",
+    "publishedAt":  "2026-06-08T16:21:51.3437739Z",
+    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.4.2/LendTech.Parent.Queue.1.4.2.Installer.exe",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.4.2/LendTech.Parent.Queue.1.4.2.Installer.exe",
+    "latestVersion":  "1.4.2",
+    "payloadVersion":  "1.4.2",
+    "notes":  "Contracts Back Gmail diagnostics: Settings now shows Contracts Gmail permission separately from Chat, and disabled Gmail API/project configuration is reported accurately instead of saying to reconnect forever.",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.4.2/LendTech.Parent.Queue.1.4.2.Installer.exe"
 }
