@@ -1,10 +1,10 @@
 {
-    "version":  "1.4.2",
-    "publishedAt":  "2026-06-08T16:21:51.3437739Z",
-    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.4.2/LendTech.Parent.Queue.1.4.2.Installer.exe",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.4.2/LendTech.Parent.Queue.1.4.2.Installer.exe",
-    "latestVersion":  "1.4.2",
-    "payloadVersion":  "1.4.2",
-    "notes":  "Contracts Back Gmail diagnostics: Settings now shows Contracts Gmail permission separately from Chat, and disabled Gmail API/project configuration is reported accurately instead of saying to reconnect forever.",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.4.2/LendTech.Parent.Queue.1.4.2.Installer.exe"
+    "version":  "1.4.3",
+    "publishedAt":  "2026-06-08T16:33:00.7797023Z",
+    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.4.3/LendTech.Parent.Queue.1.4.3.Installer.exe",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.4.3/LendTech.Parent.Queue.1.4.3.Installer.exe",
+    "latestVersion":  "1.4.3",
+    "payloadVersion":  "1.4.3",
+    "notes":  "Contracts Back polish: Delete is now a red confirmed X action, Deal Killed is available as a status, and each status is displayed in its own section.",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.4.3/LendTech.Parent.Queue.1.4.3.Installer.exe"
 }
