@@ -1,7 +1,7 @@
 {
-    "latestVersion":  "1.4.12",
-    "publishedAt":  "2026-06-08T20:33:19.6878535Z",
-    "version":  "1.4.12",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.4.12/LendTech.Parent.Queue.1.4.12.Installer.exe",
-    "notes":  "Court search now closes NYSCEF blank/no-result pages and, when needed, opens the LendTech Principals section to extract first/last names for separate personal searches."
+    "latestVersion":  "1.4.13",
+    "publishedAt":  "2026-06-08T20:39:39.6427949Z",
+    "version":  "1.4.13",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.4.13/LendTech.Parent.Queue.1.4.13.Installer.exe",
+    "notes":  "Court no-result detection now matches NYSCEF empty result pages. Personal court searches now read names from the LendTech principals summary table when available."
 }
