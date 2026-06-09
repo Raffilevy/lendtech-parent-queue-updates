@@ -1,7 +1,7 @@
 {
-    "latestVersion":  "1.4.19",
-    "publishedAt":  "2026-06-09T14:28:23.5364726Z",
-    "version":  "1.4.19",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.4.19/LendTech.Parent.Queue.1.4.19.Installer.exe",
-    "notes":  "Court Search now detects post-submit human verification and brings the result tab forward. The address bar now fetches Google autocomplete suggestions instead of only showing the plain search row."
+    "latestVersion":  "1.4.20",
+    "publishedAt":  "2026-06-09T15:06:04.6815106Z",
+    "version":  "1.4.20",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.4.20/LendTech.Parent.Queue.1.4.20.Installer.exe",
+    "notes":  "Improves the built-in browser address suggestions: larger Chrome-style rows, mouse hover/click selection, and per-user local previous-search history."
 }
