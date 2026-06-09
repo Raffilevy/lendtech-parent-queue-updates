@@ -1,7 +1,7 @@
 {
-    "latestVersion":  "1.5.0",
-    "publishedAt":  "2026-06-09T15:35:57.4370878Z",
-    "version":  "1.5.0",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.0/LendTech.Parent.Queue.1.5.0.Installer.exe",
-    "notes":  "Adds GitHub-backed user profile sync using both connected Google accounts as the profile identity. Sync now includes chat aliases, muted chats, theme settings, bookmarks, contracts sync data, and per-user address/search history."
+    "latestVersion":  "1.5.1",
+    "publishedAt":  "2026-06-09T15:41:17.3771769Z",
+    "version":  "1.5.1",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.1/LendTech.Parent.Queue.1.5.1.Installer.exe",
+    "notes":  "Fixes intermittent Court Search extraction where an owner could be searched twice. The app now waits for the business name and rejects principal-looking business values before opening court tabs."
 }
