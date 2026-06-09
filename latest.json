@@ -1,8 +1,8 @@
-﻿{
-    "version":  "1.5.7",
-    "publishedAt":  "2026-06-09T21:00:25.2787184Z",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.7/LendTech.Parent.Queue.1.5.7.Installer.exe",
-    "notes":  "Adds default UFS and TruPath underwriting queue URLs for users who have not saved their own personal queue URLs. Existing user/profile queue URLs are preserved.",
-    "appVersion":  "1.5.7",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.7/LendTech.Parent.Queue.1.5.7.Installer.exe"
+{
+    "version":  "1.5.8",
+    "appVersion":  "1.5.8",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.8/LendTech.Parent.Queue.1.5.8.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.8/LendTech.Parent.Queue.1.5.8.Installer.exe",
+    "notes":  "Contracts Back refresh reliability: manual Gmail refresh is no longer blocked by passive sync, and a startup Contracts Back scan runs shortly after app open.",
+    "updatedAt":  "2026-06-09T21:18:37.2225211Z"
 }
