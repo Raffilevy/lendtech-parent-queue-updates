@@ -1,8 +1,8 @@
 {
-    "version":  "1.5.8",
-    "appVersion":  "1.5.8",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.8/LendTech.Parent.Queue.1.5.8.Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.8/LendTech.Parent.Queue.1.5.8.Installer.exe",
-    "notes":  "Contracts Back refresh reliability: manual Gmail refresh is no longer blocked by passive sync, and a startup Contracts Back scan runs shortly after app open.",
-    "updatedAt":  "2026-06-09T21:18:37.2225211Z"
+    "version":  "1.5.9",
+    "appVersion":  "1.5.9",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.9/LendTech.Parent.Queue.1.5.9.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.9/LendTech.Parent.Queue.1.5.9.Installer.exe",
+    "notes":  "Contracts Back fix: a newer Gmail contract email now revives a deal that was previously done, killed, or deleted, so re-sent/cut-down contracts do not disappear after cloud sync.",
+    "updatedAt":  "2026-06-09T21:34:35.4983146Z"
 }
