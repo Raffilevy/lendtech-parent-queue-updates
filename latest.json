@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "1.5.2",
-    "publishedAt":  "2026-06-09T15:51:07.0512765Z",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.2/LendTech.Parent.Queue.1.5.2.Installer.exe",
-    "notes":  "Fixes Court Search business-name extraction by preferring the LendTech Entity Name field and replacing principal-looking business values before opening NYSCEF searches.",
-    "appVersion":  "1.5.2",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.2/LendTech.Parent.Queue.1.5.2.Installer.exe"
+    "version":  "1.5.3",
+    "publishedAt":  "2026-06-09T16:22:33.8287682Z",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.3/LendTech.Parent.Queue.1.5.3.Installer.exe",
+    "notes":  "Fixes theme saving by routing Save Theme through a dedicated native endpoint so color presets persist and apply without touching Google/alias settings.",
+    "appVersion":  "1.5.3",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.3/LendTech.Parent.Queue.1.5.3.Installer.exe"
 }
