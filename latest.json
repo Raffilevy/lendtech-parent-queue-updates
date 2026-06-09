@@ -1,7 +1,8 @@
-{
-    "latestVersion":  "1.5.1",
-    "publishedAt":  "2026-06-09T15:41:17.3771769Z",
-    "version":  "1.5.1",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.1/LendTech.Parent.Queue.1.5.1.Installer.exe",
-    "notes":  "Fixes intermittent Court Search extraction where an owner could be searched twice. The app now waits for the business name and rejects principal-looking business values before opening court tabs."
+﻿{
+    "version":  "1.5.2",
+    "publishedAt":  "2026-06-09T15:51:07.0512765Z",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.2/LendTech.Parent.Queue.1.5.2.Installer.exe",
+    "notes":  "Fixes Court Search business-name extraction by preferring the LendTech Entity Name field and replacing principal-looking business values before opening NYSCEF searches.",
+    "appVersion":  "1.5.2",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.2/LendTech.Parent.Queue.1.5.2.Installer.exe"
 }
