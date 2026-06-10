@@ -1,8 +1,8 @@
 {
-    "version":  "1.5.9",
-    "appVersion":  "1.5.9",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.9/LendTech.Parent.Queue.1.5.9.Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.9/LendTech.Parent.Queue.1.5.9.Installer.exe",
-    "notes":  "Contracts Back fix: a newer Gmail contract email now revives a deal that was previously done, killed, or deleted, so re-sent/cut-down contracts do not disappear after cloud sync.",
-    "updatedAt":  "2026-06-09T21:34:35.4983146Z"
+    "version":  "1.5.10",
+    "appVersion":  "1.5.10",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.10/LendTech.Parent.Queue.1.5.10.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.10/LendTech.Parent.Queue.1.5.10.Installer.exe",
+    "notes":  "Court Search fix: clicking Court again now cancels older CAPTCHA/blank-page automation attempts, and business names that match principal names more loosely are skipped so owner searches are not duplicated as the business search.",
+    "updatedAt":  "2026-06-10T14:57:29.7160339Z"
 }
