@@ -1,8 +1,8 @@
 {
-  "version": "1.5.11",
-  "appVersion": "1.5.11",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.11/LendTech.Parent.Queue.1.5.11.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.11/LendTech.Parent.Queue.1.5.11.Installer.exe",
-  "notes": "Court Search rewire: Court now reads fresh Entity Name from Business Info and fresh owner names from Principals for each click, with no cached/merged court extraction data between searches.",
-  "updatedAt": "2026-06-10T15:20:00Z"
+    "version":  "1.5.12",
+    "appVersion":  "1.5.12",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.12/LendTech.Parent.Queue.1.5.12.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.12/LendTech.Parent.Queue.1.5.12.Installer.exe",
+    "notes":  "Court Search now reads the already-loaded LendTech bootstrap HTML first: accountReportBootstrap.entity_name for business and lendtechBootstrap.principals for owner names. This avoids stale tab navigation and duplicate owner-name searches.",
+    "updatedAt":  "2026-06-10T16:04:37Z"
 }
