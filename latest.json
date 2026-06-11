@@ -1,8 +1,8 @@
 {
-    "version":  "1.5.13",
-    "appVersion":  "1.5.13",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.13/LendTech.Parent.Queue.1.5.13.Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.13/LendTech.Parent.Queue.1.5.13.Installer.exe",
-    "notes":  "Court Search fix: NYSCEF searches are staggered by one second, and the app clears all Name-tab fields before each business/person submit so the court site does not merge business and owner searches.",
-    "updatedAt":  "2026-06-10T16:28:07Z"
+    "version":  "1.5.14",
+    "appVersion":  "1.5.14",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.14/LendTech.Parent.Queue.1.5.14.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.14/LendTech.Parent.Queue.1.5.14.Installer.exe",
+    "notes":  "Contracts Back update: adds Stale status with a 7-day removal timer and per-contract notes that save and sync through the shared Contracts Back state.",
+    "updatedAt":  "2026-06-11T14:10:34Z"
 }
