@@ -1,8 +1,8 @@
 {
-    "version":  "1.5.14",
-    "appVersion":  "1.5.14",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.14/LendTech.Parent.Queue.1.5.14.Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.14/LendTech.Parent.Queue.1.5.14.Installer.exe",
-    "notes":  "Contracts Back update: adds Stale status with a 7-day removal timer and per-contract notes that save and sync through the shared Contracts Back state.",
-    "updatedAt":  "2026-06-11T14:10:34Z"
+    "version":  "1.5.15",
+    "appVersion":  "1.5.15",
+    "notes":  "Contracts Back: Done is now Funded, and Being Worked On contracts can sync who is working them.",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.15/LendTech.Parent.Queue.1.5.15.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.15/LendTech.Parent.Queue.1.5.15.Installer.exe",
+    "publishedAt":  "2026-06-11T14:21:49.2614367Z"
 }
