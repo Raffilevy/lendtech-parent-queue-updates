@@ -1,8 +1,8 @@
 {
-    "version":  "1.5.21",
-    "appVersion":  "1.5.21",
-    "notes":  "Search history import now scans Microsoft Edge profiles in addition to Chrome, using the same Google-search-only extraction.",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.21/LendTech.Parent.Queue.1.5.21.Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.21/LendTech.Parent.Queue.1.5.21.Installer.exe",
-    "publishedAt":  "2026-06-11T19:08:50.9939548Z"
+    "version":  "1.5.22",
+    "appVersion":  "1.5.22",
+    "notes":  "Search history import now scans every Chrome/Edge profile folder it can find and includes Google-backed keyword search terms, so fewer older searches are missed.",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.22/LendTech.Parent.Queue.1.5.22.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.22/LendTech.Parent.Queue.1.5.22.Installer.exe",
+    "publishedAt":  "2026-06-11T19:19:01.5911047Z"
 }
