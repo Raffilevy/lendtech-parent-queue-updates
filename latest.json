@@ -1,8 +1,8 @@
 {
-    "version":  "1.5.19",
-    "appVersion":  "1.5.19",
-    "notes":  "Browser menu: added View Search History under the top-right menu, with filter/open/remove/clear controls for synced search suggestions.",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.19/LendTech.Parent.Queue.1.5.19.Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.19/LendTech.Parent.Queue.1.5.19.Installer.exe",
-    "publishedAt":  "2026-06-11T15:50:02.0233552Z"
+    "version":  "1.5.20",
+    "appVersion":  "1.5.20",
+    "notes":  "Chrome Google search import now imports all matching searches instead of 80, stores timestamps, and sorts View Search History newest first.",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.20/LendTech.Parent.Queue.1.5.20.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.20/LendTech.Parent.Queue.1.5.20.Installer.exe",
+    "publishedAt":  "2026-06-11T16:03:19.1602608Z"
 }
