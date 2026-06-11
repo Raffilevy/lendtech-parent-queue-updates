@@ -1,8 +1,8 @@
 {
-    "version":  "1.5.18",
-    "appVersion":  "1.5.18",
-    "notes":  "Chrome Google search import now runs automatically in the background on startup and every 30 minutes while the app is open. The Settings button was removed.",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.18/LendTech.Parent.Queue.1.5.18.Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.18/LendTech.Parent.Queue.1.5.18.Installer.exe",
-    "publishedAt":  "2026-06-11T15:27:51.9432172Z"
+    "version":  "1.5.19",
+    "appVersion":  "1.5.19",
+    "notes":  "Browser menu: added View Search History under the top-right menu, with filter/open/remove/clear controls for synced search suggestions.",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.19/LendTech.Parent.Queue.1.5.19.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.19/LendTech.Parent.Queue.1.5.19.Installer.exe",
+    "publishedAt":  "2026-06-11T15:50:02.0233552Z"
 }
