@@ -1,8 +1,8 @@
 {
-    "version":  "1.5.15",
-    "appVersion":  "1.5.15",
-    "notes":  "Contracts Back: Done is now Funded, and Being Worked On contracts can sync who is working them.",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.15/LendTech.Parent.Queue.1.5.15.Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.15/LendTech.Parent.Queue.1.5.15.Installer.exe",
-    "publishedAt":  "2026-06-11T14:21:49.2614367Z"
+    "version":  "1.5.16",
+    "appVersion":  "1.5.16",
+    "notes":  "Contracts Back: added search and archives expired contracts instead of deleting them.",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.16/LendTech.Parent.Queue.1.5.16.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.16/LendTech.Parent.Queue.1.5.16.Installer.exe",
+    "publishedAt":  "2026-06-11T14:29:04.7485671Z"
 }
