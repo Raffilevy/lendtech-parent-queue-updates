@@ -1,8 +1,8 @@
 {
-    "version":  "1.5.16",
-    "appVersion":  "1.5.16",
-    "notes":  "Contracts Back: added search and archives expired contracts instead of deleting them.",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.16/LendTech.Parent.Queue.1.5.16.Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.16/LendTech.Parent.Queue.1.5.16.Installer.exe",
-    "publishedAt":  "2026-06-11T14:29:04.7485671Z"
+    "version":  "1.5.17",
+    "appVersion":  "1.5.17",
+    "notes":  "Settings: import Chrome Google search text into synced app search suggestions. Only q= search text is stored; full Chrome history and URLs are ignored.",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.17/LendTech.Parent.Queue.1.5.17.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.17/LendTech.Parent.Queue.1.5.17.Installer.exe",
+    "publishedAt":  "2026-06-11T15:20:55.9586753Z"
 }
