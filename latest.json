@@ -1,8 +1,8 @@
 {
-    "version":  "1.5.20",
-    "appVersion":  "1.5.20",
-    "notes":  "Chrome Google search import now imports all matching searches instead of 80, stores timestamps, and sorts View Search History newest first.",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.20/LendTech.Parent.Queue.1.5.20.Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.20/LendTech.Parent.Queue.1.5.20.Installer.exe",
-    "publishedAt":  "2026-06-11T16:03:19.1602608Z"
+    "version":  "1.5.21",
+    "appVersion":  "1.5.21",
+    "notes":  "Search history import now scans Microsoft Edge profiles in addition to Chrome, using the same Google-search-only extraction.",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.21/LendTech.Parent.Queue.1.5.21.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.21/LendTech.Parent.Queue.1.5.21.Installer.exe",
+    "publishedAt":  "2026-06-11T19:08:50.9939548Z"
 }
