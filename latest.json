@@ -1,8 +1,8 @@
 {
-    "version":  "1.5.25",
-    "appVersion":  "1.5.25",
-    "notes":  "Fixes custom tab strip right-click targeting, tab text/close-button spacing, and adjusts the tab shape closer to Chrome.",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.25/LendTech.Parent.Queue.1.5.25.Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.25/LendTech.Parent.Queue.1.5.25.Installer.exe",
-    "publishedAt":  "2026-06-12T15:58:34.0375311Z"
+    "version":  "1.5.26",
+    "appVersion":  "1.5.26",
+    "notes":  "Fixes custom tab menu routing so right-click opens the tab menu, and adds live visual movement while dragging tabs.",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.26/LendTech.Parent.Queue.1.5.26.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.26/LendTech.Parent.Queue.1.5.26.Installer.exe",
+    "publishedAt":  "2026-06-12T16:04:52.9544120Z"
 }
