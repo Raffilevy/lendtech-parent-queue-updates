@@ -1,7 +1,7 @@
 {
-    "version":  "1.5.30",
-    "notes":  "Fixes the real tab drag bumper boundary and centers the Chrome-style new-tab button.",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.30/LendTech.Parent.Queue.1.5.30.Installer.exe",
+    "version":  "1.5.31",
+    "notes":  "Fixes tab right-click menu routing after the tab bumper layout change.",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.31/LendTech.Parent.Queue.1.5.31.Installer.exe",
     "mandatory":  false,
-    "publishedAt":  "2026-06-12T17:10:53.8316913Z"
+    "publishedAt":  "2026-06-12T17:26:10.4593438Z"
 }
