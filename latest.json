@@ -1,7 +1,7 @@
 {
-    "version":  "1.5.32",
-    "notes":  "Fixes tab right-click menu by replacing inherited fallback handling with a dedicated tab-strip context menu.",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.32/LendTech.Parent.Queue.1.5.32.Installer.exe",
+    "version":  "1.5.33",
+    "notes":  "Adds Bing searches from Chrome and Edge history to synced search suggestions/history.",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.33/LendTech.Parent.Queue.1.5.33.Installer.exe",
     "mandatory":  false,
-    "publishedAt":  "2026-06-12T17:32:58.9484088Z"
+    "publishedAt":  "2026-06-12T19:45:58.5068854Z"
 }
