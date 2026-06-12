@@ -1,7 +1,7 @@
 {
-    "version":  "1.5.29",
-    "notes":  "Fixes tab dragging past the new-tab button and restyles the new-tab button to match the Chrome-like tab strip.",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.29/LendTech.Parent.Queue.1.5.29.Installer.exe",
+    "version":  "1.5.30",
+    "notes":  "Fixes the real tab drag bumper boundary and centers the Chrome-style new-tab button.",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.30/LendTech.Parent.Queue.1.5.30.Installer.exe",
     "mandatory":  false,
-    "publishedAt":  "2026-06-12T16:54:17.6461681Z"
+    "publishedAt":  "2026-06-12T17:10:53.8316913Z"
 }
