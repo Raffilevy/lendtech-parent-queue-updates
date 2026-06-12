@@ -1,7 +1,7 @@
 {
-    "version":  "1.5.31",
-    "notes":  "Fixes tab right-click menu routing after the tab bumper layout change.",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.31/LendTech.Parent.Queue.1.5.31.Installer.exe",
+    "version":  "1.5.32",
+    "notes":  "Fixes tab right-click menu by replacing inherited fallback handling with a dedicated tab-strip context menu.",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.32/LendTech.Parent.Queue.1.5.32.Installer.exe",
     "mandatory":  false,
-    "publishedAt":  "2026-06-12T17:26:10.4593438Z"
+    "publishedAt":  "2026-06-12T17:32:58.9484088Z"
 }
