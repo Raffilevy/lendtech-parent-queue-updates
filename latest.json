@@ -1,8 +1,8 @@
 {
-    "version":  "1.5.23",
-    "appVersion":  "1.5.23",
-    "notes":  "Chrome-like tab strip polish: overflow scrolling, cleaner drag reorder, active-tab visibility, middle-click tab close, fuller tab context menu. Contracts Back worker selection now stays visible and persists across status changes.",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.23/LendTech.Parent.Queue.1.5.23.Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.23/LendTech.Parent.Queue.1.5.23.Installer.exe",
-    "publishedAt":  "2026-06-12T15:24:10.1618703Z"
+    "version":  "1.5.24",
+    "appVersion":  "1.5.24",
+    "notes":  "Adds the first custom-drawn Chrome-like browser tab strip. Tab visuals and tab mouse actions now go through the custom strip while preserving existing browser/session logic.",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.24/LendTech.Parent.Queue.1.5.24.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.24/LendTech.Parent.Queue.1.5.24.Installer.exe",
+    "publishedAt":  "2026-06-12T15:46:50.4865654Z"
 }
