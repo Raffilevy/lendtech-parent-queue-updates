@@ -1,7 +1,7 @@
 {
-    "version":  "1.5.33",
-    "notes":  "Adds Bing searches from Chrome and Edge history to synced search suggestions/history.",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.33/LendTech.Parent.Queue.1.5.33.Installer.exe",
+    "version":  "1.5.34",
+    "notes":  "Adds browser download handling: detects downloads, shows progress, stores download history, opens files/folders, and supports ask-where-to-save.",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.34/LendTech.Parent.Queue.1.5.34.Installer.exe",
     "mandatory":  false,
-    "publishedAt":  "2026-06-12T19:45:58.5068854Z"
+    "publishedAt":  "2026-06-12T19:57:04.4338142Z"
 }
