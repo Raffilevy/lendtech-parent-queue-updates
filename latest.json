@@ -1,7 +1,7 @@
 {
-    "version":  "1.5.38",
-    "notes":  "Uses authenticated HTTP downloading for LendTech secure-download links so the file downloads while the visible tab stays on the deal page.",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.38/LendTech.Parent.Queue.1.5.38.Installer.exe",
+    "version":  "1.5.39",
+    "notes":  "Restores the real WebView2/Chromium download path and fixes tab association so post-download ConnectionAborted pages are suppressed like Chrome.",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.39/LendTech.Parent.Queue.1.5.39.Installer.exe",
     "mandatory":  false,
-    "publishedAt":  "2026-06-15T14:21:14.7255706Z"
+    "publishedAt":  "2026-06-15T14:31:43.4949883Z"
 }
