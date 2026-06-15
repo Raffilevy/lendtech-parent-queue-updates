@@ -1,7 +1,7 @@
 {
-    "version":  "1.5.35",
-    "notes":  "Keeps the current page visible when a link triggers a download, instead of showing a page-not-found/error page after the file downloads.",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.35/LendTech.Parent.Queue.1.5.35.Installer.exe",
+    "version":  "1.5.36",
+    "notes":  "Makes download links behave closer to Chrome by preserving the last real page and suppressing immediate download error pages.",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.36/LendTech.Parent.Queue.1.5.36.Installer.exe",
     "mandatory":  false,
-    "publishedAt":  "2026-06-15T13:49:01.9818469Z"
+    "publishedAt":  "2026-06-15T13:58:38.1516389Z"
 }
