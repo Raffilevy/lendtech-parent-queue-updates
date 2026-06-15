@@ -1,6 +1,6 @@
 {
     "mandatory":  false,
-    "version":  "1.5.45",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.45/LendTech.Parent.Queue.1.5.45.Installer.exe",
-    "notes":  "Contracts Back: adds Deal Size column by reading Funding Amount from contract email bodies and syncing the amount with contract rows."
+    "version":  "1.5.46",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.46/LendTech.Parent.Queue.1.5.46.Installer.exe",
+    "notes":  "Contracts Back polish: formats deal size amounts with commas/decimals and adds a Contracts Back tab badge for not-started contracts."
 }
