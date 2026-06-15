@@ -1,6 +1,6 @@
 {
     "mandatory":  false,
-    "version":  "1.5.40",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.40/LendTech.Parent.Queue.1.5.40.Installer.exe",
-    "notes":  "Download handling update: intercepts LendTech secure download responses before they become visible aborted navigations."
+    "version":  "1.5.41",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.41/LendTech.Parent.Queue.1.5.41.Installer.exe",
+    "notes":  "Unified download handling: generic attachment/file response detection, shared tab restore for WebView2 and CDP downloads, UI-thread save prompt, and duplicate-download guard."
 }
