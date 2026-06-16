@@ -1,8 +1,8 @@
 {
-    "latestVersion":  "1.5.53",
-    "version":  "1.5.53",
-    "publishedAt":  "2026-06-16T17:00:36.9404159Z",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.53/LendTech.Parent.Queue.1.5.53.Installer.exe",
-    "sha256":  "7b5781b20cd175b98000c0541e7c2a18fee250e15af48a037993663b3e8a859e",
-    "notes":  "Adds automatic post-update health reporting. After an update installs and the app launches, it uploads a safe diagnostic report to GitHub with configVersion, nativeCodeVersion, versionMatch, OAuth config visibility, install root, loopback status, and native state."
+    "latestVersion":  "1.5.54",
+    "version":  "1.5.54",
+    "publishedAt":  "2026-06-16T17:15:13.1498679Z",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.54/LendTech.Parent.Queue.1.5.54.Installer.exe",
+    "sha256":  "4f406d9ffb6a0f6d767f8a2ab6829b077152819426dd05e51281e3895f3685e1",
+    "notes":  "Fixes installer failures on locked but unchanged support DLLs such as VirtualDesktopAccessor.dll. The installer now skips byte-identical locked files instead of failing the update."
 }
