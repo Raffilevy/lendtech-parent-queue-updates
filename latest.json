@@ -1,8 +1,8 @@
 {
-    "latestVersion":  "1.5.49",
-    "version":  "1.5.49",
-    "publishedAt":  "2026-06-16T15:55:04.0584229Z",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.49/LendTech.Parent.Queue.1.5.49.Installer.exe",
-    "sha256":  "e5ff2d51b2bb8505aa17213a0a7c10b8f75bc8c19f5921618e797ead4df1e4c7",
-    "notes":  "Unifies Google OAuth config resolution so Settings and Connect Google use the same defaults, preserves granted scopes during token refresh, creates token folders on fresh installs, and makes setup use the configured loopback helper instead of a hardcoded port."
+    "latestVersion":  "1.5.50",
+    "version":  "1.5.50",
+    "publishedAt":  "2026-06-16T16:11:41.4388083Z",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.50/LendTech.Parent.Queue.1.5.50.Installer.exe",
+    "sha256":  "7c007e592458e34f383d42f5f317c148e94745e6150fce0b6e3ecec9fd255ba5",
+    "notes":  "Makes each embedded browser chrome inherit the matching queue colors: UFS browser uses UFS row colors and TruPath browser uses TruPath row colors, including toolbar buttons, tabs, progress, inputs, and browser panels."
 }
