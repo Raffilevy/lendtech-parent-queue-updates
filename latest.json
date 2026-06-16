@@ -1,8 +1,8 @@
 {
-    "latestVersion":  "1.5.51",
-    "version":  "1.5.51",
-    "publishedAt":  "2026-06-16T16:24:40.3303876Z",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.51/LendTech.Parent.Queue.1.5.51.Installer.exe",
-    "sha256":  "dd18593ae8389041e2cfa93769bf5945ddd9692692924cb8df7c9ecb562ab22a",
-    "notes":  "Makes the native top navigation buttons match the selected app theme: UFS Browser/View use UFS colors and TruPath Browser/View use TruPath colors."
+    "latestVersion":  "1.5.52",
+    "version":  "1.5.52",
+    "publishedAt":  "2026-06-16T16:37:13.3599829Z",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.52/LendTech.Parent.Queue.1.5.52.Installer.exe",
+    "sha256":  "c946f7fde3ca2b228bb96057b0e3fa141adb79d526bb0335b8726f9919b60e82",
+    "notes":  "Hardens in-app updates so the running app exits before installation and the installer retries locked files. Adds nativeCodeVersion diagnostics to detect config-version vs EXE-version mismatches."
 }
