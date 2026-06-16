@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "1.5.58",
-    "latestVersion":  "1.5.58",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.58/LendTech.Parent.Queue.1.5.58.Installer.exe",
-    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.58/LendTech.Parent.Queue.1.5.58.Installer.exe",
-    "fileName":  "LendTech.Parent.Queue.1.5.58.Installer.exe",
-    "notes":  "Fixes update restart edge cases by recovering windowless stale app instances and starting the app window before backend initialization.",
-    "publishedAt":  "2026-06-16T20:43:40.7334343Z"
+    "version":  "1.5.59",
+    "latestVersion":  "1.5.59",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.59/LendTech.Parent.Queue.1.5.59.Installer.exe",
+    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.59/LendTech.Parent.Queue.1.5.59.Installer.exe",
+    "fileName":  "LendTech.Parent.Queue.1.5.59.Installer.exe",
+    "notes":  "Lets browser search-history import read very large Chrome/Edge history files by extending the per-profile SQLite read window; no date or row cap is applied.",
+    "publishedAt":  "2026-06-16T21:08:09.8058739Z"
 }
