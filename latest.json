@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "1.5.57",
-    "latestVersion":  "1.5.57",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.57/LendTech.Parent.Queue.1.5.57.Installer.exe",
-    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.57/LendTech.Parent.Queue.1.5.57.Installer.exe",
-    "fileName":  "LendTech.Parent.Queue.1.5.57.Installer.exe",
-    "notes":  "Hides the update manifest URL from Settings while preserving the configured updater value.",
-    "publishedAt":  "2026-06-16T20:37:36.9927212Z"
+    "version":  "1.5.58",
+    "latestVersion":  "1.5.58",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.58/LendTech.Parent.Queue.1.5.58.Installer.exe",
+    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.58/LendTech.Parent.Queue.1.5.58.Installer.exe",
+    "fileName":  "LendTech.Parent.Queue.1.5.58.Installer.exe",
+    "notes":  "Fixes update restart edge cases by recovering windowless stale app instances and starting the app window before backend initialization.",
+    "publishedAt":  "2026-06-16T20:43:40.7334343Z"
 }
