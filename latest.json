@@ -1,8 +1,9 @@
-{
-    "latestVersion":  "1.5.54",
-    "version":  "1.5.54",
-    "publishedAt":  "2026-06-16T17:15:13.1498679Z",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.54/LendTech.Parent.Queue.1.5.54.Installer.exe",
-    "sha256":  "4f406d9ffb6a0f6d767f8a2ab6829b077152819426dd05e51281e3895f3685e1",
-    "notes":  "Fixes installer failures on locked but unchanged support DLLs such as VirtualDesktopAccessor.dll. The installer now skips byte-identical locked files instead of failing the update."
+﻿{
+    "version":  "1.5.55",
+    "latestVersion":  "1.5.55",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.55/LendTech.Parent.Queue.1.5.55.Installer.exe",
+    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.55/LendTech.Parent.Queue.1.5.55.Installer.exe",
+    "fileName":  "LendTech.Parent.Queue.1.5.55.Installer.exe",
+    "notes":  "Fixes built-in browser Google sign-in loops for LendTech login by making the helper account-neutral, slowing repeated clicks, and stopping auto-reload on Google error pages.",
+    "publishedAt":  "2026-06-16T17:41:54.0790749Z"
 }
