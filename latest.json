@@ -1,8 +1,8 @@
 {
-    "latestVersion":  "1.5.52",
-    "version":  "1.5.52",
-    "publishedAt":  "2026-06-16T16:37:13.3599829Z",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.52/LendTech.Parent.Queue.1.5.52.Installer.exe",
-    "sha256":  "c946f7fde3ca2b228bb96057b0e3fa141adb79d526bb0335b8726f9919b60e82",
-    "notes":  "Hardens in-app updates so the running app exits before installation and the installer retries locked files. Adds nativeCodeVersion diagnostics to detect config-version vs EXE-version mismatches."
+    "latestVersion":  "1.5.53",
+    "version":  "1.5.53",
+    "publishedAt":  "2026-06-16T17:00:36.9404159Z",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.53/LendTech.Parent.Queue.1.5.53.Installer.exe",
+    "sha256":  "7b5781b20cd175b98000c0541e7c2a18fee250e15af48a037993663b3e8a859e",
+    "notes":  "Adds automatic post-update health reporting. After an update installs and the app launches, it uploads a safe diagnostic report to GitHub with configVersion, nativeCodeVersion, versionMatch, OAuth config visibility, install root, loopback status, and native state."
 }
