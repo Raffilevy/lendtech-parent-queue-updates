@@ -1,8 +1,8 @@
 {
-    "latestVersion":  "1.5.47",
-    "version":  "1.5.47",
-    "publishedAt":  "2026-06-16T14:15:07.9828259Z",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.47/LendTech.Parent.Queue.1.5.47.Installer.exe",
-    "sha256":  "e7989da21dac27bdc5fdacd9057c1cdbbf6d3b29857d3fb559257fd9302f459e",
-    "notes":  "Fixes new-user Google Chat connection by shipping the built-in Google OAuth client defaults in the installer while keeping personal profile data out of the package."
+    "latestVersion":  "1.5.48",
+    "version":  "1.5.48",
+    "publishedAt":  "2026-06-16T15:15:21.6041702Z",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.48/LendTech.Parent.Queue.1.5.48.Installer.exe",
+    "sha256":  "c05ed425959abbc39657e0ee6df286f5ec563590f4b5ca8b5f62f807d6f06226",
+    "notes":  "Fixes Google Chat connection on updated installs whose existing config.json was preserved without OAuth defaults. The app now has a built-in OAuth fallback in code."
 }
