@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "1.5.56",
-    "latestVersion":  "1.5.56",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.56/LendTech.Parent.Queue.1.5.56.Installer.exe",
-    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.56/LendTech.Parent.Queue.1.5.56.Installer.exe",
-    "fileName":  "LendTech.Parent.Queue.1.5.56.Installer.exe",
-    "notes":  "Hardens auto-update so the app fully exits before installing, clears this app\u0027s WebView2 child processes when needed, and relaunches after update.",
-    "publishedAt":  "2026-06-16T18:15:16.9409668Z"
+    "version":  "1.5.57",
+    "latestVersion":  "1.5.57",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.57/LendTech.Parent.Queue.1.5.57.Installer.exe",
+    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.57/LendTech.Parent.Queue.1.5.57.Installer.exe",
+    "fileName":  "LendTech.Parent.Queue.1.5.57.Installer.exe",
+    "notes":  "Hides the update manifest URL from Settings while preserving the configured updater value.",
+    "publishedAt":  "2026-06-16T20:37:36.9927212Z"
 }
