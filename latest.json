@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "1.5.60",
-    "latestVersion":  "1.5.60",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.60/LendTech.Parent.Queue.1.5.60.Installer.exe",
-    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.60/LendTech.Parent.Queue.1.5.60.Installer.exe",
-    "fileName":  "LendTech.Parent.Queue.1.5.60.Installer.exe",
-    "notes":  "Hardens installer argument parsing so install paths with spaces cannot be split into the wrong root; keeps full browser search-history import behavior.",
-    "publishedAt":  "2026-06-16T21:16:52.3301585Z"
+    "version":  "1.5.61",
+    "latestVersion":  "1.5.61",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.61/LendTech.Parent.Queue.1.5.61.Installer.exe",
+    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.61/LendTech.Parent.Queue.1.5.61.Installer.exe",
+    "fileName":  "LendTech.Parent.Queue.1.5.61.Installer.exe",
+    "notes":  "Fixes post-update relaunch lockout by releasing the single-instance mutex cleanly, handling abandoned/stale peers, gracefully shutting down before install, and verifying/fallback-starting the app after installer completion.",
+    "publishedAt":  "2026-06-16T21:44:11.8927427Z"
 }
