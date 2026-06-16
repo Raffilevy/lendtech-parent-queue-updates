@@ -1,8 +1,8 @@
 {
-    "latestVersion":  "1.5.50",
-    "version":  "1.5.50",
-    "publishedAt":  "2026-06-16T16:11:41.4388083Z",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.50/LendTech.Parent.Queue.1.5.50.Installer.exe",
-    "sha256":  "7c007e592458e34f383d42f5f317c148e94745e6150fce0b6e3ecec9fd255ba5",
-    "notes":  "Makes each embedded browser chrome inherit the matching queue colors: UFS browser uses UFS row colors and TruPath browser uses TruPath row colors, including toolbar buttons, tabs, progress, inputs, and browser panels."
+    "latestVersion":  "1.5.51",
+    "version":  "1.5.51",
+    "publishedAt":  "2026-06-16T16:24:40.3303876Z",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.51/LendTech.Parent.Queue.1.5.51.Installer.exe",
+    "sha256":  "dd18593ae8389041e2cfa93769bf5945ddd9692692924cb8df7c9ecb562ab22a",
+    "notes":  "Makes the native top navigation buttons match the selected app theme: UFS Browser/View use UFS colors and TruPath Browser/View use TruPath colors."
 }
