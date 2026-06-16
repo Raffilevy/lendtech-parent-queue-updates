@@ -1,6 +1,8 @@
 {
-    "mandatory":  false,
-    "version":  "1.5.46",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.46/LendTech.Parent.Queue.1.5.46.Installer.exe",
-    "notes":  "Contracts Back polish: formats deal size amounts with commas/decimals and adds a Contracts Back tab badge for not-started contracts."
+    "latestVersion":  "1.5.47",
+    "version":  "1.5.47",
+    "publishedAt":  "2026-06-16T14:15:07.9828259Z",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.47/LendTech.Parent.Queue.1.5.47.Installer.exe",
+    "sha256":  "e7989da21dac27bdc5fdacd9057c1cdbbf6d3b29857d3fb559257fd9302f459e",
+    "notes":  "Fixes new-user Google Chat connection by shipping the built-in Google OAuth client defaults in the installer while keeping personal profile data out of the package."
 }
