@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "1.5.59",
-    "latestVersion":  "1.5.59",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.59/LendTech.Parent.Queue.1.5.59.Installer.exe",
-    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.59/LendTech.Parent.Queue.1.5.59.Installer.exe",
-    "fileName":  "LendTech.Parent.Queue.1.5.59.Installer.exe",
-    "notes":  "Lets browser search-history import read very large Chrome/Edge history files by extending the per-profile SQLite read window; no date or row cap is applied.",
-    "publishedAt":  "2026-06-16T21:08:09.8058739Z"
+    "version":  "1.5.60",
+    "latestVersion":  "1.5.60",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.60/LendTech.Parent.Queue.1.5.60.Installer.exe",
+    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.60/LendTech.Parent.Queue.1.5.60.Installer.exe",
+    "fileName":  "LendTech.Parent.Queue.1.5.60.Installer.exe",
+    "notes":  "Hardens installer argument parsing so install paths with spaces cannot be split into the wrong root; keeps full browser search-history import behavior.",
+    "publishedAt":  "2026-06-16T21:16:52.3301585Z"
 }
