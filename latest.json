@@ -1,8 +1,8 @@
 {
-    "latestVersion":  "1.5.48",
-    "version":  "1.5.48",
-    "publishedAt":  "2026-06-16T15:15:21.6041702Z",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.48/LendTech.Parent.Queue.1.5.48.Installer.exe",
-    "sha256":  "c05ed425959abbc39657e0ee6df286f5ec563590f4b5ca8b5f62f807d6f06226",
-    "notes":  "Fixes Google Chat connection on updated installs whose existing config.json was preserved without OAuth defaults. The app now has a built-in OAuth fallback in code."
+    "latestVersion":  "1.5.49",
+    "version":  "1.5.49",
+    "publishedAt":  "2026-06-16T15:55:04.0584229Z",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.49/LendTech.Parent.Queue.1.5.49.Installer.exe",
+    "sha256":  "e5ff2d51b2bb8505aa17213a0a7c10b8f75bc8c19f5921618e797ead4df1e4c7",
+    "notes":  "Unifies Google OAuth config resolution so Settings and Connect Google use the same defaults, preserves granted scopes during token refresh, creates token folders on fresh installs, and makes setup use the configured loopback helper instead of a hardcoded port."
 }
