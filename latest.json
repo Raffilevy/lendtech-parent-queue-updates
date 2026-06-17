@@ -1,9 +1,9 @@
-﻿{
+{
     "version":  "1.5.63",
     "latestVersion":  "1.5.63",
     "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.63/LendTech.Parent.Queue.1.5.63.Installer.exe",
     "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.63/LendTech.Parent.Queue.1.5.63.Installer.exe",
     "fileName":  "LendTech.Parent.Queue.1.5.63.Installer.exe",
     "notes":  "Rolled update channel back to 1.5.63.",
-    "publishedAt":  "2026-06-17T17:57:43.7092652Z"
+    "publishedAt":  "2026-06-17T17:58:28.0570300Z"
 }
