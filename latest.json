@@ -1,8 +1,8 @@
 {
-    "version":  "1.5.72",
-    "latestVersion":  "1.5.72",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.72/LendTech.Parent.Queue.1.5.72.Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.72/LendTech.Parent.Queue.1.5.72.Installer.exe",
-    "notes":  "Removes Blueprint, Aqua, and Midnight theme presets to test the simplified 1.5.71 update handoff.",
-    "publishedAt":  "2026-06-17T21:47:25.1674218Z"
+    "version":  "1.5.73",
+    "latestVersion":  "1.5.73",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.73/LendTech.Parent.Queue.1.5.73.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.73/LendTech.Parent.Queue.1.5.73.Installer.exe",
+    "notes":  "Fixes installer parsing for separated /installRoot paths with spaces, used by the simplified 1.5.51-style updater handoff.",
+    "publishedAt":  "2026-06-17T21:50:13.3381879Z"
 }
