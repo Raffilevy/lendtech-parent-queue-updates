@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "1.5.67",
-    "latestVersion":  "1.5.67",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.67/LendTech.Parent.Queue.1.5.67.Installer.exe",
-    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.67/LendTech.Parent.Queue.1.5.67.Installer.exe",
-    "fileName":  "LendTech.Parent.Queue.1.5.67.Installer.exe",
-    "notes":  "Improves UFS sign-in recovery without deleting cookies: session-cookie backup no longer overwrites existing WebView profile cookies, Open sign-in page pauses only queue auto-routing, and Google auto-click/account picker behavior remains enabled.",
-    "publishedAt":  "2026-06-17T17:47:59.4098497Z"
+    "version":  "1.5.68",
+    "latestVersion":  "1.5.68",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.68/LendTech.Parent.Queue.1.5.68.Installer.exe",
+    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.68/LendTech.Parent.Queue.1.5.68.Installer.exe",
+    "fileName":  "LendTech.Parent.Queue.1.5.68.Installer.exe",
+    "notes":  "Fixes UFS post-Google sign-in bounce: plain LendTech backend landing pages now route to the configured queue after the page no longer looks like a sign-in screen. No cookies are cleared.",
+    "publishedAt":  "2026-06-17T17:52:14.2927721Z"
 }
