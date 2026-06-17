@@ -1,8 +1,8 @@
 {
-    "version":  "1.5.69",
-    "latestVersion":  "1.5.69",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.69/LendTech.Parent.Queue.1.5.69.Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.69/LendTech.Parent.Queue.1.5.69.Installer.exe",
-    "notes":  "Golden update build: restores graceful 1.5.51-style updater shutdown and mutex behavior, keeps selected product features, and improves post-update relaunch verification.",
-    "publishedAt":  "2026-06-17T20:33:42.3286818Z"
+    "version":  "1.5.70",
+    "latestVersion":  "1.5.70",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.70/LendTech.Parent.Queue.1.5.70.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.70/LendTech.Parent.Queue.1.5.70.Installer.exe",
+    "notes":  "Adds 10 new theme presets with stronger UFS vs TruPath contrast pairs.",
+    "publishedAt":  "2026-06-17T20:49:16.1142667Z"
 }
