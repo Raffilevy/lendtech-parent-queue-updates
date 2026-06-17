@@ -1,8 +1,8 @@
 {
-    "version":  "1.5.71",
-    "latestVersion":  "1.5.71",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.71/LendTech.Parent.Queue.1.5.71.Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.71/LendTech.Parent.Queue.1.5.71.Installer.exe",
-    "notes":  "Reverts in-app update restart to proven 1.5.51 cmd+Close behavior; removes all post-1.5.51 update shutdown/PS launcher/WebView2-kill logic.",
-    "publishedAt":  "2026-06-17T21:39:17.8113593Z"
+    "version":  "1.5.72",
+    "latestVersion":  "1.5.72",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.72/LendTech.Parent.Queue.1.5.72.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.72/LendTech.Parent.Queue.1.5.72.Installer.exe",
+    "notes":  "Removes Blueprint, Aqua, and Midnight theme presets to test the simplified 1.5.71 update handoff.",
+    "publishedAt":  "2026-06-17T21:47:25.1674218Z"
 }
