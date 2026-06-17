@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "1.5.68",
-    "latestVersion":  "1.5.68",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.68/LendTech.Parent.Queue.1.5.68.Installer.exe",
-    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.68/LendTech.Parent.Queue.1.5.68.Installer.exe",
-    "fileName":  "LendTech.Parent.Queue.1.5.68.Installer.exe",
-    "notes":  "Fixes UFS post-Google sign-in bounce: plain LendTech backend landing pages now route to the configured queue after the page no longer looks like a sign-in screen. No cookies are cleared.",
-    "publishedAt":  "2026-06-17T17:52:14.2927721Z"
+    "version":  "1.5.63",
+    "latestVersion":  "1.5.63",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.63/LendTech.Parent.Queue.1.5.63.Installer.exe",
+    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.63/LendTech.Parent.Queue.1.5.63.Installer.exe",
+    "fileName":  "LendTech.Parent.Queue.1.5.63.Installer.exe",
+    "notes":  "Rolled update channel back to 1.5.63.",
+    "publishedAt":  "2026-06-17T17:57:43.7092652Z"
 }
