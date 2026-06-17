@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "1.5.61",
-    "latestVersion":  "1.5.61",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.61/LendTech.Parent.Queue.1.5.61.Installer.exe",
-    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.61/LendTech.Parent.Queue.1.5.61.Installer.exe",
-    "fileName":  "LendTech.Parent.Queue.1.5.61.Installer.exe",
-    "notes":  "Fixes post-update relaunch lockout by releasing the single-instance mutex cleanly, handling abandoned/stale peers, gracefully shutting down before install, and verifying/fallback-starting the app after installer completion.",
-    "publishedAt":  "2026-06-16T21:44:11.8927427Z"
+    "version":  "1.5.62",
+    "latestVersion":  "1.5.62",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.62/LendTech.Parent.Queue.1.5.62.Installer.exe",
+    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.62/LendTech.Parent.Queue.1.5.62.Installer.exe",
+    "fileName":  "LendTech.Parent.Queue.1.5.62.Installer.exe",
+    "notes":  "Prevents Contracts Back background sync from resetting focused or dirty status, worker, and notes fields; pending data is applied after editing ends.",
+    "publishedAt":  "2026-06-17T14:15:26.1794892Z"
 }
