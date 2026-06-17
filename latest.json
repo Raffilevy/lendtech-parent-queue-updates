@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "1.5.63",
-    "latestVersion":  "1.5.63",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.63/LendTech.Parent.Queue.1.5.63.Installer.exe",
-    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.63/LendTech.Parent.Queue.1.5.63.Installer.exe",
-    "fileName":  "LendTech.Parent.Queue.1.5.63.Installer.exe",
-    "notes":  "Fixes post-update lockout by making the single-instance mutex a short startup gate, killing stale same-path peers, shutting down cleanly before update, disposing the OAuth loopback server, and requiring a visible app window after installer relaunch.",
-    "publishedAt":  "2026-06-17T14:28:07.5559853Z"
+    "version":  "1.5.64",
+    "latestVersion":  "1.5.64",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.64/LendTech.Parent.Queue.1.5.64.Installer.exe",
+    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.64/LendTech.Parent.Queue.1.5.64.Installer.exe",
+    "fileName":  "LendTech.Parent.Queue.1.5.64.Installer.exe",
+    "notes":  "Fixes overnight LendTech sign-in loops: manual sign-in now pauses auto SSO/queue routing, login pages are no longer auto-reloaded, Reset sign-in clears stale session state, and cookie backup is only saved from healthy queue pages.",
+    "publishedAt":  "2026-06-17T17:17:58.6079951Z"
 }
