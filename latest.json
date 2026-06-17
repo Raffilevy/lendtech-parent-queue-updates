@@ -1,8 +1,8 @@
 {
-    "version":  "1.5.70",
-    "latestVersion":  "1.5.70",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.70/LendTech.Parent.Queue.1.5.70.Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.70/LendTech.Parent.Queue.1.5.70.Installer.exe",
-    "notes":  "Adds 10 new theme presets with stronger UFS vs TruPath contrast pairs.",
-    "publishedAt":  "2026-06-17T20:49:16.1142667Z"
+    "version":  "1.5.71",
+    "latestVersion":  "1.5.71",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.71/LendTech.Parent.Queue.1.5.71.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.71/LendTech.Parent.Queue.1.5.71.Installer.exe",
+    "notes":  "Reverts in-app update restart to proven 1.5.51 cmd+Close behavior; removes all post-1.5.51 update shutdown/PS launcher/WebView2-kill logic.",
+    "publishedAt":  "2026-06-17T21:39:17.8113593Z"
 }
