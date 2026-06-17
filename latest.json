@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "1.5.65",
-    "latestVersion":  "1.5.65",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.65/LendTech.Parent.Queue.1.5.65.Installer.exe",
-    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.65/LendTech.Parent.Queue.1.5.65.Installer.exe",
-    "fileName":  "LendTech.Parent.Queue.1.5.65.Installer.exe",
-    "notes":  "Finishes update relaunch hardening: disposes WebView2 during shutdown, kills install-root WebView2/process zombies, matches app processes by command line when ExecutablePath is unavailable, waits longer for relaunch, and falls back to a verified backup launch.",
-    "publishedAt":  "2026-06-17T17:32:00.4530569Z"
+    "version":  "1.5.66",
+    "latestVersion":  "1.5.66",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.66/LendTech.Parent.Queue.1.5.66.Installer.exe",
+    "url":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.66/LendTech.Parent.Queue.1.5.66.Installer.exe",
+    "fileName":  "LendTech.Parent.Queue.1.5.66.Installer.exe",
+    "notes":  "Removes all cookie/session-backup deletion from UFS/TruPath sign-in flows, renames Reset sign-in to Open sign-in page, restores AutoGoogleSignIn during auth navigation, and keeps the no-auto-reload protection for stuck login pages.",
+    "publishedAt":  "2026-06-17T17:42:20.6233697Z"
 }
