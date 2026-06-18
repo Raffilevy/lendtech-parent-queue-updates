@@ -1,8 +1,8 @@
 ﻿{
-    "latestVersion":  "1.5.78",
-    "version":  "1.5.78",
-    "publishedAt":  "2026-06-18T13:43:45.3615753Z",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.78/LendTech.Parent.Queue.1.5.78.Installer.exe",
-    "notes":  "Version-only test package for the temp-based UpdateRunner relaunch fix.",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.78/LendTech.Parent.Queue.1.5.78.Installer.exe"
+    "latestVersion":  "1.5.79",
+    "version":  "1.5.79",
+    "publishedAt":  "2026-06-18T14:45:52.1134883Z",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.79/LendTech.Parent.Queue.1.5.79.Installer.exe",
+    "notes":  "Allows inline PDF links to render in browser tabs instead of being intercepted as downloads/blank pages. Attachment downloads still save normally.",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.79/LendTech.Parent.Queue.1.5.79.Installer.exe"
 }
