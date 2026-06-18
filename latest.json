@@ -1,8 +1,8 @@
 ﻿{
-    "latestVersion":  "1.5.81",
-    "version":  "1.5.81",
-    "publishedAt":  "2026-06-18T15:18:57.8533852Z",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.81/LendTech.Parent.Queue.1.5.81.Installer.exe",
-    "notes":  "Fixes LendTech ls_secure_download.php links with inline=1 so they open as inline PDFs instead of being classified as downloads and landing on about:blank.",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.81/LendTech.Parent.Queue.1.5.81.Installer.exe"
+    "latestVersion":  "1.5.82",
+    "version":  "1.5.82",
+    "publishedAt":  "2026-06-18T15:29:58.6406373Z",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.82/LendTech.Parent.Queue.1.5.82.Installer.exe",
+    "notes":  "Smooths Contracts Back editing by deferring table rebuilds briefly after worker/status/note edits so dropdowns do not blip while switching fields.",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.82/LendTech.Parent.Queue.1.5.82.Installer.exe"
 }
