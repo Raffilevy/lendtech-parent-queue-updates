@@ -1,8 +1,8 @@
 ﻿{
-    "latestVersion":  "1.5.79",
-    "version":  "1.5.79",
-    "publishedAt":  "2026-06-18T14:45:52.1134883Z",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.79/LendTech.Parent.Queue.1.5.79.Installer.exe",
-    "notes":  "Allows inline PDF links to render in browser tabs instead of being intercepted as downloads/blank pages. Attachment downloads still save normally.",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.79/LendTech.Parent.Queue.1.5.79.Installer.exe"
+    "latestVersion":  "1.5.80",
+    "version":  "1.5.80",
+    "publishedAt":  "2026-06-18T15:00:54.7029453Z",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.80/LendTech.Parent.Queue.1.5.80.Installer.exe",
+    "notes":  "Fixes URL popups/PDF tabs getting stranded at about:blank by creating URL-bearing new tabs directly instead of handing an empty tab to WebView2 first.",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.80/LendTech.Parent.Queue.1.5.80.Installer.exe"
 }
