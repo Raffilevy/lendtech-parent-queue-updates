@@ -1,8 +1,8 @@
 ﻿{
-    "latestVersion":  "1.5.77",
-    "version":  "1.5.77",
-    "publishedAt":  "2026-06-18T13:41:02.4779527Z",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.77/LendTech.Parent.Queue.1.5.77.Installer.exe",
-    "notes":  "Fixes in-app update relaunch by running the updater helper from Temp and sweeping same-install app/WebView2 processes before install.",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.77/LendTech.Parent.Queue.1.5.77.Installer.exe"
+    "latestVersion":  "1.5.78",
+    "version":  "1.5.78",
+    "publishedAt":  "2026-06-18T13:43:45.3615753Z",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.78/LendTech.Parent.Queue.1.5.78.Installer.exe",
+    "notes":  "Version-only test package for the temp-based UpdateRunner relaunch fix.",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.78/LendTech.Parent.Queue.1.5.78.Installer.exe"
 }
