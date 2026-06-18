@@ -1,8 +1,8 @@
 ﻿{
-    "latestVersion":  "1.5.82",
-    "version":  "1.5.82",
-    "publishedAt":  "2026-06-18T15:29:58.6406373Z",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.82/LendTech.Parent.Queue.1.5.82.Installer.exe",
-    "notes":  "Smooths Contracts Back editing by deferring table rebuilds briefly after worker/status/note edits so dropdowns do not blip while switching fields.",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.82/LendTech.Parent.Queue.1.5.82.Installer.exe"
+    "latestVersion":  "1.5.83",
+    "version":  "1.5.83",
+    "publishedAt":  "2026-06-18T17:26:13.4610827Z",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.83/LendTech.Parent.Queue.1.5.83.Installer.exe",
+    "notes":  "Adds View Archived toggle for Contracts Back and moves rows immediately when status changes, while the server save reconciles in the background.",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.83/LendTech.Parent.Queue.1.5.83.Installer.exe"
 }
