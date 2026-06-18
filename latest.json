@@ -1,8 +1,8 @@
 {
-    "latestVersion":  "1.5.84",
-    "version":  "1.5.84",
-    "publishedAt":  "2026-06-18T17:54:04.1641457Z",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.84/LendTech.Parent.Queue.1.5.84.Installer.exe",
-    "notes":  "Contracts Back archives now preserve the previous status as a separate hidden state; archived rows appear in their original status groups when View Archived is on.",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.84/LendTech.Parent.Queue.1.5.84.Installer.exe"
+    "latestVersion":  "1.5.85",
+    "version":  "1.5.85",
+    "publishedAt":  "2026-06-18T21:18:30.1433114Z",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.85/LendTech.Parent.Queue.1.5.85.Installer.exe",
+    "notes":  "Contracts Back now supports click-to-sort columns with remembered sort preference. Archive timing remains based on when a contract enters Funded/Stale/Killed.",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.85/LendTech.Parent.Queue.1.5.85.Installer.exe"
 }
