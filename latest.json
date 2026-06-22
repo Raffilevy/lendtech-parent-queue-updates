@@ -1,8 +1,8 @@
 {
-    "latestVersion":  "1.5.87",
-    "version":  "1.5.87",
-    "publishedAt":  "2026-06-22T15:14:44.1891208Z",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.87/LendTech.Parent.Queue.1.5.87.Installer.exe",
-    "notes":  "Contracts Back Waiting now resets from the moment a status is changed, while untouched rows still count from the contract email time.",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.87/LendTech.Parent.Queue.1.5.87.Installer.exe"
+    "latestVersion":  "1.5.88",
+    "version":  "1.5.88",
+    "publishedAt":  "2026-06-22T18:41:38.3820654Z",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.88/LendTech.Parent.Queue.1.5.88.Installer.exe",
+    "notes":  "Contracts Back deleted deals now stay deleted. Manual Gmail refresh skips deleted deal tombstones, and deleted rows are no longer auto-archived/revived by sync.",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.88/LendTech.Parent.Queue.1.5.88.Installer.exe"
 }
