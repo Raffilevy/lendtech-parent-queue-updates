@@ -1,8 +1,8 @@
 {
-    "latestVersion":  "1.5.85",
-    "version":  "1.5.85",
-    "publishedAt":  "2026-06-18T21:18:30.1433114Z",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.85/LendTech.Parent.Queue.1.5.85.Installer.exe",
-    "notes":  "Contracts Back now supports click-to-sort columns with remembered sort preference. Archive timing remains based on when a contract enters Funded/Stale/Killed.",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.85/LendTech.Parent.Queue.1.5.85.Installer.exe"
+    "latestVersion":  "1.5.86",
+    "version":  "1.5.86",
+    "publishedAt":  "2026-06-22T13:54:24.8885259Z",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.86/LendTech.Parent.Queue.1.5.86.Installer.exe",
+    "notes":  "Fixes Contracts Back deleted rows coming back as Not Started after search/sync refresh. Deleted contracts no longer auto-revive when Gmail sees the same email again.",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.86/LendTech.Parent.Queue.1.5.86.Installer.exe"
 }
