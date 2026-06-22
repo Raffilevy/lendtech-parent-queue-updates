@@ -1,8 +1,8 @@
 {
-    "latestVersion":  "1.5.88",
-    "version":  "1.5.88",
-    "publishedAt":  "2026-06-22T18:41:38.3820654Z",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.88/LendTech.Parent.Queue.1.5.88.Installer.exe",
-    "notes":  "Contracts Back deleted deals now stay deleted. Manual Gmail refresh skips deleted deal tombstones, and deleted rows are no longer auto-archived/revived by sync.",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.88/LendTech.Parent.Queue.1.5.88.Installer.exe"
+    "latestVersion":  "1.5.89",
+    "version":  "1.5.89",
+    "publishedAt":  "2026-06-22T19:16:33.2241310Z",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.89/LendTech.Parent.Queue.1.5.89.Installer.exe",
+    "notes":  "Adds a local-only rolling browser trace for the last five minutes. Bug reports now include recent tab, navigation, download, scrape, and deal-open browser events.",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.89/LendTech.Parent.Queue.1.5.89.Installer.exe"
 }
