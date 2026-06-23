@@ -1,8 +1,8 @@
 {
-    "latestVersion":  "1.5.90",
-    "version":  "1.5.90",
-    "publishedAt":  "2026-06-23T13:45:59.9539040Z",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.90/LendTech.Parent.Queue.1.5.90.Installer.exe",
-    "notes":  "Fixes embedded browser auth loops where Google OAuth consent lands on Error 400/stale URLs. Queue refresh now reports SIGNED_OUT when a browser is on login/auth pages instead of treating them as scrape-ready.",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.90/LendTech.Parent.Queue.1.5.90.Installer.exe"
+    "latestVersion":  "1.5.91",
+    "version":  "1.5.91",
+    "publishedAt":  "2026-06-23T13:55:13.9802775Z",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.91/LendTech.Parent.Queue.1.5.91.Installer.exe",
+    "notes":  "Browser tabs now preserve a lightweight back/forward history across app restarts. If WebView2 native history is empty after restore, the app falls back to the saved per-tab URL history.",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.91/LendTech.Parent.Queue.1.5.91.Installer.exe"
 }
