@@ -1,8 +1,8 @@
 {
-    "latestVersion":  "1.5.92",
-    "version":  "1.5.92",
-    "publishedAt":  "2026-06-24T13:55:36.4611037Z",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.92/LendTech.Parent.Queue.1.5.92.Installer.exe",
-    "notes":  "Fixed the harmless WinForms error shown when using saved Back/Forward history after reopening the app. Restored tab navigation continues to work without relying on a recreated window handle.",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.92/LendTech.Parent.Queue.1.5.92.Installer.exe"
+    "latestVersion":  "1.5.93",
+    "version":  "1.5.93",
+    "publishedAt":  "2026-06-24T15:49:43.0617789Z",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.93/LendTech.Parent.Queue.1.5.93.Installer.exe",
+    "notes":  "Fixed a false Google Chat permission warning caused by one inaccessible or obsolete space. The scanner now skips only that space while continuing to load all healthy spaces; real account-level permission failures still request reconnect.",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.93/LendTech.Parent.Queue.1.5.93.Installer.exe"
 }
