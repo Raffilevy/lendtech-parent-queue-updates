@@ -1,8 +1,8 @@
 {
-    "latestVersion":  "1.5.95",
-    "version":  "1.5.95",
-    "publishedAt":  "2026-06-24T19:30:46.1430640Z",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.95/LendTech.Parent.Queue.1.5.95.Installer.exe",
-    "notes":  "Browser navigation buttons now use properly centered Windows icon glyphs. The toolbar is separated from the tab strip to remove the overlapping top border, and the new-tab button is vertically aligned with the tabs.",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.95/LendTech.Parent.Queue.1.5.95.Installer.exe"
+    "latestVersion":  "1.5.96",
+    "version":  "1.5.96",
+    "publishedAt":  "2026-06-24T19:41:46.7768562Z",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.96/LendTech.Parent.Queue.1.5.96.Installer.exe",
+    "notes":  "Back, Forward, and Reload/Stop now use Chrome-style borderless controls: flat idle state, muted line icons, compact spacing, disabled dimming, and a subtle rounded hover/pressed surface.",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.96/LendTech.Parent.Queue.1.5.96.Installer.exe"
 }
