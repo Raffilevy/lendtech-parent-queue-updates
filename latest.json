@@ -1,8 +1,8 @@
 {
-    "latestVersion":  "1.5.94",
-    "version":  "1.5.94",
-    "publishedAt":  "2026-06-24T18:57:54.7000158Z",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.94/LendTech.Parent.Queue.1.5.94.Installer.exe",
-    "notes":  "Browser Back, Forward, Reload, and Stop controls now use compact themed icons with tooltips. Page navigation shows a 3px animated accent progress bar that eases toward 90%, completes at 100%, then disappears.",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.94/LendTech.Parent.Queue.1.5.94.Installer.exe"
+    "latestVersion":  "1.5.95",
+    "version":  "1.5.95",
+    "publishedAt":  "2026-06-24T19:30:46.1430640Z",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.95/LendTech.Parent.Queue.1.5.95.Installer.exe",
+    "notes":  "Browser navigation buttons now use properly centered Windows icon glyphs. The toolbar is separated from the tab strip to remove the overlapping top border, and the new-tab button is vertically aligned with the tabs.",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.95/LendTech.Parent.Queue.1.5.95.Installer.exe"
 }
