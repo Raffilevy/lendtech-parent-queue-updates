@@ -1,8 +1,8 @@
 {
-    "latestVersion":  "1.5.91",
-    "version":  "1.5.91",
-    "publishedAt":  "2026-06-23T13:55:13.9802775Z",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.91/LendTech.Parent.Queue.1.5.91.Installer.exe",
-    "notes":  "Browser tabs now preserve a lightweight back/forward history across app restarts. If WebView2 native history is empty after restore, the app falls back to the saved per-tab URL history.",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.91/LendTech.Parent.Queue.1.5.91.Installer.exe"
+    "latestVersion":  "1.5.92",
+    "version":  "1.5.92",
+    "publishedAt":  "2026-06-24T13:55:36.4611037Z",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.92/LendTech.Parent.Queue.1.5.92.Installer.exe",
+    "notes":  "Fixed the harmless WinForms error shown when using saved Back/Forward history after reopening the app. Restored tab navigation continues to work without relying on a recreated window handle.",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.92/LendTech.Parent.Queue.1.5.92.Installer.exe"
 }
