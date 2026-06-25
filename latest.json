@@ -1,8 +1,8 @@
 {
-    "latestVersion":  "1.5.99",
-    "version":  "1.5.99",
-    "publishedAt":  "2026-06-25T15:20:19.9261577Z",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.99/LendTech.Parent.Queue.1.5.99.Installer.exe",
-    "notes":  "Fixed the Reload button red-X and Parameter is not valid exception. The icon now uses a stable anti-aliased arc plus a filled arrowhead, with no custom pen-cap APIs.",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.99/LendTech.Parent.Queue.1.5.99.Installer.exe"
+    "latestVersion":  "1.5.100",
+    "version":  "1.5.100",
+    "publishedAt":  "2026-06-25T15:24:50.0576839Z",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.100/LendTech.Parent.Queue.1.5.100.Installer.exe",
+    "notes":  "Refined the Reload icon into a clearly recognizable broken circle with a separate rounded chevron arrowhead. It is larger, balanced, and no longer reads like a plain letter C.",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.100/LendTech.Parent.Queue.1.5.100.Installer.exe"
 }
