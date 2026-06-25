@@ -1,8 +1,8 @@
 {
-    "latestVersion":  "1.5.96",
-    "version":  "1.5.96",
-    "publishedAt":  "2026-06-24T19:41:46.7768562Z",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.96/LendTech.Parent.Queue.1.5.96.Installer.exe",
-    "notes":  "Back, Forward, and Reload/Stop now use Chrome-style borderless controls: flat idle state, muted line icons, compact spacing, disabled dimming, and a subtle rounded hover/pressed surface.",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.96/LendTech.Parent.Queue.1.5.96.Installer.exe"
+    "latestVersion":  "1.5.97",
+    "version":  "1.5.97",
+    "publishedAt":  "2026-06-25T14:39:08.1148686Z",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.97/LendTech.Parent.Queue.1.5.97.Installer.exe",
+    "notes":  "Replaced browser navigation font glyphs with custom anti-aliased vector icons. Back, Forward, Reload, and Stop now have consistent rounded strokes, balanced proportions, and exact centering across Windows systems.",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.97/LendTech.Parent.Queue.1.5.97.Installer.exe"
 }
