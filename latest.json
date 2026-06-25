@@ -1,8 +1,8 @@
 {
-    "latestVersion":  "1.5.101",
-    "version":  "1.5.101",
-    "publishedAt":  "2026-06-25T15:28:26.3744858Z",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.101/LendTech.Parent.Queue.1.5.101.Installer.exe",
-    "notes":  "Corrected the Reload arrowhead so it follows the circular icon clockwise instead of pointing against the arc.",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.101/LendTech.Parent.Queue.1.5.101.Installer.exe"
+    "latestVersion":  "1.5.102",
+    "version":  "1.5.102",
+    "publishedAt":  "2026-06-25T15:41:28.3690890Z",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.102/LendTech.Parent.Queue.1.5.102.Installer.exe",
+    "notes":  "Optically centered the Reload icon one pixel to the right based on its actual rendered pixel bounds. Other navigation icons are unchanged.",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.102/LendTech.Parent.Queue.1.5.102.Installer.exe"
 }
