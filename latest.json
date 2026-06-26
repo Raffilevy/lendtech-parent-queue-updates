@@ -1,8 +1,8 @@
 {
-    "latestVersion":  "1.5.102",
-    "version":  "1.5.102",
-    "publishedAt":  "2026-06-25T15:41:28.3690890Z",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.102/LendTech.Parent.Queue.1.5.102.Installer.exe",
-    "notes":  "Optically centered the Reload icon one pixel to the right based on its actual rendered pixel bounds. Other navigation icons are unchanged.",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.102/LendTech.Parent.Queue.1.5.102.Installer.exe"
+    "latestVersion":  "1.5.103",
+    "version":  "1.5.103",
+    "publishedAt":  "2026-06-26T13:39:11.7074561Z",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.103/LendTech.Parent.Queue.1.5.103.Installer.exe",
+    "notes":  "Replaced the browser reload toolbar glyph with a cleaner Chrome-style filled refresh icon based on the provided reference image.",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.103/LendTech.Parent.Queue.1.5.103.Installer.exe"
 }
