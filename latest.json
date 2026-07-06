@@ -1,8 +1,8 @@
 {
-    "latestVersion":  "1.5.105",
-    "version":  "1.5.105",
-    "publishedAt":  "2026-07-06T15:05:57.8556355Z",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.105/LendTech.Parent.Queue.1.5.105.Installer.exe",
-    "notes":  "Contracts Back manual Add Deal now includes an optional dollar amount field and saves it into the Deal Size column.",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.105/LendTech.Parent.Queue.1.5.105.Installer.exe"
+    "latestVersion":  "1.5.106",
+    "version":  "1.5.106",
+    "publishedAt":  "2026-07-06T19:58:58.1054779Z",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.106/LendTech.Parent.Queue.1.5.106.Installer.exe",
+    "notes":  "Contracts Back notes now expand with one click for easier reading and editing. Escape collapses the expanded note box.",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.106/LendTech.Parent.Queue.1.5.106.Installer.exe"
 }
