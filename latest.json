@@ -1,8 +1,8 @@
 {
-    "latestVersion":  "1.5.107",
-    "version":  "1.5.107",
-    "publishedAt":  "2026-07-09T15:39:55.9966082Z",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.107/LendTech.Parent.Queue.1.5.107.Installer.exe",
-    "notes":  "Google Chat names in the queue now let you choose to edit the saved name or mute the chat when clicked.",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.107/LendTech.Parent.Queue.1.5.107.Installer.exe"
+    "latestVersion":  "1.5.108",
+    "version":  "1.5.108",
+    "publishedAt":  "2026-07-16T20:32:57.1644006Z",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.108/LendTech.Parent.Queue.1.5.108.Installer.exe",
+    "notes":  "Deal queue now alerts when a deal has been waiting over one hour, flashes the app taskbar icon, and lets users set a remind-later timer per deal.",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.108/LendTech.Parent.Queue.1.5.108.Installer.exe"
 }
