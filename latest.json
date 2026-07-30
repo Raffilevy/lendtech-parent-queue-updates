@@ -1,8 +1,8 @@
 {
-    "version":  "1.6.7",
-    "latestVersion":  "1.6.7",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.7/LendTech.Parent.Queue.1.6.7.Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.7/LendTech.Parent.Queue.1.6.7.Installer.exe",
-    "notes":  "Fix UFS Pricing Lab owner-by-owner credit capture and false missing-credit validation caused by Material icon text.",
-    "publishedAt":  "2026-07-30T19:04:40.5171270Z"
+    "version":  "1.6.8",
+    "latestVersion":  "1.6.8",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.8/LendTech.Parent.Queue.1.6.8.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.8/LendTech.Parent.Queue.1.6.8.Installer.exe",
+    "notes":  "Pricing Lab now skips deals with extraction errors, records the reason, continues the batch, and guarantees transient-tab cleanup.",
+    "publishedAt":  "2026-07-30T19:13:14.2355269Z"
 }
