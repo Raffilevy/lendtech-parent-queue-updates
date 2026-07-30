@@ -1,8 +1,8 @@
 {
-    "version":  "1.6.5",
-    "latestVersion":  "1.6.5",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.5/LendTech.Parent.Queue.1.6.5.Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.5/LendTech.Parent.Queue.1.6.5.Installer.exe",
-    "notes":  "TruPath Pricing Lab captures every owner Experian report from External Searches and closes each temporary report tab after capture.",
-    "publishedAt":  "2026-07-30T18:29:09.6984732Z"
+    "version":  "1.6.6",
+    "latestVersion":  "1.6.6",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.6/LendTech.Parent.Queue.1.6.6.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.6/LendTech.Parent.Queue.1.6.6.Installer.exe",
+    "notes":  "Fix TruPath Pricing Lab credit extraction for CBC - Experian owner reports and add actionable row diagnostics.",
+    "publishedAt":  "2026-07-30T18:54:04.2458763Z"
 }
