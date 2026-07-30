@@ -1,8 +1,8 @@
 {
-    "latestVersion":  "1.6.4",
-    "version":  "1.6.4",
-    "publishedAt":  "2026-07-30T18:12:00.4343033Z",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.4/LendTech.Parent.Queue.1.6.4.Installer.exe",
-    "notes":  "Pricing Lab now saves every bank-statement CSV and each principal full Experian report, records scanner/reconciliation source evidence, supports stopping extraction mid-process, and treats missing DBA as optional.",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.4/LendTech.Parent.Queue.1.6.4.Installer.exe"
+    "version":  "1.6.5",
+    "latestVersion":  "1.6.5",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.5/LendTech.Parent.Queue.1.6.5.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.5/LendTech.Parent.Queue.1.6.5.Installer.exe",
+    "notes":  "TruPath Pricing Lab captures every owner Experian report from External Searches and closes each temporary report tab after capture.",
+    "publishedAt":  "2026-07-30T18:29:09.6984732Z"
 }
