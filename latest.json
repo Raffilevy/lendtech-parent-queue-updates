@@ -1,8 +1,8 @@
 {
-    "latestVersion":  "1.6.0",
-    "version":  "1.6.0",
-    "publishedAt":  "2026-07-30T16:07:00.5700046Z",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.0/LendTech.Parent.Queue.1.6.0.Installer.exe",
-    "notes":  "Optional Pricing Lab historical approval intake, disabled by default. Strict scans stop immediately when any required intake factor is missing.",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.0/LendTech.Parent.Queue.1.6.0.Installer.exe"
+    "version":  "1.6.1",
+    "latestVersion":  "1.6.1",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.1/LendTech.Parent.Queue.1.6.1.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.1/LendTech.Parent.Queue.1.6.1.Installer.exe",
+    "notes":  "Pricing Lab Phase 2: sequential LendTech deal extraction with strict required-factor validation, resumable progress, and a single temporary tab that closes before the next deal opens.",
+    "publishedAt":  "2026-07-30T17:07:49.5266769Z"
 }
