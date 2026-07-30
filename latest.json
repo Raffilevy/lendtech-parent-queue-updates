@@ -1,8 +1,8 @@
 {
-    "latestVersion":  "1.5.108",
-    "version":  "1.5.108",
-    "publishedAt":  "2026-07-16T20:32:57.1644006Z",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.108/LendTech.Parent.Queue.1.5.108.Installer.exe",
-    "notes":  "Deal queue now alerts when a deal has been waiting over one hour, flashes the app taskbar icon, and lets users set a remind-later timer per deal.",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.5.108/LendTech.Parent.Queue.1.5.108.Installer.exe"
-}
+    "latestVersion":  "1.6.0",
+    "version":  "1.6.0",
+    "publishedAt":  "2026-07-30T16:06:35.5780660Z",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.0/LendTech.Parent.Queue.1.6.0.Installer.exe",
+    "notes":  "Optional Pricing Lab historical approval intake, disabled by default. Strict scans stop immediately when any required intake factor is missing.",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.0/LendTech.Parent.Queue.1.6.0.Installer.exe"
+}`n
