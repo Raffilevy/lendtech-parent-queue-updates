@@ -1,8 +1,8 @@
 {
-    "version":  "1.6.9",
-    "latestVersion":  "1.6.9",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.9/LendTech.Parent.Queue.1.6.9.Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.9/LendTech.Parent.Queue.1.6.9.Installer.exe",
-    "notes":  "Fixes false Pricing Lab extraction failures by waiting for real Active Offers rows, adding reliable entity-name fallbacks, broadening offer parsing, and preserving diagnostics for skipped deals.",
-    "publishedAt":  "2026-07-30T20:02:12.7187484Z"
+    "version":  "1.6.10",
+    "latestVersion":  "1.6.10",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.10/LendTech.Parent.Queue.1.6.10.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.10/LendTech.Parent.Queue.1.6.10.Installer.exe",
+    "notes":  "Pricing Lab no longer treats a missing business location as a blocking extraction error. Location is retained when available but is now optional, so affected deals continue processing.",
+    "publishedAt":  "2026-07-30T20:14:38.2298348Z"
 }
