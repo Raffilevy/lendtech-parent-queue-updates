@@ -1,8 +1,8 @@
 {
-    "version":  "1.6.1",
-    "latestVersion":  "1.6.1",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.1/LendTech.Parent.Queue.1.6.1.Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.1/LendTech.Parent.Queue.1.6.1.Installer.exe",
-    "notes":  "Pricing Lab Phase 2: sequential LendTech deal extraction with strict required-factor validation, resumable progress, and a single temporary tab that closes before the next deal opens.",
-    "publishedAt":  "2026-07-30T17:07:49.5266769Z"
+    "latestVersion":  "1.6.2",
+    "version":  "1.6.2",
+    "publishedAt":  "2026-07-30T17:23:58.6732079Z",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.2/LendTech.Parent.Queue.1.6.2.Installer.exe",
+    "notes":  "Corrects Pricing Lab source policy: LendTech industry classifications are now explicitly untrusted and excluded from decisions. Phase 2 stores structured business, banking, reconciliation, credit, principal, and final-offer evidence for the AI inference stage, and rebuilds older extraction records under schema v2.",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.2/LendTech.Parent.Queue.1.6.2.Installer.exe"
 }
