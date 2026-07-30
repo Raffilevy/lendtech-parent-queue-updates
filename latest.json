@@ -1,8 +1,8 @@
 {
-    "latestVersion":  "1.6.3",
-    "version":  "1.6.3",
-    "publishedAt":  "2026-07-30T18:09:57.9993344Z",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.3/LendTech.Parent.Queue.1.6.3.Installer.exe",
-    "notes":  "Pricing Lab now saves full Experian reports and every bank-statement CSV, records scanner/reconciliation source evidence, can stop extraction mid-process, and no longer requires a DBA.",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.3/LendTech.Parent.Queue.1.6.3.Installer.exe"
+    "latestVersion":  "1.6.4",
+    "version":  "1.6.4",
+    "publishedAt":  "2026-07-30T18:12:00.4343033Z",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.4/LendTech.Parent.Queue.1.6.4.Installer.exe",
+    "notes":  "Pricing Lab now saves every bank-statement CSV and each principal full Experian report, records scanner/reconciliation source evidence, supports stopping extraction mid-process, and treats missing DBA as optional.",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.4/LendTech.Parent.Queue.1.6.4.Installer.exe"
 }
