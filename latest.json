@@ -1,8 +1,8 @@
 {
-    "version":  "1.6.6",
-    "latestVersion":  "1.6.6",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.6/LendTech.Parent.Queue.1.6.6.Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.6/LendTech.Parent.Queue.1.6.6.Installer.exe",
-    "notes":  "Fix TruPath Pricing Lab credit extraction for CBC - Experian owner reports and add actionable row diagnostics.",
-    "publishedAt":  "2026-07-30T18:54:04.2458763Z"
+    "version":  "1.6.7",
+    "latestVersion":  "1.6.7",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.7/LendTech.Parent.Queue.1.6.7.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.7/LendTech.Parent.Queue.1.6.7.Installer.exe",
+    "notes":  "Fix UFS Pricing Lab owner-by-owner credit capture and false missing-credit validation caused by Material icon text.",
+    "publishedAt":  "2026-07-30T19:04:40.5171270Z"
 }
