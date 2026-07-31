@@ -1,8 +1,8 @@
 {
-    "version":  "1.6.10",
-    "latestVersion":  "1.6.10",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.10/LendTech.Parent.Queue.1.6.10.Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.10/LendTech.Parent.Queue.1.6.10.Installer.exe",
-    "notes":  "Pricing Lab no longer treats a missing business location as a blocking extraction error. Location is retained when available but is now optional, so affected deals continue processing.",
-    "publishedAt":  "2026-07-30T20:14:38.2298348Z"
+    "version":  "1.6.11",
+    "latestVersion":  "1.6.11",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.11/LendTech.Parent.Queue.1.6.11.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.11/LendTech.Parent.Queue.1.6.11.Installer.exe",
+    "notes":  "Pricing Lab now recognizes TruPath Principal Loan Amount offers and no longer counts middle-name variants as extra principals.",
+    "publishedAt":  "2026-07-31T14:33:06.2271378Z"
 }
