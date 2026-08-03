@@ -1,8 +1,8 @@
 {
-    "version":  "1.6.14",
-    "latestVersion":  "1.6.14",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.14/LendTech.Parent.Queue.1.6.14.Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.14/LendTech.Parent.Queue.1.6.14.Installer.exe",
-    "notes":  "Pricing Lab now prepares a clean model-ready snapshot with daily-normalized labels, structured banking and credit features, explicit exclusions, and readiness diagnostics.",
-    "publishedAt":  "2026-08-03T14:31:56.5865291Z"
+    "version":  "1.6.15",
+    "updatedAt":  "2026-08-03T15:42:43.1005196Z",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.15/LendTech.Parent.Queue.1.6.15.Installer.exe",
+    "notes":  "Pricing Lab now resumes interrupted extraction from its saved checkpoint without rechecking completed or skipped deals. Skipped failures have a separate explicit retry action. Training dataset schema 2 adds revenue volatility, average ending balance, ending-balance-to-revenue, and ending-balance trend features.",
+    "appVersion":  "1.6.15",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.15/LendTech.Parent.Queue.1.6.15.Installer.exe"
 }
