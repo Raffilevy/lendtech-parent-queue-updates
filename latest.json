@@ -1,8 +1,8 @@
 {
-    "version":  "1.6.12",
-    "latestVersion":  "1.6.12",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.12/LendTech.Parent.Queue.1.6.12.Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.12/LendTech.Parent.Queue.1.6.12.Installer.exe",
-    "notes":  "Pricing Lab now repairs offer labels strictly from Active Offers, uses Number of Payments, and checks up to 10 deals at once without replacing banking, credit, or other extracted data.",
-    "publishedAt":  "2026-07-31T19:11:25.4726489Z"
+    "version":  "1.6.13",
+    "latestVersion":  "1.6.13",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.13/LendTech.Parent.Queue.1.6.13.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.13/LendTech.Parent.Queue.1.6.13.Installer.exe",
+    "notes":  "Pricing Lab now resolves multiple Active Offers by selecting the highest offer number, such as #158142 over #158133.",
+    "publishedAt":  "2026-08-03T13:43:08.0697669Z"
 }
