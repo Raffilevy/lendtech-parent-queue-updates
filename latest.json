@@ -1,8 +1,8 @@
 {
-    "version":  "1.6.17",
-    "updatedAt":  "2026-08-03T20:50:53.4062622Z",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.17/LendTech.Parent.Queue.1.6.17.Installer.exe",
-    "notes":  "Fixes Claude Settings save/test requests that completed locally but timed out in the UI. AI configuration routes now return immediately. Removes pilot deal and cost caps so future analysis processes the complete prepared dataset. Existing encrypted Claude keys are preserved.",
-    "appVersion":  "1.6.17",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.17/LendTech.Parent.Queue.1.6.17.Installer.exe"
+    "version":  "1.6.18",
+    "updatedAt":  "2026-08-03T20:59:19.6487012Z",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.18/LendTech.Parent.Queue.1.6.18.Installer.exe",
+    "notes":  "Replaces Claude Settings fetch calls with a direct WebView-to-host message bridge, fixing false Failed to fetch errors after successful saves. The existing encrypted key was verified successfully with Anthropic. AI processing is configured for the complete prepared dataset with no deal or cost cap.",
+    "appVersion":  "1.6.18",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.18/LendTech.Parent.Queue.1.6.18.Installer.exe"
 }
