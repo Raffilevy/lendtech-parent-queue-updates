@@ -1,8 +1,8 @@
 {
-    "version":  "1.6.16",
-    "updatedAt":  "2026-08-03T18:54:39.2309228Z",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.16/LendTech.Parent.Queue.1.6.16.Installer.exe",
-    "notes":  "Pricing Lab now has secure Claude API configuration. The key is encrypted to the current Windows user and excluded from sync, installers, diagnostics, and reports. Settings include a no-token connection test, current model selection, a pilot deal limit, and a per-run cost ceiling. AI analysis remains off until explicitly enabled.",
-    "appVersion":  "1.6.16",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.16/LendTech.Parent.Queue.1.6.16.Installer.exe"
+    "version":  "1.6.17",
+    "updatedAt":  "2026-08-03T20:50:53.4062622Z",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.17/LendTech.Parent.Queue.1.6.17.Installer.exe",
+    "notes":  "Fixes Claude Settings save/test requests that completed locally but timed out in the UI. AI configuration routes now return immediately. Removes pilot deal and cost caps so future analysis processes the complete prepared dataset. Existing encrypted Claude keys are preserved.",
+    "appVersion":  "1.6.17",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.17/LendTech.Parent.Queue.1.6.17.Installer.exe"
 }
