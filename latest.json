@@ -1,8 +1,8 @@
 {
-    "version":  "1.6.13",
-    "latestVersion":  "1.6.13",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.13/LendTech.Parent.Queue.1.6.13.Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.13/LendTech.Parent.Queue.1.6.13.Installer.exe",
-    "notes":  "Pricing Lab now resolves multiple Active Offers by selecting the highest offer number, such as #158142 over #158133.",
-    "publishedAt":  "2026-08-03T13:43:08.0697669Z"
+    "version":  "1.6.14",
+    "latestVersion":  "1.6.14",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.14/LendTech.Parent.Queue.1.6.14.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.14/LendTech.Parent.Queue.1.6.14.Installer.exe",
+    "notes":  "Pricing Lab now prepares a clean model-ready snapshot with daily-normalized labels, structured banking and credit features, explicit exclusions, and readiness diagnostics.",
+    "publishedAt":  "2026-08-03T14:31:56.5865291Z"
 }
