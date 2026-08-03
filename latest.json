@@ -1,8 +1,8 @@
 {
-    "version":  "1.6.15",
-    "updatedAt":  "2026-08-03T15:42:43.1005196Z",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.15/LendTech.Parent.Queue.1.6.15.Installer.exe",
-    "notes":  "Pricing Lab now resumes interrupted extraction from its saved checkpoint without rechecking completed or skipped deals. Skipped failures have a separate explicit retry action. Training dataset schema 2 adds revenue volatility, average ending balance, ending-balance-to-revenue, and ending-balance trend features.",
-    "appVersion":  "1.6.15",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.15/LendTech.Parent.Queue.1.6.15.Installer.exe"
+    "version":  "1.6.16",
+    "updatedAt":  "2026-08-03T18:54:39.2309228Z",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.16/LendTech.Parent.Queue.1.6.16.Installer.exe",
+    "notes":  "Pricing Lab now has secure Claude API configuration. The key is encrypted to the current Windows user and excluded from sync, installers, diagnostics, and reports. Settings include a no-token connection test, current model selection, a pilot deal limit, and a per-run cost ceiling. AI analysis remains off until explicitly enabled.",
+    "appVersion":  "1.6.16",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.16/LendTech.Parent.Queue.1.6.16.Installer.exe"
 }
