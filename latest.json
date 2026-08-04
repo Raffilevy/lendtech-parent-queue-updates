@@ -1,11 +1,11 @@
 {
-  "version": "1.7.2",
-  "latestVersion": "1.7.2",
-  "appVersion": "1.7.2",
-  "publishedAt": "2026-08-04T20:48:13.9380784Z",
-  "updatedAt": "2026-08-04T20:48:13.9380784Z",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.7.2/LendTech.Parent.Queue.1.7.2.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.7.2/LendTech.Parent.Queue.1.7.2.Installer.exe",
-  "sha256": "4b86f3ef8e0887306f8cb82cc88bd31fcbc33633ab8e8af9a7adeb7cf7547e1b",
-  "notes": "Pricing now opens as a compact overlay over the active LendTech deal instead of creating a browser tab. Pricing requests use a direct WebView2 host bridge, eliminating the Failed to fetch error, and the overlay keeps the active deal visible while preserving model comparison, Claude review, and sent-offer confirmation."
+  "version": "1.7.3",
+  "latestVersion": "1.7.3",
+  "appVersion": "1.7.3",
+  "publishedAt": "2026-08-04T21:00:44.1548371Z",
+  "updatedAt": "2026-08-04T21:00:44.1548371Z",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.7.3/LendTech.Parent.Queue.1.7.3.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.7.3/LendTech.Parent.Queue.1.7.3.Installer.exe",
+  "sha256": "67f5d7d24599b63968d56fc473a48b41c9c6b17022ad45b88a0171dd2fbf1c2f",
+  "notes": "Stops the Pricing Advisor from presenting a previously saved Claude preparation failure as a new error. Historical failed reviews are shown as a clean idle state; genuine failures still appear immediately after Prepare Claude Review is pressed in the current pricing session."
 }
