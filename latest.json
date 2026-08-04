@@ -1,11 +1,11 @@
 {
-    "version":  "1.7.0",
-    "latestVersion":  "1.7.0",
-    "appVersion":  "1.7.0",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.7.0/LendTech.Parent.Queue.1.7.0.Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.7.0/LendTech.Parent.Queue.1.7.0.Installer.exe",
-    "sha256":  "BA7483059504601D04508B2329A96550D66D0F4F95F3C0157B05C830A74AF2CC",
-    "notes":  "Pricing Advisor now compares a local tree model and neural network, supports user-selected and custom industries, offers one-deal Claude review with exact cost confirmation, and saves final sent offers as future training examples.",
-    "publishedAt":  "2026-08-04T19:54:15.0087549Z",
-    "updatedAt":  "2026-08-04T19:54:15.0087549Z"
+    "version":  "1.7.1",
+    "latestVersion":  "1.7.1",
+    "appVersion":  "1.7.1",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.7.1/LendTech.Parent.Queue.1.7.1.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.7.1/LendTech.Parent.Queue.1.7.1.Installer.exe",
+    "sha256":  "18444954F5F524D8CAE8211222055B014E791415E41A9A2A87D6DD3C3138A6B2",
+    "notes":  "Urgent Claude review fix: token previews no longer send unsupported output fields, so failed previews send zero paid analysis tokens. Pricing Advisor now opens from a Price button in the active UFS or TruPath deal tab, keeps the correct active deal, removes amount-increment rounding, and confirms when a final offer is saved for retraining.",
+    "publishedAt":  "2026-08-04T20:27:24.2656128Z",
+    "updatedAt":  "2026-08-04T20:27:24.2656128Z"
 }
