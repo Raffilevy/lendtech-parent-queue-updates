@@ -1,10 +1,10 @@
 {
-  "version": "1.6.21",
-  "latestVersion": "1.6.21",
-  "appVersion": "1.6.21",
-  "publishedAt": "2026-08-04T15:14:38.2720839Z",
-  "updatedAt": "2026-08-04T15:14:38.2720839Z",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.21/LendTech.Parent.Queue.1.6.21.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.21/LendTech.Parent.Queue.1.6.21.Installer.exe",
-  "notes": "Final Pricing Lab preflight hardening: validates current Claude Sonnet 5 access, uses Anthropic-compatible structured-output schema, counts the complete evidence prompt without unsupported server-tool fields, retains a conservative web-search allowance, and verifies the Files API path for failed-scanner PDFs. No pricing analysis starts until the exact evidence preview passes."
+  "version": "1.6.22",
+  "latestVersion": "1.6.22",
+  "appVersion": "1.6.22",
+  "publishedAt": "2026-08-04T15:50:55.8756271Z",
+  "updatedAt": "2026-08-04T15:50:55.8756271Z",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.22/LendTech.Parent.Queue.1.6.22.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.22/LendTech.Parent.Queue.1.6.22.Installer.exe",
+  "notes": "Makes missing time in business nonblocking for Pricing Lab. LendTech API repair is attempted first; unresolved deals remain eligible and Claude may provide an evidence-backed value or return null for manual review. Settings now immediately confirms saved UFS and TruPath repair keys."
 }
