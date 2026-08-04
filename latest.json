@@ -1,10 +1,10 @@
 {
-  "version": "1.6.22",
-  "latestVersion": "1.6.22",
-  "appVersion": "1.6.22",
-  "publishedAt": "2026-08-04T15:50:55.8756271Z",
-  "updatedAt": "2026-08-04T15:50:55.8756271Z",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.22/LendTech.Parent.Queue.1.6.22.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.22/LendTech.Parent.Queue.1.6.22.Installer.exe",
-  "notes": "Makes missing time in business nonblocking for Pricing Lab. LendTech API repair is attempted first; unresolved deals remain eligible and Claude may provide an evidence-backed value or return null for manual review. Settings now immediately confirms saved UFS and TruPath repair keys."
+  "version": "1.6.23",
+  "latestVersion": "1.6.23",
+  "appVersion": "1.6.23",
+  "publishedAt": "2026-08-04T16:19:43.4147301Z",
+  "updatedAt": "2026-08-04T16:19:43.4147301Z",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.23/LendTech.Parent.Queue.1.6.23.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.23/LendTech.Parent.Queue.1.6.23.Installer.exe",
+  "notes": "Fixes Claude evidence preflight for PDF-backed deals. PDF token validation now uses Anthropic's supported base64 counting format while the paid batch continues using uploaded file IDs. Existing uploaded PDFs are reused on retry."
 }
