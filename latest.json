@@ -1,8 +1,10 @@
 {
-    "version":  "1.6.20",
-    "latestVersion":  "1.6.20",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.20/LendTech.Parent.Queue.1.6.20.Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.20/LendTech.Parent.Queue.1.6.20.Installer.exe",
-    "notes":  "Claude historical-enrichment hardening: full evidence preflight, 1M-context guidance, strict time-in-business repair, cached PDF recovery, conservative cost ceiling, and stronger result validation.",
-    "publishedAt":  "2026-08-04T14:57:23.5802531Z"
+  "version": "1.6.21",
+  "latestVersion": "1.6.21",
+  "appVersion": "1.6.21",
+  "publishedAt": "2026-08-04T15:14:38.2720839Z",
+  "updatedAt": "2026-08-04T15:14:38.2720839Z",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.21/LendTech.Parent.Queue.1.6.21.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.21/LendTech.Parent.Queue.1.6.21.Installer.exe",
+  "notes": "Final Pricing Lab preflight hardening: validates current Claude Sonnet 5 access, uses Anthropic-compatible structured-output schema, counts the complete evidence prompt without unsupported server-tool fields, retains a conservative web-search allowance, and verifies the Files API path for failed-scanner PDFs. No pricing analysis starts until the exact evidence preview passes."
 }
