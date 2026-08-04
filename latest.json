@@ -1,10 +1,11 @@
 {
-  "version": "1.6.23",
-  "latestVersion": "1.6.23",
-  "appVersion": "1.6.23",
-  "publishedAt": "2026-08-04T16:19:43.4147301Z",
-  "updatedAt": "2026-08-04T16:19:43.4147301Z",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.23/LendTech.Parent.Queue.1.6.23.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.23/LendTech.Parent.Queue.1.6.23.Installer.exe",
-  "notes": "Fixes Claude evidence preflight for PDF-backed deals. PDF token validation now uses Anthropic's supported base64 counting format while the paid batch continues using uploaded file IDs. Existing uploaded PDFs are reused on retry."
+    "version":  "1.6.24",
+    "latestVersion":  "1.6.24",
+    "appVersion":  "1.6.24",
+    "publishedAt":  "2026-08-04T16:53:23.1451877Z",
+    "updatedAt":  "2026-08-04T16:53:23.1451877Z",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.24/LendTech.Parent.Queue.1.6.24.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.24/LendTech.Parent.Queue.1.6.24.Installer.exe",
+    "sha256":  "458aec5a3d5e19f4193053d90b7832010a5076c828e3fcbbb83bb6cac8d9b9fc",
+    "notes":  "Keeps Claude estimate progress visible when evidence validation stops and raises the safe 1M-context input allowance to 950,000 tokens, leaving room for the configured response and bounded web-search evidence. Queue auto-refresh remains independent of Claude processing."
 }
