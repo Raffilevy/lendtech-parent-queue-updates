@@ -1,11 +1,11 @@
 {
-    "version":  "1.6.26",
-    "latestVersion":  "1.6.26",
-    "appVersion":  "1.6.26",
-    "publishedAt":  "2026-08-04T18:07:06.3306592Z",
-    "updatedAt":  "2026-08-04T18:07:06.3306592Z",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.26/LendTech.Parent.Queue.1.6.26.Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.26/LendTech.Parent.Queue.1.6.26.Installer.exe",
-    "sha256":  "e6716b4b0f85e96fc3afa24851e6a7b9ea257c81b5a15fa61ae4d981ac3d047a",
-    "notes":  "Fixes Claude evidence batches being rejected because Anthropic could not compile the large strict output grammar. The app now supplies the complete JSON contract as prompt instructions, parses and validates each result locally, supports fenced JSON recovery, and surfaces the first precise result error. No extraction or PDF upload needs to be repeated."
+    "version":  "1.7.0",
+    "latestVersion":  "1.7.0",
+    "appVersion":  "1.7.0",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.7.0/LendTech.Parent.Queue.1.7.0.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.7.0/LendTech.Parent.Queue.1.7.0.Installer.exe",
+    "sha256":  "BA7483059504601D04508B2329A96550D66D0F4F95F3C0157B05C830A74AF2CC",
+    "notes":  "Pricing Advisor now compares a local tree model and neural network, supports user-selected and custom industries, offers one-deal Claude review with exact cost confirmation, and saves final sent offers as future training examples.",
+    "publishedAt":  "2026-08-04T19:54:15.0087549Z",
+    "updatedAt":  "2026-08-04T19:54:15.0087549Z"
 }
