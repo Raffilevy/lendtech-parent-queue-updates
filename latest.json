@@ -1,11 +1,11 @@
 {
-    "version":  "1.7.1",
-    "latestVersion":  "1.7.1",
-    "appVersion":  "1.7.1",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.7.1/LendTech.Parent.Queue.1.7.1.Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.7.1/LendTech.Parent.Queue.1.7.1.Installer.exe",
-    "sha256":  "18444954F5F524D8CAE8211222055B014E791415E41A9A2A87D6DD3C3138A6B2",
-    "notes":  "Urgent Claude review fix: token previews no longer send unsupported output fields, so failed previews send zero paid analysis tokens. Pricing Advisor now opens from a Price button in the active UFS or TruPath deal tab, keeps the correct active deal, removes amount-increment rounding, and confirms when a final offer is saved for retraining.",
-    "publishedAt":  "2026-08-04T20:27:24.2656128Z",
-    "updatedAt":  "2026-08-04T20:27:24.2656128Z"
+  "version": "1.7.2",
+  "latestVersion": "1.7.2",
+  "appVersion": "1.7.2",
+  "publishedAt": "2026-08-04T20:48:13.9380784Z",
+  "updatedAt": "2026-08-04T20:48:13.9380784Z",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.7.2/LendTech.Parent.Queue.1.7.2.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.7.2/LendTech.Parent.Queue.1.7.2.Installer.exe",
+  "sha256": "4b86f3ef8e0887306f8cb82cc88bd31fcbc33633ab8e8af9a7adeb7cf7547e1b",
+  "notes": "Pricing now opens as a compact overlay over the active LendTech deal instead of creating a browser tab. Pricing requests use a direct WebView2 host bridge, eliminating the Failed to fetch error, and the overlay keeps the active deal visible while preserving model comparison, Claude review, and sent-offer confirmation."
 }
