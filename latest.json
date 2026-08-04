@@ -1,11 +1,11 @@
 {
-    "version":  "1.6.24",
-    "latestVersion":  "1.6.24",
-    "appVersion":  "1.6.24",
-    "publishedAt":  "2026-08-04T16:53:23.1451877Z",
-    "updatedAt":  "2026-08-04T16:53:23.1451877Z",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.24/LendTech.Parent.Queue.1.6.24.Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.24/LendTech.Parent.Queue.1.6.24.Installer.exe",
-    "sha256":  "458aec5a3d5e19f4193053d90b7832010a5076c828e3fcbbb83bb6cac8d9b9fc",
-    "notes":  "Keeps Claude estimate progress visible when evidence validation stops and raises the safe 1M-context input allowance to 950,000 tokens, leaving room for the configured response and bounded web-search evidence. Queue auto-refresh remains independent of Claude processing."
+    "version":  "1.6.25",
+    "latestVersion":  "1.6.25",
+    "appVersion":  "1.6.25",
+    "publishedAt":  "2026-08-04T17:39:58.0659145Z",
+    "updatedAt":  "2026-08-04T17:39:58.0659145Z",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.25/LendTech.Parent.Queue.1.6.25.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.25/LendTech.Parent.Queue.1.6.25.Installer.exe",
+    "sha256":  "0f7afc4bc8feedf5993b9450442cddc0336d236fd29dde223b3c4a2e4db47956",
+    "notes":  "Fixes Anthropic batch rejection by replacing 38 unsupported nullable schema unions with schema-safe unknown values that are converted back to null before saving. Adds a real-time activity feed for observable Claude workflow events and counters; it does not expose or invent private model reasoning. Existing evidence and uploaded PDFs are reused on retry."
 }
