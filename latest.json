@@ -1,8 +1,10 @@
 {
-    "version":  "1.6.18",
-    "updatedAt":  "2026-08-03T20:59:19.6487012Z",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.18/LendTech.Parent.Queue.1.6.18.Installer.exe",
-    "notes":  "Replaces Claude Settings fetch calls with a direct WebView-to-host message bridge, fixing false Failed to fetch errors after successful saves. The existing encrypted key was verified successfully with Anthropic. AI processing is configured for the complete prepared dataset with no deal or cost cap.",
-    "appVersion":  "1.6.18",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.18/LendTech.Parent.Queue.1.6.18.Installer.exe"
+    "version":  "1.6.19",
+    "latestVersion":  "1.6.19",
+    "appVersion":  "1.6.19",
+    "publishedAt":  "2026-08-04T13:38:16.2858321Z",
+    "updatedAt":  "2026-08-04T13:38:16.2858321Z",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.19/LendTech.Parent.Queue.1.6.19.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.6.19/LendTech.Parent.Queue.1.6.19.Installer.exe",
+    "notes":  "Adds resumable, cost-gated Claude historical evidence analysis to Pricing Lab. Estimate the complete batch before spending, then process industry, banking, credit, risks, data quality, and confidence without exposing historical offer labels. Completed results survive stops and restarts; production price recommendations remain disabled."
 }
