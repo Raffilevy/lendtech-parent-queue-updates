@@ -1,11 +1,11 @@
 {
-    "version":  "1.7.5",
-    "latestVersion":  "1.7.5",
-    "appVersion":  "1.7.5",
-    "publishedAt":  "2026-08-05T15:44:31.1206961Z",
-    "updatedAt":  "2026-08-05T15:44:31.1206961Z",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.7.5/LendTech.Parent.Queue.1.7.5.Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.7.5/LendTech.Parent.Queue.1.7.5.Installer.exe",
-    "sha256":  "55b36a7b2ec0d3cc5840b4de6b0d0337a3e2ff91b6cd16d14e6356558df6ef6a",
-    "notes":  "Pricing Advisor now analyzes saved Experian reports locally without requiring Claude. It uses utilization, inquiries, tradelines, delinquencies, collections, public records, balances, payments, credit depth, and principal report coverage. Pricing remains term-first; tree and neural estimates stay visible, the better holdout amount model drives the recommendation, and all 932 labeled deals are used in the exported model. Claude remains an optional second opinion only."
+  "version": "1.8.0",
+  "latestVersion": "1.8.0",
+  "appVersion": "1.8.0",
+  "publishedAt": "2026-08-05T16:55:36.9652682Z",
+  "updatedAt": "2026-08-05T16:55:36.9652682Z",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.0/LendTech.Parent.Queue.1.8.0.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.0/LendTech.Parent.Queue.1.8.0.Installer.exe",
+  "sha256": "2690297c3d79b13bdf7a2e3a4ecf988e762be4ce9cf1288deb4919513816d4fd",
+  "notes": "Pricing Advisor 2.0 now prices with a withhold-first workflow: it predicts target total withhold and daily term, then derives the offer using a 1.40 economic factor while preserving the sent 1.30/1.32 buy-rate policy. Both models now receive full saved MoneyThumb transaction history and expanded credit evidence, with position inference for active, newly funded, and potentially paid-off debt. The browser advisor adds an expanded factor-impact audit, position details, clearer confidence reasons, and immediate personal calibration after a sent offer is saved."
 }
