@@ -1,11 +1,11 @@
 {
-  "version": "1.8.0",
-  "latestVersion": "1.8.0",
-  "appVersion": "1.8.0",
-  "publishedAt": "2026-08-05T16:55:36.9652682Z",
-  "updatedAt": "2026-08-05T16:55:36.9652682Z",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.0/LendTech.Parent.Queue.1.8.0.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.0/LendTech.Parent.Queue.1.8.0.Installer.exe",
-  "sha256": "2690297c3d79b13bdf7a2e3a4ecf988e762be4ce9cf1288deb4919513816d4fd",
-  "notes": "Pricing Advisor 2.0 now prices with a withhold-first workflow: it predicts target total withhold and daily term, then derives the offer using a 1.40 economic factor while preserving the sent 1.30/1.32 buy-rate policy. Both models now receive full saved MoneyThumb transaction history and expanded credit evidence, with position inference for active, newly funded, and potentially paid-off debt. The browser advisor adds an expanded factor-impact audit, position details, clearer confidence reasons, and immediate personal calibration after a sent offer is saved."
+  "version": "1.8.1",
+  "latestVersion": "1.8.1",
+  "appVersion": "1.8.1",
+  "publishedAt": "2026-08-05T17:46:14.9215813Z",
+  "updatedAt": "2026-08-05T17:46:14.9215813Z",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.1/LendTech.Parent.Queue.1.8.1.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.1/LendTech.Parent.Queue.1.8.1.Installer.exe",
+  "sha256": "6c24f21ef2d5ae0f3b7186dd815097c69fceea9a144cdd8c6ec9be33fc48b3c7",
+  "notes": "Pricing Advisor 2.0 now prices with a withhold-first workflow and a 1.40 economic factor while preserving the sent 1.30/1.32 buy-rate policy. Both models receive the complete parsed banking and credit evidence set; the tree evaluates all 140 inputs, while each neural stage selects the 30 most predictive inputs to prevent overfitting. This release also corrects validation so each model is measured through the same hold-to-term path used by the live advisor, and retains expanded factor impacts, position details, confidence reasons, and immediate personal calibration."
 }
