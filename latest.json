@@ -1,11 +1,11 @@
 {
-  "version": "1.8.1",
-  "latestVersion": "1.8.1",
-  "appVersion": "1.8.1",
-  "publishedAt": "2026-08-05T17:46:14.9215813Z",
-  "updatedAt": "2026-08-05T17:46:14.9215813Z",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.1/LendTech.Parent.Queue.1.8.1.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.1/LendTech.Parent.Queue.1.8.1.Installer.exe",
-  "sha256": "6c24f21ef2d5ae0f3b7186dd815097c69fceea9a144cdd8c6ec9be33fc48b3c7",
-  "notes": "Pricing Advisor 2.0 now prices with a withhold-first workflow and a 1.40 economic factor while preserving the sent 1.30/1.32 buy-rate policy. Both models receive the complete parsed banking and credit evidence set; the tree evaluates all 140 inputs, while each neural stage selects the 30 most predictive inputs to prevent overfitting. This release also corrects validation so each model is measured through the same hold-to-term path used by the live advisor, and retains expanded factor impacts, position details, confidence reasons, and immediate personal calibration."
+  "version": "1.8.2",
+  "latestVersion": "1.8.2",
+  "appVersion": "1.8.2",
+  "publishedAt": "2026-08-05T18:03:18.7714748Z",
+  "updatedAt": "2026-08-05T18:03:18.7714748Z",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.2/LendTech.Parent.Queue.1.8.2.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.2/LendTech.Parent.Queue.1.8.2.Installer.exe",
+  "sha256": "b0a6787c7f86f3f94ba4362b33fa65ef884321a31e3e93f5191dd83f542c1967",
+  "notes": "Fixes Pricing Advisor's invalid-response error by moving native advisor responses through a UTF-8/Base64 WebView message envelope. The advisor also accepts legacy string, double-encoded, and object response formats, so one malformed transport layer can no longer block Price after deal evidence has loaded. Includes the 1.8.1 model validation and neural input-selection corrections."
 }
