@@ -1,11 +1,11 @@
 {
-  "version": "1.8.4",
-  "latestVersion": "1.8.4",
-  "appVersion": "1.8.4",
-  "publishedAt": "2026-08-05T18:44:36.8026475Z",
-  "updatedAt": "2026-08-05T18:44:36.8026475Z",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.4/LendTech.Parent.Queue.1.8.4.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.4/LendTech.Parent.Queue.1.8.4.Installer.exe",
-  "sha256": "c8a555d38ff2ccaff499ddc6ba5a13b0642f725e1442320ac2a8a0bafc9ae76c",
-  "notes": "Corrects the Pricing Advisor's withhold architecture. Both local models now predict the increase in hold directly, then derive total hold and amount from current debt, revenue, term, and the 1.40 economic factor. This prevents predictions below current hold from being clamped into false $0 offers. Model 2.1.0 retains 924 transaction-enriched rows and improves chronological tree amount MAE to about $41.6K. Also includes the 1.8.3 non-finite JSON safeguards."
+  "version": "1.8.5",
+  "latestVersion": "1.8.5",
+  "appVersion": "1.8.5",
+  "publishedAt": "2026-08-05T19:15:52.5480342Z",
+  "updatedAt": "2026-08-05T19:15:52.5480342Z",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.5/LendTech.Parent.Queue.1.8.5.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.5/LendTech.Parent.Queue.1.8.5.Installer.exe",
+  "sha256": "3d2661f3c66b10e88d6424876dff8be38460a6c4e92cb2f481438ac0ea4569cc",
+  "notes": "Makes current-withhold calculation auditable and corrects LendTech API transaction parsing. Current hold now uses inferred currently active payment streams only and never silently substitutes historical average debt payments. The expanded advisor shows the active-debt numerator, revenue denominator, exact division, position-level included amounts, monthly revenue construction, model-added hold, calibration, and final offer equation."
 }
