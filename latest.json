@@ -1,11 +1,11 @@
 {
-  "version": "1.8.5",
-  "latestVersion": "1.8.5",
-  "appVersion": "1.8.5",
-  "publishedAt": "2026-08-05T19:15:52.5480342Z",
-  "updatedAt": "2026-08-05T19:15:52.5480342Z",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.5/LendTech.Parent.Queue.1.8.5.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.5/LendTech.Parent.Queue.1.8.5.Installer.exe",
-  "sha256": "3d2661f3c66b10e88d6424876dff8be38460a6c4e92cb2f481438ac0ea4569cc",
-  "notes": "Makes current-withhold calculation auditable and corrects LendTech API transaction parsing. Current hold now uses inferred currently active payment streams only and never silently substitutes historical average debt payments. The expanded advisor shows the active-debt numerator, revenue denominator, exact division, position-level included amounts, monthly revenue construction, model-added hold, calibration, and final offer equation."
+  "version": "1.8.6",
+  "latestVersion": "1.8.6",
+  "appVersion": "1.8.6",
+  "publishedAt": "2026-08-05T20:24:21.1162542Z",
+  "updatedAt": "2026-08-05T20:24:21.1162542Z",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.6/LendTech.Parent.Queue.1.8.6.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.6/LendTech.Parent.Queue.1.8.6.Installer.exe",
+  "sha256": "34072dedefb0e7016f33db42e7f998920d2173ee8bc2b98e0e79acec6b1b0489",
+  "notes": "Adds a persistent saved-offer scorecard for Recommended, Tree, and Neural predictions. Each final offer stores the exact predictions shown at save time, counts the closest model, and reports average dollar, percentage, term-day, and combined misses. Re-saving a deal replaces its prior comparison instead of double-counting it."
 }
