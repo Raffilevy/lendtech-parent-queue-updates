@@ -1,11 +1,11 @@
 {
-  "version": "1.8.2",
-  "latestVersion": "1.8.2",
-  "appVersion": "1.8.2",
-  "publishedAt": "2026-08-05T18:03:18.7714748Z",
-  "updatedAt": "2026-08-05T18:03:18.7714748Z",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.2/LendTech.Parent.Queue.1.8.2.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.2/LendTech.Parent.Queue.1.8.2.Installer.exe",
-  "sha256": "b0a6787c7f86f3f94ba4362b33fa65ef884321a31e3e93f5191dd83f542c1967",
-  "notes": "Fixes Pricing Advisor's invalid-response error by moving native advisor responses through a UTF-8/Base64 WebView message envelope. The advisor also accepts legacy string, double-encoded, and object response formats, so one malformed transport layer can no longer block Price after deal evidence has loaded. Includes the 1.8.1 model validation and neural input-selection corrections."
+  "version": "1.8.3",
+  "latestVersion": "1.8.3",
+  "appVersion": "1.8.3",
+  "publishedAt": "2026-08-05T18:34:33.0817780Z",
+  "updatedAt": "2026-08-05T18:34:33.0817780Z",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.3/LendTech.Parent.Queue.1.8.3.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.3/LendTech.Parent.Queue.1.8.3.Installer.exe",
+  "sha256": "f168fca74a3a72c0b9229e3519abfbae1f5dbc8a367a1b391111eb08c46ecc6c",
+  "notes": "Fixes Pricing Advisor responses that contained nonstandard NaN values when transaction or worksheet revenue was unavailable. Derived pricing inputs now normalize missing and non-finite values before calculation, and every advisor response and saved state is recursively sanitized before JSON serialization. The popup also reports the underlying decoder error if a future response is malformed."
 }
