@@ -1,11 +1,11 @@
 {
-  "version": "1.8.17",
-  "latestVersion": "1.8.17",
-  "appVersion": "1.8.17",
-  "publishedAt": "2026-08-06T18:45:00Z",
-  "updatedAt": "2026-08-06T18:45:00Z",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.17/LendTech.Parent.Queue.1.8.17.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.17/LendTech.Parent.Queue.1.8.17.Installer.exe",
-  "sha256": "83945684a3f3d80e4020f6df958ed809aafc88d52bdc55fe59ed9fd585a4a620",
-  "notes": "Fixes Claude pricing feedback failures by using a forced structured response with sufficient output capacity. Credit-related feedback now includes matching full-report tradelines, so Claude can verify claims such as education-loan delinquencies and cite the supporting accounts. Adds local response-shape diagnostics for future failures."
+  "version": "1.8.18",
+  "latestVersion": "1.8.18",
+  "appVersion": "1.8.18",
+  "publishedAt": "2026-08-06T18:53:00Z",
+  "updatedAt": "2026-08-06T18:53:00Z",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.18/LendTech.Parent.Queue.1.8.18.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.18/LendTech.Parent.Queue.1.8.18.Installer.exe",
+  "sha256": "bc526b4e937656a95f5f80c7505739c70ec4fd2bd9ac2a28ef0b81155733b471",
+  "notes": "Raises the standard Claude pricing-feedback output allowance to 10,000 tokens. If Claude reaches that ceiling, the app estimates a larger retry allowance, displays it to the user, and requires explicit approval before resending. No partial or truncated feedback is learned."
 }
