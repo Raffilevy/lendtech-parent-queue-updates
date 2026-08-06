@@ -1,11 +1,11 @@
 {
-  "version": "1.8.9",
-  "latestVersion": "1.8.9",
-  "appVersion": "1.8.9",
-  "publishedAt": "2026-08-06T13:46:17.5459743Z",
-  "updatedAt": "2026-08-06T13:46:17.5459743Z",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.9/LendTech.Parent.Queue.1.8.9.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.9/LendTech.Parent.Queue.1.8.9.Installer.exe",
-  "sha256": "49104e78507241fd1a49385c2669f8c8003ef20b6162d6d6d8170e6b87107c9c",
-  "notes": "Keeps the final amount and term entered by the underwriter visible after Save Sent Offer. The saved example still updates personal calibration and prediction tracking immediately, but the recalculated recommendation no longer overwrites the values that were actually sent. Includes the v1.8.8 overprediction and underprediction scorecard."
+  "version": "1.8.10",
+  "latestVersion": "1.8.10",
+  "appVersion": "1.8.10",
+  "publishedAt": "2026-08-06T14:12:47.2172707Z",
+  "updatedAt": "2026-08-06T14:12:47.2172707Z",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.10/LendTech.Parent.Queue.1.8.10.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.10/LendTech.Parent.Queue.1.8.10.Installer.exe",
+  "sha256": "258e5da8f1d02902ca872c6c68dfd601d5af65f5786e739a3e708192eb3b49cc",
+  "notes": "Fixes TruPath Pricing Advisor credit extraction. TruPath now uses LendTech CBC pulls and bureau-report recall for each principal instead of the UFS Experian external-data path, preserves the complete CBC report, and parses its credit summary and tradeline evidence. UFS Experian extraction is unchanged."
 }
