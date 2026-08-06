@@ -1,11 +1,11 @@
 {
-  "version": "1.8.7",
-  "latestVersion": "1.8.7",
-  "appVersion": "1.8.7",
-  "publishedAt": "2026-08-05T21:07:00.4330477Z",
-  "updatedAt": "2026-08-05T21:07:00.4330477Z",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.7/LendTech.Parent.Queue.1.8.7.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.7/LendTech.Parent.Queue.1.8.7.Installer.exe",
-  "sha256": "e7f808dfe6b267a19db1611b3a8aa92961b313b56586e1ed62b78f5e3ca0e632",
-  "notes": "Rebuilds current-position inference around a recurring payment ledger: dynamic ACH descriptions are clustered, cadence is inferred, each funding deposit is assigned once, replacements and paid-off streams are detected, and confidence evidence is shown. Underwriters can correct status or lender names in Pricing Advisor; reusable aliases sync privately. The aggregate model is retrained as model 2.2.0 after reprocessing all 927 saved historical records."
+  "version": "1.8.8",
+  "latestVersion": "1.8.8",
+  "appVersion": "1.8.8",
+  "publishedAt": "2026-08-06T13:36:54.3424677Z",
+  "updatedAt": "2026-08-06T13:36:54.3424677Z",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.8/LendTech.Parent.Queue.1.8.8.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.8/LendTech.Parent.Queue.1.8.8.Installer.exe",
+  "sha256": "1578abbc06a42d93ea6a2de1921a2ef01468574be5d93e245f2f3680097238f9",
+  "notes": "Adds directional price tracking to the Pricing Advisor scorecard. Recommended, Tree, and Neural now show overprediction, underprediction, exact-match counts, average dollar and percentage miss in each direction, and net amount bias. Existing saved offers are scored retroactively when their original prediction snapshot is available."
 }
