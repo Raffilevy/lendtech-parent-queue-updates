@@ -1,11 +1,11 @@
 {
-  "version": "1.8.14",
-  "latestVersion": "1.8.14",
-  "appVersion": "1.8.14",
-  "publishedAt": "2026-08-06T16:08:39.6670676Z",
-  "updatedAt": "2026-08-06T16:08:39.6670676Z",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.14/LendTech.Parent.Queue.1.8.14.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.14/LendTech.Parent.Queue.1.8.14.Installer.exe",
-  "sha256": "10cd0b7221d6246567873e68b134a886e426b7353f665a195ef9da2f3a05ce55",
-  "notes": "Pricing Advisor is now available to every user without an enable-setting gate. Historical banking uses all available pre-offer worksheet months with no arbitrary seven-month cap; months backed by parsed statement transactions receive higher weight while older worksheet-only history remains included. The repaired 927-deal dataset was retrained into the shipped tree and neural models, and automatic update checks now run once per hour. User profiles, browser sessions, tokens, pricing evidence, approval data, and training datasets are not included in the update payload."
+  "version": "1.8.15",
+  "latestVersion": "1.8.15",
+  "appVersion": "1.8.15",
+  "publishedAt": "2026-08-06T16:17:55.3762226Z",
+  "updatedAt": "2026-08-06T16:17:55.3762226Z",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.15/LendTech.Parent.Queue.1.8.15.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.15/LendTech.Parent.Queue.1.8.15.Installer.exe",
+  "sha256": "8ed42c2d1d380b6a238c1c834f973fe8644151009b088f979d5e70bffc111152",
+  "notes": "Adds shared UFS and TruPath LendTech API keys as application defaults, so every user can use Pricing Advisor evidence repair without manually entering keys. Existing encrypted per-user keys remain supported as optional local overrides. Shared key values are not returned by app APIs or included in diagnostics and bug reports."
 }
