@@ -1,11 +1,11 @@
 {
-  "version": "1.8.10",
-  "latestVersion": "1.8.10",
-  "appVersion": "1.8.10",
-  "publishedAt": "2026-08-06T14:12:47.2172707Z",
-  "updatedAt": "2026-08-06T14:12:47.2172707Z",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.10/LendTech.Parent.Queue.1.8.10.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.10/LendTech.Parent.Queue.1.8.10.Installer.exe",
-  "sha256": "258e5da8f1d02902ca872c6c68dfd601d5af65f5786e739a3e708192eb3b49cc",
-  "notes": "Fixes TruPath Pricing Advisor credit extraction. TruPath now uses LendTech CBC pulls and bureau-report recall for each principal instead of the UFS Experian external-data path, preserves the complete CBC report, and parses its credit summary and tradeline evidence. UFS Experian extraction is unchanged."
+  "version": "1.8.11",
+  "latestVersion": "1.8.11",
+  "appVersion": "1.8.11",
+  "publishedAt": "2026-08-06T14:30:37.5342247Z",
+  "updatedAt": "2026-08-06T14:30:37.5342247Z",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.11/LendTech.Parent.Queue.1.8.11.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.11/LendTech.Parent.Queue.1.8.11.Installer.exe",
+  "sha256": "0350e10a43012983dba49863713e682add3a04a13d7aebce1174e15f4f152e4f",
+  "notes": "Fixes concurrent Pricing Advisor evidence writes. Simultaneous extraction requests now coordinate across app processes, reuse identical banking and credit evidence, write through unique temporary files, retry briefly locked targets, and clean up temporary files. Includes the v1.8.10 TruPath CBC credit extraction correction."
 }
