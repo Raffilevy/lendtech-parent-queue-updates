@@ -1,11 +1,11 @@
 {
-  "version": "1.8.12",
-  "latestVersion": "1.8.12",
-  "appVersion": "1.8.12",
-  "publishedAt": "2026-08-06T15:02:07.0739084Z",
-  "updatedAt": "2026-08-06T15:02:07.0739084Z",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.12/LendTech.Parent.Queue.1.8.12.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.12/LendTech.Parent.Queue.1.8.12.Installer.exe",
-  "sha256": "3cd953f5f31a3a683c8d02daa245e3d2f2a8cfdb7a5c860ac94ece9918b66a97",
-  "notes": "Makes the in-browser Pricing Advisor available to every user without the obsolete per-profile enable gate. Settings now explains where to find Price instead of showing a misleading toggle. Prediction accuracy keeps overall dollar error, while over/under tracking reports counts and average percentage only; term error now shows both average days and its separate average percentage. User pricing evidence, API keys, and calibration data remain profile-specific."
+  "version": "1.8.13",
+  "latestVersion": "1.8.13",
+  "appVersion": "1.8.13",
+  "publishedAt": "2026-08-06T15:43:23.6929895Z",
+  "updatedAt": "2026-08-06T15:43:23.6929895Z",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.13/LendTech.Parent.Queue.1.8.13.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.13/LendTech.Parent.Queue.1.8.13.Installer.exe",
+  "sha256": "be0d002c25f8412cbaa9e9e7a22039ece83316b810a60c0bdda5a98abedd5298",
+  "notes": "Corrects Pricing Advisor balance evidence to use the worksheet ending-daily balance summed across every bank account. Current banking metrics now use the latest seven-month window and identify older worksheet months as excluded, preventing prior-submission history from being blended into current balances. The advisor labels ending-daily versus month-end balances clearly and shows average overprediction and underprediction percentages without occurrence counters. User profiles, browser sessions, tokens, pricing evidence, and training data are not included in the update payload."
 }
