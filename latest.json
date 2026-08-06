@@ -1,11 +1,11 @@
 {
-  "version": "1.8.16",
-  "latestVersion": "1.8.16",
-  "appVersion": "1.8.16",
-  "publishedAt": "2026-08-06T18:00:00Z",
-  "updatedAt": "2026-08-06T18:00:00Z",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.16/LendTech.Parent.Queue.1.8.16.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.16/LendTech.Parent.Queue.1.8.16.Installer.exe",
-  "sha256": "29847b1f7038ab95601a80c951630897876c86d1db52cc3db9eb73a52982ff05",
-  "notes": "Adds verified Pricing Advisor feedback: explain why you disagree, have Claude check the claim against saved bank evidence with cited rows, confirm the interpretation before learning, and give verified or partly verified feedback a bounded calibration weight when the sent offer is saved."
+  "version": "1.8.17",
+  "latestVersion": "1.8.17",
+  "appVersion": "1.8.17",
+  "publishedAt": "2026-08-06T18:45:00Z",
+  "updatedAt": "2026-08-06T18:45:00Z",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.17/LendTech.Parent.Queue.1.8.17.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.17/LendTech.Parent.Queue.1.8.17.Installer.exe",
+  "sha256": "83945684a3f3d80e4020f6df958ed809aafc88d52bdc55fe59ed9fd585a4a620",
+  "notes": "Fixes Claude pricing feedback failures by using a forced structured response with sufficient output capacity. Credit-related feedback now includes matching full-report tradelines, so Claude can verify claims such as education-loan delinquencies and cite the supporting accounts. Adds local response-shape diagnostics for future failures."
 }
