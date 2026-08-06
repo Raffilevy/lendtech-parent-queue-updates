@@ -1,11 +1,11 @@
 {
-  "version": "1.8.11",
-  "latestVersion": "1.8.11",
-  "appVersion": "1.8.11",
-  "publishedAt": "2026-08-06T14:30:37.5342247Z",
-  "updatedAt": "2026-08-06T14:30:37.5342247Z",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.11/LendTech.Parent.Queue.1.8.11.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.11/LendTech.Parent.Queue.1.8.11.Installer.exe",
-  "sha256": "0350e10a43012983dba49863713e682add3a04a13d7aebce1174e15f4f152e4f",
-  "notes": "Fixes concurrent Pricing Advisor evidence writes. Simultaneous extraction requests now coordinate across app processes, reuse identical banking and credit evidence, write through unique temporary files, retry briefly locked targets, and clean up temporary files. Includes the v1.8.10 TruPath CBC credit extraction correction."
+  "version": "1.8.12",
+  "latestVersion": "1.8.12",
+  "appVersion": "1.8.12",
+  "publishedAt": "2026-08-06T15:02:07.0739084Z",
+  "updatedAt": "2026-08-06T15:02:07.0739084Z",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.12/LendTech.Parent.Queue.1.8.12.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.12/LendTech.Parent.Queue.1.8.12.Installer.exe",
+  "sha256": "3cd953f5f31a3a683c8d02daa245e3d2f2a8cfdb7a5c860ac94ece9918b66a97",
+  "notes": "Makes the in-browser Pricing Advisor available to every user without the obsolete per-profile enable gate. Settings now explains where to find Price instead of showing a misleading toggle. Prediction accuracy keeps overall dollar error, while over/under tracking reports counts and average percentage only; term error now shows both average days and its separate average percentage. User pricing evidence, API keys, and calibration data remain profile-specific."
 }
