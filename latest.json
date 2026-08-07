@@ -1,11 +1,11 @@
 {
-  "version": "1.8.20",
-  "latestVersion": "1.8.20",
-  "appVersion": "1.8.20",
-  "publishedAt": "2026-08-07T16:10:59Z",
-  "updatedAt": "2026-08-07T16:10:59Z",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.20/LendTech.Parent.Queue.1.8.20.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.20/LendTech.Parent.Queue.1.8.20.Installer.exe",
-  "sha256": "f5f3b9cf1b93a50047d6146d4932426282e73e77af8626710f3007225daecca3",
-  "notes": "Adds per-position payment-frequency overrides (Automatic, Daily, Weekly, Biweekly, or Monthly) that immediately rebuild monthly debt, current hold, and pricing. Position corrections now stay attached to the exact payment stream. The in-browser Pricing Advisor can also be dragged by its title bar and remains constrained inside the browser."
+  "version": "1.8.21",
+  "latestVersion": "1.8.21",
+  "appVersion": "1.8.21",
+  "publishedAt": "2026-08-07T16:48:25Z",
+  "updatedAt": "2026-08-07T16:48:25Z",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.21/LendTech.Parent.Queue.1.8.21.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.21/LendTech.Parent.Queue.1.8.21.Installer.exe",
+  "sha256": "55e0fe3e73fe41d6f9925a685c9a1f64fb62a988490569b324c169a6568311ad",
+  "notes": "Adds native decline learning and prediction to the in-browser Pricing Advisor. Declined Deal captures authoritative LendTech decline reasons, interprets decline notes with Claude, and improves future likelihood and reason estimates without creating a zero-dollar offer label. Pricing now blends current transaction revenue with lower-weight worksheet history, and seasonal businesses can use a selected downtime range to price against matching historical worksheet months."
 }
