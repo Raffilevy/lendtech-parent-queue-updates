@@ -1,11 +1,11 @@
 {
-  "version": "1.8.19",
-  "latestVersion": "1.8.19",
-  "appVersion": "1.8.19",
-  "publishedAt": "2026-08-06T20:15:00Z",
-  "updatedAt": "2026-08-06T20:15:00Z",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.19/LendTech.Parent.Queue.1.8.19.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.19/LendTech.Parent.Queue.1.8.19.Installer.exe",
-  "sha256": "0d29a64cbfea9eac5d9a0dc9184e486134d207144a6b0e9685589a36794a5e05",
-  "notes": "Prevents Claude pricing-feedback explanations from being cut off. The app now preserves substantially longer summaries, reasons, warnings, and citations; the interpretation area scrolls independently; long evidence wraps cleanly; and the review buttons remain visible at the bottom."
+  "version": "1.8.20",
+  "latestVersion": "1.8.20",
+  "appVersion": "1.8.20",
+  "publishedAt": "2026-08-07T16:10:59Z",
+  "updatedAt": "2026-08-07T16:10:59Z",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.20/LendTech.Parent.Queue.1.8.20.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.8.20/LendTech.Parent.Queue.1.8.20.Installer.exe",
+  "sha256": "f5f3b9cf1b93a50047d6146d4932426282e73e77af8626710f3007225daecca3",
+  "notes": "Adds per-position payment-frequency overrides (Automatic, Daily, Weekly, Biweekly, or Monthly) that immediately rebuild monthly debt, current hold, and pricing. Position corrections now stay attached to the exact payment stream. The in-browser Pricing Advisor can also be dragged by its title bar and remains constrained inside the browser."
 }
