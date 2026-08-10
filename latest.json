@@ -1,12 +1,12 @@
 {
-  "version": "1.9.5",
-  "latestVersion": "1.9.5",
-  "appVersion": "1.9.5",
-  "publishedAt": "2026-08-10T17:56:24Z",
-  "updatedAt": "2026-08-10T17:56:24Z",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.5/LendTech.Parent.Queue.1.9.5.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.5/LendTech.Parent.Queue.1.9.5.Installer.exe",
-  "sha256": "62783d6d334c36b822bef679debf0200f40abcbe332c55fb0b4f9c7ade519d75",
-  "notes": "Fixes the main app not following users to UFS or TruPath desktop views on some computers. The installer now includes the required Microsoft runtime libraries, chooses the compatible Windows 10 or Windows 11 desktop-access component automatically, and records the full helper error in future diagnostics."
+  "version": "1.9.6",
+  "latestVersion": "1.9.6",
+  "appVersion": "1.9.6",
+  "publishedAt": "2026-08-10T18:16:52Z",
+  "updatedAt": "2026-08-10T18:16:52Z",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.6/LendTech.Parent.Queue.1.9.6.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.6/LendTech.Parent.Queue.1.9.6.Installer.exe",
+  "sha256": "3cfe66a5ca1a35dd6aebca63a5fe37784cc2c08d0c21013345f40587485b134b",
+  "notes": "Makes the underwriter filter consistent across users by loading recent underwriter assignments from the LendTech API instead of relying only on names visible in the current queue rows. Removes the ISO and merchant/deal-ID filters from the queue filter panel."
 }
 
