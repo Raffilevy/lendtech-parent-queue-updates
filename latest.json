@@ -1,12 +1,11 @@
 {
-  "version": "1.9.6",
-  "latestVersion": "1.9.6",
-  "appVersion": "1.9.6",
-  "publishedAt": "2026-08-10T18:16:52Z",
-  "updatedAt": "2026-08-10T18:16:52Z",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.6/LendTech.Parent.Queue.1.9.6.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.6/LendTech.Parent.Queue.1.9.6.Installer.exe",
-  "sha256": "3cfe66a5ca1a35dd6aebca63a5fe37784cc2c08d0c21013345f40587485b134b",
-  "notes": "Makes the underwriter filter consistent across users by loading recent underwriter assignments from the LendTech API instead of relying only on names visible in the current queue rows. Removes the ISO and merchant/deal-ID filters from the queue filter panel."
+    "version":  "1.9.7",
+    "latestVersion":  "1.9.7",
+    "appVersion":  "1.9.7",
+    "publishedAt":  "2026-08-10T18:33:36.6722095Z",
+    "updatedAt":  "2026-08-10T18:33:36.6722095Z",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.7/LendTech.Parent.Queue.1.9.7.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.7/LendTech.Parent.Queue.1.9.7.Installer.exe",
+    "sha256":  "40c5cd06725f4f34c3d2ba5638e99d03dd60a6b0140988baf16f19973bd4308e",
+    "notes":  "Underwriter filtering now uses the authoritative delegation roster shown by LendTech, including Unassigned. Deals assigned to multiple underwriters retain and display every assignment, so filtering for any assigned person includes the deal; for example, deal 565871 now appears for Raffi Levy and displays both Melissa Diggins and Raffi Levy."
 }
-
