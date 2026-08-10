@@ -1,12 +1,12 @@
 {
-  "version": "1.9.3",
-  "latestVersion": "1.9.3",
-  "appVersion": "1.9.3",
-  "publishedAt": "2026-08-10T16:17:08Z",
-  "updatedAt": "2026-08-10T16:17:08Z",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.3/LendTech.Parent.Queue.1.9.3.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.3/LendTech.Parent.Queue.1.9.3.Installer.exe",
-  "sha256": "9dbcab9868cbc22a21d18b0f5a34479a4c6a81ccb7b6c5c57d9c06cb3e94e48f",
-  "notes": "Automatically keeps the main app window visible on every Windows Task View desktop. Pinning is now verified, retried after startup, rechecked before each UFS or TruPath desktop jump, and backed by the desktop-switch helper when the first Windows pin call is not ready."
+  "version": "1.9.4",
+  "latestVersion": "1.9.4",
+  "appVersion": "1.9.4",
+  "publishedAt": "2026-08-10T16:35:56Z",
+  "updatedAt": "2026-08-10T16:35:56Z",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.4/LendTech.Parent.Queue.1.9.4.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.4/LendTech.Parent.Queue.1.9.4.Installer.exe",
+  "sha256": "5129d42c1466639b57e83916c30600341d9dbe4e54fe45e25ffb19519bc3060d",
+  "notes": "Treats confirmed underwriter pricing judgment as authoritative company policy rather than requiring it to be objectively provable. Claude now separates factual evidence checks from subjective risk tolerance, translates qualitative feedback such as go harder into amount and term direction, can infer concrete corrections from the current predictions, and gives confirmed pricing judgment the learning weight it deserves."
 }
 
