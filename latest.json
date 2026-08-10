@@ -1,11 +1,11 @@
 {
-  "version": "1.9.0",
-  "latestVersion": "1.9.0",
-  "appVersion": "1.9.0",
-  "publishedAt": "2026-08-10T14:29:36Z",
-  "updatedAt": "2026-08-10T14:29:36Z",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.0/LendTech.Parent.Queue.1.9.0.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.0/LendTech.Parent.Queue.1.9.0.Installer.exe",
-  "sha256": "3f1fade66938cd14457fde335170a722671a8d0c4ad283d746067c5e5b89087a",
-  "notes": "Moves Deal Submissions to the official LendTech API, so the app no longer needs a permanent underwriting queue browser tab. Adds per-user queue controls for account scope, date range, status, underwriter, ISO, merchant or deal search, and row limit. Embedded UFS and TruPath browsers now open as normal on-demand workspaces, while the existing 30-second merged queue refresh continues through the API."
+  "version": "1.9.1",
+  "latestVersion": "1.9.1",
+  "appVersion": "1.9.1",
+  "publishedAt": "2026-08-10T15:16:58Z",
+  "updatedAt": "2026-08-10T15:16:58Z",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.1/LendTech.Parent.Queue.1.9.1.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.1/LendTech.Parent.Queue.1.9.1.Installer.exe",
+  "sha256": "78dba54bdf2e8ed14d501d87957383b834f36c4cd013f628d3b2a7e804cefb7d",
+  "notes": "Removes the protected default browser tab completely. UFS and TruPath browsers can now start with zero tabs, every normal tab can be closed, and the plus button or address bar creates the first tab. Saved tabs restore one-for-one without an extra New Tab. Removes the retired embedded queue scrape, queue retry, and forced queue-navigation wiring now that Deal Submissions use the LendTech API."
 }
