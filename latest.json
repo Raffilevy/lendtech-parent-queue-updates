@@ -1,11 +1,11 @@
 {
-    "version":  "1.9.9",
-    "latestVersion":  "1.9.9",
-    "appVersion":  "1.9.9",
-    "publishedAt":  "2026-08-10T19:31:42.4555286Z",
-    "updatedAt":  "2026-08-10T19:31:42.4555286Z",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.9/LendTech.Parent.Queue.1.9.9.Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.9/LendTech.Parent.Queue.1.9.9.Installer.exe",
-    "sha256":  "df9f398a8579cd7306ca90d5327df0702d781753f0ee703a361f1746fc783f5a",
-    "notes":  "Fixes ordinary Google pages being mistaken for authentication pages. The UFS and TruPath auth watchdog now recognizes only accounts.google.com and actual LendTech login/OAuth routes, so Google Docs, Sheets, Gmail, Search, and other normal tabs are never automatically reloaded or scanned by sign-in automation."
+    "version":  "1.9.10",
+    "latestVersion":  "1.9.10",
+    "appVersion":  "1.9.10",
+    "publishedAt":  "2026-08-10T19:36:11.2675533Z",
+    "updatedAt":  "2026-08-10T19:36:11.2675533Z",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.10/LendTech.Parent.Queue.1.9.10.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.10/LendTech.Parent.Queue.1.9.10.Installer.exe",
+    "sha256":  "d6950d9b1ba8c49127bdd9f4281571acc0a697243f393e8a0fa4986c860d159b",
+    "notes":  "Removes the obsolete authentication-page refresh watchdog completely. Account browsers no longer poll the active tab or reload sign-in pages on a timer. Google sign-in automation remains navigation-driven, and failed OAuth recovery remains limited to actual failed Google authentication navigations."
 }
