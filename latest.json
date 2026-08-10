@@ -1,11 +1,11 @@
 {
-    "version":  "1.9.8",
-    "latestVersion":  "1.9.8",
-    "appVersion":  "1.9.8",
-    "publishedAt":  "2026-08-10T19:02:49.7375189Z",
-    "updatedAt":  "2026-08-10T19:02:49.7375189Z",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.8/LendTech.Parent.Queue.1.9.8.Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.8/LendTech.Parent.Queue.1.9.8.Installer.exe",
-    "sha256":  "62b28af93252ede3519aa87d616af658e64729e5cd506dfe47f13dc2f6644122",
-    "notes":  "Pricing now assigns a transparent provisional monthly payment burden to newly funded positions before enough real debits establish cadence. It handles both one-debit and no-debit funding events, preserves the observed payment separately, updates current withhold immediately, lowers confidence while estimated, and automatically yields to the real cadence later. Deal 565871 now reads about $16,298/month and 5.55% estimated current withhold from its $96,701 recent funding instead of $2,500/month and 0.85%."
+    "version":  "1.9.9",
+    "latestVersion":  "1.9.9",
+    "appVersion":  "1.9.9",
+    "publishedAt":  "2026-08-10T19:31:42.4555286Z",
+    "updatedAt":  "2026-08-10T19:31:42.4555286Z",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.9/LendTech.Parent.Queue.1.9.9.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.9/LendTech.Parent.Queue.1.9.9.Installer.exe",
+    "sha256":  "df9f398a8579cd7306ca90d5327df0702d781753f0ee703a361f1746fc783f5a",
+    "notes":  "Fixes ordinary Google pages being mistaken for authentication pages. The UFS and TruPath auth watchdog now recognizes only accounts.google.com and actual LendTech login/OAuth routes, so Google Docs, Sheets, Gmail, Search, and other normal tabs are never automatically reloaded or scanned by sign-in automation."
 }
