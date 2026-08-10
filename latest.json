@@ -1,11 +1,12 @@
 {
-  "version": "1.9.1",
-  "latestVersion": "1.9.1",
-  "appVersion": "1.9.1",
-  "publishedAt": "2026-08-10T15:16:58Z",
-  "updatedAt": "2026-08-10T15:16:58Z",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.1/LendTech.Parent.Queue.1.9.1.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.1/LendTech.Parent.Queue.1.9.1.Installer.exe",
-  "sha256": "78dba54bdf2e8ed14d501d87957383b834f36c4cd013f628d3b2a7e804cefb7d",
-  "notes": "Removes the protected default browser tab completely. UFS and TruPath browsers can now start with zero tabs, every normal tab can be closed, and the plus button or address bar creates the first tab. Saved tabs restore one-for-one without an extra New Tab. Removes the retired embedded queue scrape, queue retry, and forced queue-navigation wiring now that Deal Submissions use the LendTech API."
+  "version": "1.9.2",
+  "latestVersion": "1.9.2",
+  "appVersion": "1.9.2",
+  "publishedAt": "2026-08-10T15:54:10Z",
+  "updatedAt": "2026-08-10T15:54:10Z",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.2/LendTech.Parent.Queue.1.9.2.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.2/LendTech.Parent.Queue.1.9.2.Installer.exe",
+  "sha256": "3ea7c4fa60199f7d16bbe8fb246df905eb8b0c187a46d32d598d0da68f87510d",
+  "notes": "Cleans out retired queue URL and Chrome-profile setup, abandoned Google Drive sync code, obsolete browser, court-search, chat, and download paths, plus old migration wiring. Keeps desktop switching and update helpers while scoping helper shutdown to this installation. Rebuilds the installer with runtime files only, reducing it from about 13.8 MB to 3.3 MB without changing user data."
 }
+
