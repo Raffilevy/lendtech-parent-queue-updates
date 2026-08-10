@@ -1,11 +1,11 @@
 {
-    "version":  "1.9.7",
-    "latestVersion":  "1.9.7",
-    "appVersion":  "1.9.7",
-    "publishedAt":  "2026-08-10T18:33:36.6722095Z",
-    "updatedAt":  "2026-08-10T18:33:36.6722095Z",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.7/LendTech.Parent.Queue.1.9.7.Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.7/LendTech.Parent.Queue.1.9.7.Installer.exe",
-    "sha256":  "40c5cd06725f4f34c3d2ba5638e99d03dd60a6b0140988baf16f19973bd4308e",
-    "notes":  "Underwriter filtering now uses the authoritative delegation roster shown by LendTech, including Unassigned. Deals assigned to multiple underwriters retain and display every assignment, so filtering for any assigned person includes the deal; for example, deal 565871 now appears for Raffi Levy and displays both Melissa Diggins and Raffi Levy."
+    "version":  "1.9.8",
+    "latestVersion":  "1.9.8",
+    "appVersion":  "1.9.8",
+    "publishedAt":  "2026-08-10T19:02:49.7375189Z",
+    "updatedAt":  "2026-08-10T19:02:49.7375189Z",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.8/LendTech.Parent.Queue.1.9.8.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.8/LendTech.Parent.Queue.1.9.8.Installer.exe",
+    "sha256":  "62b28af93252ede3519aa87d616af658e64729e5cd506dfe47f13dc2f6644122",
+    "notes":  "Pricing now assigns a transparent provisional monthly payment burden to newly funded positions before enough real debits establish cadence. It handles both one-debit and no-debit funding events, preserves the observed payment separately, updates current withhold immediately, lowers confidence while estimated, and automatically yields to the real cadence later. Deal 565871 now reads about $16,298/month and 5.55% estimated current withhold from its $96,701 recent funding instead of $2,500/month and 0.85%."
 }
