@@ -1,11 +1,11 @@
 {
-    "version":  "1.9.10",
-    "latestVersion":  "1.9.10",
-    "appVersion":  "1.9.10",
-    "publishedAt":  "2026-08-10T19:36:11.2675533Z",
-    "updatedAt":  "2026-08-10T19:36:11.2675533Z",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.10/LendTech.Parent.Queue.1.9.10.Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.10/LendTech.Parent.Queue.1.9.10.Installer.exe",
-    "sha256":  "d6950d9b1ba8c49127bdd9f4281571acc0a697243f393e8a0fa4986c860d159b",
-    "notes":  "Removes the obsolete authentication-page refresh watchdog completely. Account browsers no longer poll the active tab or reload sign-in pages on a timer. Google sign-in automation remains navigation-driven, and failed OAuth recovery remains limited to actual failed Google authentication navigations."
+    "version":  "1.9.11",
+    "latestVersion":  "1.9.11",
+    "appVersion":  "1.9.11",
+    "publishedAt":  "2026-08-11T14:47:30.4916614Z",
+    "updatedAt":  "2026-08-11T14:47:30.4916614Z",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.11/LendTech.Parent.Queue.1.9.11.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.11/LendTech.Parent.Queue.1.9.11.Installer.exe",
+    "sha256":  "c45cc1791020021d114a754dc8f1c1a044a67fd99d12cec7ec90a2cc93aff8da",
+    "notes":  "Shares saved offer prediction outcomes through a dedicated team scorecard in the private profile repository, so every user sees the same comparisons and future saved offers merge by account and deal ID. Corrects inflated current-withhold estimates by expiring no-debit provisional funding after 21 days; deal 566098 now recalculates from 91.1% to 63.45%."
 }
