@@ -1,11 +1,11 @@
 {
-    "version":  "1.9.12",
-    "latestVersion":  "1.9.12",
-    "appVersion":  "1.9.12",
-    "publishedAt":  "2026-08-13T14:00:39.9018742Z",
-    "updatedAt":  "2026-08-13T14:00:39.9018742Z",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.12/LendTech.Parent.Queue.1.9.12.Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.12/LendTech.Parent.Queue.1.9.12.Installer.exe",
-    "sha256":  "9ca5d7cc79c4b3a278ad885a06b750f26f51410ed269cd78875efdc6a1f40035",
-    "notes":  "Removes the obsolete automated LendTech sign-in process. Account browsers no longer inject scripts to click Sign in with Google, select an account, or click Continue, and failed Google authentication pages are no longer automatically redirected back to LendTech. Manual sign-in, WebView2 profile cookies, session persistence, and Google Chat OAuth remain unchanged."
+    "version":  "1.9.13",
+    "latestVersion":  "1.9.13",
+    "appVersion":  "1.9.13",
+    "publishedAt":  "2026-08-13T14:28:19.4605968Z",
+    "updatedAt":  "2026-08-13T14:28:19.4605968Z",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.13/LendTech.Parent.Queue.1.9.13.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.13/LendTech.Parent.Queue.1.9.13.Installer.exe",
+    "sha256":  "1b597efcc5eadb6a224902edbd8b00915b23ac09224f9fbb9da639229c0c9927",
+    "notes":  "Adds invisible LendTech session keepalive for UFS and TruPath. While the app is open, each account sends one authenticated background heartbeat every five minutes using its existing saved browser cookies. No browser tab is opened or refreshed, no page is redirected, and no automatic sign-in action is performed."
 }
