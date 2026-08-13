@@ -1,11 +1,11 @@
 {
-    "version":  "1.9.13",
-    "latestVersion":  "1.9.13",
-    "appVersion":  "1.9.13",
-    "publishedAt":  "2026-08-13T14:28:19.4605968Z",
-    "updatedAt":  "2026-08-13T14:28:19.4605968Z",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.13/LendTech.Parent.Queue.1.9.13.Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.13/LendTech.Parent.Queue.1.9.13.Installer.exe",
-    "sha256":  "1b597efcc5eadb6a224902edbd8b00915b23ac09224f9fbb9da639229c0c9927",
-    "notes":  "Adds invisible LendTech session keepalive for UFS and TruPath. While the app is open, each account sends one authenticated background heartbeat every five minutes using its existing saved browser cookies. No browser tab is opened or refreshed, no page is redirected, and no automatic sign-in action is performed."
+    "version":  "1.9.14",
+    "latestVersion":  "1.9.14",
+    "appVersion":  "1.9.14",
+    "publishedAt":  "2026-08-13T17:57:09.1900882Z",
+    "updatedAt":  "2026-08-13T17:57:09.1900882Z",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.14/LendTech.Parent.Queue.1.9.14.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.14/LendTech.Parent.Queue.1.9.14.Installer.exe",
+    "sha256":  "0a1028c13b49d6e1bb8a41a856b52ab39b227cc4efa23babdcd1f4f6cce0e53a",
+    "notes":  "Automates Contracts Back funding completion for both UFS and TruPath. Each Contracts refresh checks active contract deal statuses through the correct account\u0027s LendTech API. Funded deals are matched to the original Funding Email in the same account; the sender assigns Working By and the row moves to Funded. If no matching email is found, the row moves to the new Funded - uncertain section. Manual completed statuses and existing worker assignments are preserved."
 }
