@@ -1,11 +1,11 @@
 {
-    "version":  "1.9.14",
-    "latestVersion":  "1.9.14",
-    "appVersion":  "1.9.14",
-    "publishedAt":  "2026-08-13T17:57:09.1900882Z",
-    "updatedAt":  "2026-08-13T17:57:09.1900882Z",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.14/LendTech.Parent.Queue.1.9.14.Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.14/LendTech.Parent.Queue.1.9.14.Installer.exe",
-    "sha256":  "0a1028c13b49d6e1bb8a41a856b52ab39b227cc4efa23babdcd1f4f6cce0e53a",
-    "notes":  "Automates Contracts Back funding completion for both UFS and TruPath. Each Contracts refresh checks active contract deal statuses through the correct account\u0027s LendTech API. Funded deals are matched to the original Funding Email in the same account; the sender assigns Working By and the row moves to Funded. If no matching email is found, the row moves to the new Funded - uncertain section. Manual completed statuses and existing worker assignments are preserved."
+    "version":  "1.9.15",
+    "latestVersion":  "1.9.15",
+    "appVersion":  "1.9.15",
+    "publishedAt":  "2026-08-13T19:22:50.8939391Z",
+    "updatedAt":  "2026-08-13T19:22:50.8939391Z",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.15/LendTech.Parent.Queue.1.9.15.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.15/LendTech.Parent.Queue.1.9.15.Installer.exe",
+    "sha256":  "ee0990d68594276605ea846bb2c4f581433c6f01a3eaa7598d5727ec25630061",
+    "notes":  "Fixes Contracts Back funding-email matching for shortened business names on both UFS and TruPath. Subjects such as Talent homecare can now safely match the legal entity TALENT HOMECARE AGENCY CORP using a guarded two-token business-name match, while retaining account separation, date limits, and Funding Email filtering."
 }
