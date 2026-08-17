@@ -1,11 +1,11 @@
 {
-    "version":  "1.9.16",
-    "latestVersion":  "1.9.16",
-    "appVersion":  "1.9.16",
-    "publishedAt":  "2026-08-13T19:49:20.2323790Z",
-    "updatedAt":  "2026-08-13T19:49:20.2323790Z",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.16/LendTech.Parent.Queue.1.9.16.Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.16/LendTech.Parent.Queue.1.9.16.Installer.exe",
-    "sha256":  "1f2eb694003e17024f7bc83abde750535926e0fc9e6ed1f979ea16e72ed53499",
-    "notes":  "Fixes Contracts Back funding-email discovery when Funding is accidentally joined to the preceding business name, such as INCFunding Email. If the strict subject query misses, the app performs a bounded same-account, same-date, same-deal fallback and then accepts only normalized Funding Email subjects. Applies to both UFS and TruPath."
+  "version": "1.9.17",
+  "latestVersion": "1.9.17",
+  "appVersion": "1.9.17",
+  "publishedAt": "2026-08-17T13:27:50.8960547Z",
+  "updatedAt": "2026-08-17T13:27:50.8960547Z",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.17/LendTech.Parent.Queue.1.9.17.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.17/LendTech.Parent.Queue.1.9.17.Installer.exe",
+  "sha256": "ba7402225d76395d7ee5acc59ba0b6d256a65f65818a2d916fa52b1f127877b1",
+  "notes": "Adds proactive embedded-browser session checks for UFS and TruPath. When a saved LendTech session has expired, the Queue opens a dedicated sign-in window before any deal is opened; the window shares the existing browser profile, closes automatically after authentication is confirmed, and saves the refreshed session. Deal clicks use the same guard, while network errors do not masquerade as sign-out."
 }
