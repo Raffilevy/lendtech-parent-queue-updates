@@ -1,11 +1,11 @@
 {
-  "version": "1.9.19",
-  "latestVersion": "1.9.19",
-  "appVersion": "1.9.19",
-  "publishedAt": "2026-08-18T13:27:43.9553445Z",
-  "updatedAt": "2026-08-18T13:27:43.9553445Z",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.19/LendTech.Parent.Queue.1.9.19.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.19/LendTech.Parent.Queue.1.9.19.Installer.exe",
-  "sha256": "8c7ac26ee5cf8b7975c933e3b440706bfda753732139719298d111cae394a13b",
-  "notes": "Fixes overnight LendTech session expiry handling. The existing five-minute UFS and TruPath heartbeat now raises a coordinated runtime sign-in prompt when LendTech confirms a session has expired. The app restores the Queue, prompts one account at a time, closes each dialog after authentication, and retries after a ten-minute cooldown if dismissed. Network failures do not trigger sign-in prompts."
+  "version": "1.9.20",
+  "latestVersion": "1.9.20",
+  "appVersion": "1.9.20",
+  "publishedAt": "2026-08-18T13:58:35.9839154Z",
+  "updatedAt": "2026-08-18T13:58:35.9839154Z",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.20/LendTech.Parent.Queue.1.9.20.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.20/LendTech.Parent.Queue.1.9.20.Installer.exe",
+  "sha256": "4b1b97acc31fc4fa2335e67930da16029c6199a4a9a683ec5d55b71bdbc757d9",
+  "notes": "Fixes Contracts Back funding-email detection when duplicate signed-contract emails move the latest contract timestamp forward. Funding automation now uses a bounded contract-cycle lookback (at least seven days, capped at fourteen), while retaining exact deal identity scoring and nearest-date selection so older unrelated funding rounds are not chosen."
 }
