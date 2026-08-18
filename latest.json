@@ -1,11 +1,11 @@
 {
-  "version": "1.9.18",
-  "latestVersion": "1.9.18",
-  "appVersion": "1.9.18",
-  "publishedAt": "2026-08-17T13:31:54.9627438Z",
-  "updatedAt": "2026-08-17T13:31:54.9627438Z",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.18/LendTech.Parent.Queue.1.9.18.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.18/LendTech.Parent.Queue.1.9.18.Installer.exe",
-  "sha256": "acc918b5ce19d0a12a2b351427f7486e72fe34fb1cfba0daa7541dc1b28ac7ff",
-  "notes": "Enables WebView2 password saving and autofill in the local UFS and TruPath embedded-browser profiles, including the proactive sign-in popup. Saved credentials remain encrypted in the current Windows user profile, survive app updates, and are excluded from installers, GitHub sync, diagnostics, and cookie backups."
+  "version": "1.9.19",
+  "latestVersion": "1.9.19",
+  "appVersion": "1.9.19",
+  "publishedAt": "2026-08-18T13:27:43.9553445Z",
+  "updatedAt": "2026-08-18T13:27:43.9553445Z",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.19/LendTech.Parent.Queue.1.9.19.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.19/LendTech.Parent.Queue.1.9.19.Installer.exe",
+  "sha256": "8c7ac26ee5cf8b7975c933e3b440706bfda753732139719298d111cae394a13b",
+  "notes": "Fixes overnight LendTech session expiry handling. The existing five-minute UFS and TruPath heartbeat now raises a coordinated runtime sign-in prompt when LendTech confirms a session has expired. The app restores the Queue, prompts one account at a time, closes each dialog after authentication, and retries after a ten-minute cooldown if dismissed. Network failures do not trigger sign-in prompts."
 }
