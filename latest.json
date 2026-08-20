@@ -1,11 +1,11 @@
 {
-  "version": "1.9.24",
-  "latestVersion": "1.9.24",
-  "appVersion": "1.9.24",
-  "publishedAt": "2026-08-20T15:59:17.6861529Z",
-  "updatedAt": "2026-08-20T15:59:17.6861529Z",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.24/LendTech.Parent.Queue.1.9.24.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.24/LendTech.Parent.Queue.1.9.24.Installer.exe",
-  "sha256": "7b6042f67c61f6b7d1411a4cfca87b3c768bcb063c022be4869c9d119f322ae1",
-  "notes": "Adds Deal also found in UFS/TruPath notices to the main deal-submission queue beneath the merchant name. The queue renders immediately, then checks new business names through one cached background batch; matching and confirmed-negative results are reused for ten minutes, so cross-account detection does not delay or interrupt the 30-second queue refresh. Destination-account theme colors distinguish each notice."
+  "version": "1.9.25",
+  "latestVersion": "1.9.25",
+  "appVersion": "1.9.25",
+  "publishedAt": "2026-08-20T17:35:01.4486407Z",
+  "updatedAt": "2026-08-20T17:35:01.4486407Z",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.25/LendTech.Parent.Queue.1.9.25.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.25/LendTech.Parent.Queue.1.9.25.Installer.exe",
+  "sha256": "0d7fb7ef789484c75a9319368083ee9c6ce24b8b1befffca5b5fb6f26ff4d97a",
+  "notes": "Adds editable Underwriter assignments directly to the deal-submission queue. Click any deal's Underwriter cell to search the account's live LendTech users, add multiple underwriters, replace assignments, or remove users in one Save. Uses the official Assign / Unassign User on Deal API, resolves the Underwriter purpose dynamically for UFS and TruPath, updates the row immediately after confirmation, and refreshes the lead cache for the next queue pull."
 }
