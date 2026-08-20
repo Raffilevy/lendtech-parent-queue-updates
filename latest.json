@@ -1,11 +1,11 @@
 {
-  "version": "1.9.23",
-  "latestVersion": "1.9.23",
-  "appVersion": "1.9.23",
-  "publishedAt": "2026-08-20T14:24:20.0162650Z",
-  "updatedAt": "2026-08-20T14:24:20.0162650Z",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.23/LendTech.Parent.Queue.1.9.23.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.23/LendTech.Parent.Queue.1.9.23.Installer.exe",
-  "sha256": "fe424a9f60ee2bd9fbf8ab4a65d5c7f2e7e28a26586d5f0bc8e066436dd4c8e6",
-  "notes": "Adds cross-account duplicate notices to the separate UFS and TruPath deal searches. Every enumerated business name is checked against the other LendTech account using cached, limited-concurrency lookups and strict normalized-name matching. Matching suggestions display Deal also found in UFS or TruPath with that account's theme color; date submitted and current status remain visible in Queue and browser suggestions."
+  "version": "1.9.24",
+  "latestVersion": "1.9.24",
+  "appVersion": "1.9.24",
+  "publishedAt": "2026-08-20T15:59:17.6861529Z",
+  "updatedAt": "2026-08-20T15:59:17.6861529Z",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.24/LendTech.Parent.Queue.1.9.24.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.24/LendTech.Parent.Queue.1.9.24.Installer.exe",
+  "sha256": "7b6042f67c61f6b7d1411a4cfca87b3c768bcb063c022be4869c9d119f322ae1",
+  "notes": "Adds Deal also found in UFS/TruPath notices to the main deal-submission queue beneath the merchant name. The queue renders immediately, then checks new business names through one cached background batch; matching and confirmed-negative results are reused for ten minutes, so cross-account detection does not delay or interrupt the 30-second queue refresh. Destination-account theme colors distinguish each notice."
 }
