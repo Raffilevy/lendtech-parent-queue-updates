@@ -3,9 +3,9 @@
   "latestVersion": "1.9.25",
   "appVersion": "1.9.25",
   "publishedAt": "2026-08-20T17:35:01.4486407Z",
-  "updatedAt": "2026-08-20T17:35:01.4486407Z",
+  "updatedAt": "2026-08-20T17:36:21.4132686Z",
   "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.25/LendTech.Parent.Queue.1.9.25.Installer.exe",
   "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.25/LendTech.Parent.Queue.1.9.25.Installer.exe",
-  "sha256": "0d7fb7ef789484c75a9319368083ee9c6ce24b8b1befffca5b5fb6f26ff4d97a",
+  "sha256": "9b7e37e60e606216a53599d38c72870eece0caebe05d2d331018b09015e3e3aa",
   "notes": "Adds editable Underwriter assignments directly to the deal-submission queue. Click any deal's Underwriter cell to search the account's live LendTech users, add multiple underwriters, replace assignments, or remove users in one Save. Uses the official Assign / Unassign User on Deal API, resolves the Underwriter purpose dynamically for UFS and TruPath, updates the row immediately after confirmation, and refreshes the lead cache for the next queue pull."
 }
