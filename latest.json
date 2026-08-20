@@ -1,11 +1,11 @@
 {
-  "version": "1.9.21",
-  "latestVersion": "1.9.21",
-  "appVersion": "1.9.21",
-  "publishedAt": "2026-08-20T13:45:10.5398207Z",
-  "updatedAt": "2026-08-20T13:45:10.5398207Z",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.21/LendTech.Parent.Queue.1.9.21.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.21/LendTech.Parent.Queue.1.9.21.Installer.exe",
-  "sha256": "58b3b6ee54c1cf15127c1752560913c135f80fd99d32e28cf5fa66dc022709fd",
-  "notes": "Adds universal deal lookup to the Queue and upgrades both embedded-browser deal controls to search by deal ID or business name. Queue searches enumerate matching UFS and TruPath deals with account, ID, and DBA context; browser searches remain account-specific. Results support mouse selection, arrow keys, Enter, Escape, exact-ID lookup, historical name lookup, responsive layout, and open in the correct embedded browser."
+  "version": "1.9.22",
+  "latestVersion": "1.9.22",
+  "appVersion": "1.9.22",
+  "publishedAt": "2026-08-20T14:03:06.0871523Z",
+  "updatedAt": "2026-08-20T14:03:06.0871523Z",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.22/LendTech.Parent.Queue.1.9.22.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.22/LendTech.Parent.Queue.1.9.22.Installer.exe",
+  "sha256": "2490510d6e7aef90397b3b13403bc115b68299ff943479b7bf6c50a6e95607e8",
+  "notes": "Splits the Queue deal lookup into separate UFS and TruPath controls. Suggestions now include submitted date and current underwriting status, use each account's configured deal colors, and remain independently searchable with mouse and keyboard. The account-specific browser suggestions show the same added metadata."
 }
