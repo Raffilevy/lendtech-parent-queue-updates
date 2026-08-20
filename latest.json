@@ -1,11 +1,11 @@
 {
-  "version": "1.9.20",
-  "latestVersion": "1.9.20",
-  "appVersion": "1.9.20",
-  "publishedAt": "2026-08-18T13:58:35.9839154Z",
-  "updatedAt": "2026-08-18T13:58:35.9839154Z",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.20/LendTech.Parent.Queue.1.9.20.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.20/LendTech.Parent.Queue.1.9.20.Installer.exe",
-  "sha256": "4b1b97acc31fc4fa2335e67930da16029c6199a4a9a683ec5d55b71bdbc757d9",
-  "notes": "Fixes Contracts Back funding-email detection when duplicate signed-contract emails move the latest contract timestamp forward. Funding automation now uses a bounded contract-cycle lookback (at least seven days, capped at fourteen), while retaining exact deal identity scoring and nearest-date selection so older unrelated funding rounds are not chosen."
+  "version": "1.9.21",
+  "latestVersion": "1.9.21",
+  "appVersion": "1.9.21",
+  "publishedAt": "2026-08-20T13:45:10.5398207Z",
+  "updatedAt": "2026-08-20T13:45:10.5398207Z",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.21/LendTech.Parent.Queue.1.9.21.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.21/LendTech.Parent.Queue.1.9.21.Installer.exe",
+  "sha256": "58b3b6ee54c1cf15127c1752560913c135f80fd99d32e28cf5fa66dc022709fd",
+  "notes": "Adds universal deal lookup to the Queue and upgrades both embedded-browser deal controls to search by deal ID or business name. Queue searches enumerate matching UFS and TruPath deals with account, ID, and DBA context; browser searches remain account-specific. Results support mouse selection, arrow keys, Enter, Escape, exact-ID lookup, historical name lookup, responsive layout, and open in the correct embedded browser."
 }
