@@ -1,11 +1,11 @@
 {
-  "version": "1.9.27",
-  "latestVersion": "1.9.27",
-  "appVersion": "1.9.27",
-  "publishedAt": "2026-08-21T13:28:39.5917300Z",
-  "updatedAt": "2026-08-21T13:28:39.5917300Z",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.27/LendTech.Parent.Queue.1.9.27.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.27/LendTech.Parent.Queue.1.9.27.Installer.exe",
-  "sha256": "8bec49cb20a533d780f9e0af331432f92aa762b78a37b9c39ee8be9d0fc98f81",
-  "notes": "Adds a settings-only View Demo for the planned underwriting workspace. The prototype keeps only Submission: Status, Principals, Documents and Underwriting: Bank Connect, Bank Statements, Worksheet, Credit, External Searches, Offers. It follows the current app theme, includes representative data layouts for review, and does not replace or modify the live LendTech browser workflow."
+  "version": "1.9.28",
+  "latestVersion": "1.9.28",
+  "appVersion": "1.9.28",
+  "publishedAt": "2026-08-21T13:42:00.1068454Z",
+  "updatedAt": "2026-08-21T13:42:00.1068454Z",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.28/LendTech.Parent.Queue.1.9.28.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.28/LendTech.Parent.Queue.1.9.28.Installer.exe",
+  "sha256": "ca63925c0aac0ec2359c522b08eaa21c67b8f90e00c407b0648aef0becdbeb52",
+  "notes": "Refines the underwriting interface demo: removes the extra Product Type, Funding Type, ISO, Whitelabel, Requested Amount, and Submission Date block from Status; moves ISO into the deal header beside Requested; and orders Status History from oldest to newest."
 }
