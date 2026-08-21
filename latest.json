@@ -1,11 +1,11 @@
 {
-  "version": "1.9.30",
-  "latestVersion": "1.9.30",
-  "appVersion": "1.9.30",
-  "publishedAt": "2026-08-21T15:32:13.4954488Z",
-  "updatedAt": "2026-08-21T15:32:13.4954488Z",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.30/LendTech.Parent.Queue.1.9.30.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.30/LendTech.Parent.Queue.1.9.30.Installer.exe",
-  "sha256": "725d422fc536551f969df4c835b8079543661b525035a9d06653194b1fdab988",
-  "notes": "Redesigns the demo Principals view as a compact, proportional form instead of equal two-column cells. Prefix and Suffix are narrow, name and address fields receive appropriate space, and fields are grouped into Identity, Role & Contact, and Address. Copy and inline-edit behavior remains available on every field."
+  "version": "1.9.31",
+  "latestVersion": "1.9.31",
+  "appVersion": "1.9.31",
+  "publishedAt": "2026-08-21T16:44:14.6551132Z",
+  "updatedAt": "2026-08-21T16:44:14.6551132Z",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.31/LendTech.Parent.Queue.1.9.31.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.31/LendTech.Parent.Queue.1.9.31.Installer.exe",
+  "sha256": "fa13854f3b7b9ed19e2c87c4ffd7c5d70e2fa396b8fe0e536a6a2ce524696777",
+  "notes": "Expands the underwriting interface demo with document downloads, representative-email delivery for Bank Connect, and a MoneyThumb workflow for PDF uploads, original-statement viewing, detailed breakdowns, and per-account combined banking. Rebuilds Worksheet as a dense month-by-month underwriting worksheet and adds its selected-offer calculations to the Offers tab."
 }
