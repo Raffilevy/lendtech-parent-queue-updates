@@ -1,11 +1,11 @@
 {
-  "version": "1.9.32",
-  "latestVersion": "1.9.32",
-  "appVersion": "1.9.32",
-  "publishedAt": "2026-08-21T17:02:12.2199932Z",
-  "updatedAt": "2026-08-21T17:02:12.2199932Z",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.32/LendTech.Parent.Queue.1.9.32.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.32/LendTech.Parent.Queue.1.9.32.Installer.exe",
-  "sha256": "57f4bc9702b5f240a9ff66d89dd34c45b44fd688bb65e0505acfc4421afcde37",
-  "notes": "Tightens the demo Principals layout into compact content-sized fields. Adds the assigned rep to the deal header and separate Bank Connect delivery actions for the rep and merchant. Bank Statement originals, MoneyThumb detail views, and consolidated account views now use real LendTech URL patterns. Rebuilds Worksheet to mirror the original account/source layout, adds the full MoneyThumb monthly columns and banking totals, and supports editing and saving worksheet values. Import Ocrolus is intentionally omitted."
+  "version": "1.9.33",
+  "latestVersion": "1.9.33",
+  "appVersion": "1.9.33",
+  "publishedAt": "2026-08-21T17:49:35.7597312Z",
+  "updatedAt": "2026-08-21T17:49:35.7597312Z",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.33/LendTech.Parent.Queue.1.9.33.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.33/LendTech.Parent.Queue.1.9.33.Installer.exe",
+  "sha256": "1913673d82fa9504fcf9c2b14490641b04e79795a83e83491e38283ce849d0dc",
+  "notes": "Principal values now dynamically fit without truncation. Worksheet columns are compact and include separately calculated Transfers In and Transfers Out. Offers now includes the same monthly Worksheet breakdown in a synchronized read-only view."
 }
