@@ -1,11 +1,11 @@
 {
-  "version": "1.9.28",
-  "latestVersion": "1.9.28",
-  "appVersion": "1.9.28",
-  "publishedAt": "2026-08-21T13:42:00.1068454Z",
-  "updatedAt": "2026-08-21T13:42:00.1068454Z",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.28/LendTech.Parent.Queue.1.9.28.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.28/LendTech.Parent.Queue.1.9.28.Installer.exe",
-  "sha256": "ca63925c0aac0ec2359c522b08eaa21c67b8f90e00c407b0648aef0becdbeb52",
-  "notes": "Refines the underwriting interface demo: removes the extra Product Type, Funding Type, ISO, Whitelabel, Requested Amount, and Submission Date block from Status; moves ISO into the deal header beside Requested; and orders Status History from oldest to newest."
+  "version": "1.9.29",
+  "latestVersion": "1.9.29",
+  "appVersion": "1.9.29",
+  "publishedAt": "2026-08-21T14:06:01.1386163Z",
+  "updatedAt": "2026-08-21T14:06:01.1386163Z",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.29/LendTech.Parent.Queue.1.9.29.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.29/LendTech.Parent.Queue.1.9.29.Installer.exe",
+  "sha256": "bf531717783aad169d7a8e93da868611576b31936ba26855c018ed766c6752af",
+  "notes": "Expands the underwriting interface demo with a queue-style searchable multi-underwriter assignment picker on Status. Principals now includes Full Name, First Name, Prefix, Last Name, Suffix, Middle Name, SSN, Percentage Ownership, Date of Birth, Title, Home Address, Zip Code, City, State, County, Country, Entity Type, Email, and Cell Phone. Every value can be copied with one click or edited inline. Demo actions remain local and do not modify live LendTech deals."
 }
