@@ -1,11 +1,11 @@
 {
-  "version": "1.9.26",
-  "latestVersion": "1.9.26",
-  "appVersion": "1.9.26",
-  "publishedAt": "2026-08-20T18:30:58.3947693Z",
-  "updatedAt": "2026-08-20T18:30:58.3947693Z",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.26/LendTech.Parent.Queue.1.9.26.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.26/LendTech.Parent.Queue.1.9.26.Installer.exe",
-  "sha256": "a85bcfa35683d60051b18fae538ac6a04629231aabb64c66c101900d9b7ba1f1",
-  "notes": "Limits the editable Underwriter assignment picker to Raffi, Charles, Joseph, Melissa, Maria, and Kiran. Each account still resolves its own live LendTech user IDs, and users who do not exist in an account are safely omitted."
+  "version": "1.9.27",
+  "latestVersion": "1.9.27",
+  "appVersion": "1.9.27",
+  "publishedAt": "2026-08-21T13:28:39.5917300Z",
+  "updatedAt": "2026-08-21T13:28:39.5917300Z",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.27/LendTech.Parent.Queue.1.9.27.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.27/LendTech.Parent.Queue.1.9.27.Installer.exe",
+  "sha256": "8bec49cb20a533d780f9e0af331432f92aa762b78a37b9c39ee8be9d0fc98f81",
+  "notes": "Adds a settings-only View Demo for the planned underwriting workspace. The prototype keeps only Submission: Status, Principals, Documents and Underwriting: Bank Connect, Bank Statements, Worksheet, Credit, External Searches, Offers. It follows the current app theme, includes representative data layouts for review, and does not replace or modify the live LendTech browser workflow."
 }
