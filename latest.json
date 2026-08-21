@@ -1,11 +1,11 @@
 {
-  "version": "1.9.34",
-  "latestVersion": "1.9.34",
-  "appVersion": "1.9.34",
-  "publishedAt": "2026-08-21T18:23:05.7116664Z",
-  "updatedAt": "2026-08-21T18:23:05.7116664Z",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.34/LendTech.Parent.Queue.1.9.34.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.34/LendTech.Parent.Queue.1.9.34.Installer.exe",
-  "sha256": "aa7a8f32ecb6c0c5ddfb38c4e0f4f9444efe0f715fd6e13b44a0e25ae6013008",
-  "notes": "Added the DEMO queue view beside Contracts Back. DEMO reuses the live Deal Submissions list but opens the selected deal in the streamlined underwriting workspace. Worksheet editing now supports including or excluding individual months with immediate Banking Totals and Offers recalculation. Credit controls now progress from Pull Credit to View Credit and include Repull and Delete actions. Worksheet values are larger, tighter, and separated by column lines."
+  "version": "1.9.35",
+  "latestVersion": "1.9.35",
+  "appVersion": "1.9.35",
+  "publishedAt": "2026-08-21T18:46:18.6032753Z",
+  "updatedAt": "2026-08-21T18:46:18.6032753Z",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.35/LendTech.Parent.Queue.1.9.35.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.35/LendTech.Parent.Queue.1.9.35.Installer.exe",
+  "sha256": "c835b2e0efa864a224a475f585189563dd6125d213b00788d4dd333df1013fb2",
+  "notes": "DEMO deals now open as foreground tabs in the correct embedded UFS or TruPath browser and switch to that account desktop. Workspace links open as new internal-browser tabs. Status, assignment, principal, document, Bank Connect, bank statement, worksheet, credit, external-search, and offer controls now have working demo interactions."
 }
