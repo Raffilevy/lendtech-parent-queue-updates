@@ -1,11 +1,11 @@
 {
-  "version": "1.9.31",
-  "latestVersion": "1.9.31",
-  "appVersion": "1.9.31",
-  "publishedAt": "2026-08-21T16:44:14.6551132Z",
-  "updatedAt": "2026-08-21T16:44:14.6551132Z",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.31/LendTech.Parent.Queue.1.9.31.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.31/LendTech.Parent.Queue.1.9.31.Installer.exe",
-  "sha256": "fa13854f3b7b9ed19e2c87c4ffd7c5d70e2fa396b8fe0e536a6a2ce524696777",
-  "notes": "Expands the underwriting interface demo with document downloads, representative-email delivery for Bank Connect, and a MoneyThumb workflow for PDF uploads, original-statement viewing, detailed breakdowns, and per-account combined banking. Rebuilds Worksheet as a dense month-by-month underwriting worksheet and adds its selected-offer calculations to the Offers tab."
+  "version": "1.9.32",
+  "latestVersion": "1.9.32",
+  "appVersion": "1.9.32",
+  "publishedAt": "2026-08-21T17:02:12.2199932Z",
+  "updatedAt": "2026-08-21T17:02:12.2199932Z",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.32/LendTech.Parent.Queue.1.9.32.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.32/LendTech.Parent.Queue.1.9.32.Installer.exe",
+  "sha256": "57f4bc9702b5f240a9ff66d89dd34c45b44fd688bb65e0505acfc4421afcde37",
+  "notes": "Tightens the demo Principals layout into compact content-sized fields. Adds the assigned rep to the deal header and separate Bank Connect delivery actions for the rep and merchant. Bank Statement originals, MoneyThumb detail views, and consolidated account views now use real LendTech URL patterns. Rebuilds Worksheet to mirror the original account/source layout, adds the full MoneyThumb monthly columns and banking totals, and supports editing and saving worksheet values. Import Ocrolus is intentionally omitted."
 }
