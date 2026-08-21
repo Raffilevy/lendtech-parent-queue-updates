@@ -1,11 +1,11 @@
 {
-  "version": "1.9.29",
-  "latestVersion": "1.9.29",
-  "appVersion": "1.9.29",
-  "publishedAt": "2026-08-21T14:06:01.1386163Z",
-  "updatedAt": "2026-08-21T14:06:01.1386163Z",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.29/LendTech.Parent.Queue.1.9.29.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.29/LendTech.Parent.Queue.1.9.29.Installer.exe",
-  "sha256": "bf531717783aad169d7a8e93da868611576b31936ba26855c018ed766c6752af",
-  "notes": "Expands the underwriting interface demo with a queue-style searchable multi-underwriter assignment picker on Status. Principals now includes Full Name, First Name, Prefix, Last Name, Suffix, Middle Name, SSN, Percentage Ownership, Date of Birth, Title, Home Address, Zip Code, City, State, County, Country, Entity Type, Email, and Cell Phone. Every value can be copied with one click or edited inline. Demo actions remain local and do not modify live LendTech deals."
+  "version": "1.9.30",
+  "latestVersion": "1.9.30",
+  "appVersion": "1.9.30",
+  "publishedAt": "2026-08-21T15:32:13.4954488Z",
+  "updatedAt": "2026-08-21T15:32:13.4954488Z",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.30/LendTech.Parent.Queue.1.9.30.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.30/LendTech.Parent.Queue.1.9.30.Installer.exe",
+  "sha256": "725d422fc536551f969df4c835b8079543661b525035a9d06653194b1fdab988",
+  "notes": "Redesigns the demo Principals view as a compact, proportional form instead of equal two-column cells. Prefix and Suffix are narrow, name and address fields receive appropriate space, and fields are grouped into Identity, Role & Contact, and Address. Copy and inline-edit behavior remains available on every field."
 }
