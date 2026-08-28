@@ -1,8 +1,8 @@
 {
-  "version": "1.9.44",
-  "latestVersion": "1.9.44",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.44/LendTech.Parent.Queue.1.9.44.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.44/LendTech.Parent.Queue.1.9.44.Installer.exe",
-  "notes": "Fixes the Underwriting Workspace rep header when the Partner API omits rep data. The workspace now preserves the External Rep supplied by the live queue row (including Sam on deal 572497), while still preferring richer rep details whenever LendTech returns them.",
-  "publishedAt": "2026-08-28T17:39:47.7229605Z"
+  "version": "1.9.45",
+  "latestVersion": "1.9.45",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.45/LendTech.Parent.Queue.1.9.45.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.45/LendTech.Parent.Queue.1.9.45.Installer.exe",
+  "notes": "Fixes missing deal reps in the Underwriting Workspace using the authoritative signed-in LendTech account page. When Partner API data omits the rep, the workspace now reads the rep line associated with the deal ISO (verified as UFS SAM on deal 572497), while retaining the queue fallback and richer API-field support.",
+  "publishedAt": "2026-08-28T17:47:38.2641903Z"
 }
