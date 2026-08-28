@@ -1,8 +1,8 @@
 {
-  "version": "1.9.49",
-  "latestVersion": "1.9.49",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.49/LendTech.Parent.Queue.1.9.49.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.49/LendTech.Parent.Queue.1.9.49.Installer.exe",
-  "notes": "Adds a dedicated Price section to the Underwriting Workspace above Offers. It embeds the complete existing Pricing Advisor for the active deal, including verified evidence, model comparison, decline risk, withhold math, factor impact, position review, calibration, feedback, seasonality, and sent-offer saving, with the full breakdown expanded automatically.",
-  "publishedAt": "2026-08-28T18:53:00.0000000Z"
+  "version": "1.9.50",
+  "latestVersion": "1.9.50",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.50/LendTech.Parent.Queue.1.9.50.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.50/LendTech.Parent.Queue.1.9.50.Installer.exe",
+  "notes": "Fixes the Underwriting Workspace Price section getting stuck on Preparing Pricing Advisor with Failed to fetch. All embedded pricing requests now relay through the workspace's native pricing bridge, covering evidence loading, calibration, corrections, feedback, decline analysis, and saved offers.",
+  "publishedAt": "2026-08-28T19:04:00.0000000Z"
 }
