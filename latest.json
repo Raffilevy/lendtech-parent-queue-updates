@@ -1,8 +1,8 @@
 {
-  "version": "1.9.43",
-  "latestVersion": "1.9.43",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.43/LendTech.Parent.Queue.1.9.43.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.43/LendTech.Parent.Queue.1.9.43.Installer.exe",
-  "notes": "Promotes the Underwriting Workspace from a visual prototype to verified live behavior. Principal add, edit, and delete now write through the signed-in LendTech session and confirm the server result; assignments save through the assignment API. Status history and Bank Connect details now load from LendTech, sample data and local-only mutations were removed, unsupported writes open the exact authenticated LendTech workflow, and document preview loading now clears reliably.",
-  "publishedAt": "2026-08-28T17:21:40.6566799Z"
+  "version": "1.9.44",
+  "latestVersion": "1.9.44",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.44/LendTech.Parent.Queue.1.9.44.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.44/LendTech.Parent.Queue.1.9.44.Installer.exe",
+  "notes": "Fixes the Underwriting Workspace rep header when the Partner API omits rep data. The workspace now preserves the External Rep supplied by the live queue row (including Sam on deal 572497), while still preferring richer rep details whenever LendTech returns them.",
+  "publishedAt": "2026-08-28T17:39:47.7229605Z"
 }
