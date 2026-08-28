@@ -1,8 +1,8 @@
 {
-  "version": "1.9.45",
-  "latestVersion": "1.9.45",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.45/LendTech.Parent.Queue.1.9.45.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.45/LendTech.Parent.Queue.1.9.45.Installer.exe",
-  "notes": "Fixes missing deal reps in the Underwriting Workspace using the authoritative signed-in LendTech account page. When Partner API data omits the rep, the workspace now reads the rep line associated with the deal ISO (verified as UFS SAM on deal 572497), while retaining the queue fallback and richer API-field support.",
-  "publishedAt": "2026-08-28T17:47:38.2641903Z"
+  "version": "1.9.46",
+  "latestVersion": "1.9.46",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.46/LendTech.Parent.Queue.1.9.46.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.46/LendTech.Parent.Queue.1.9.46.Installer.exe",
+  "notes": "Fixes deal ownership and assignment display across UFS and TruPath. The Underwriting Workspace now reads the rep from the correctly indexed ISO summary column, removes account prefixes, and keeps rep ownership separate from Underwriter-purpose assignments. Verified as Marcus Goose on TruPath deal 17927 and Sam on UFS deal 572497.",
+  "publishedAt": "2026-08-28T18:07:30.7959122Z"
 }
