@@ -1,8 +1,8 @@
 {
-  "version": "1.9.46",
-  "latestVersion": "1.9.46",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.46/LendTech.Parent.Queue.1.9.46.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.46/LendTech.Parent.Queue.1.9.46.Installer.exe",
-  "notes": "Fixes deal ownership and assignment display across UFS and TruPath. The Underwriting Workspace now reads the rep from the correctly indexed ISO summary column, removes account prefixes, and keeps rep ownership separate from Underwriter-purpose assignments. Verified as Marcus Goose on TruPath deal 17927 and Sam on UFS deal 572497.",
-  "publishedAt": "2026-08-28T18:07:30.7959122Z"
+  "version": "1.9.47",
+  "latestVersion": "1.9.47",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.47/LendTech.Parent.Queue.1.9.47.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.47/LendTech.Parent.Queue.1.9.47.Installer.exe",
+  "notes": "Improves the Underwriting Workspace Status tab. Assignment and status controls are centered, Edit Status now changes and verifies ordinary LendTech statuses in place, and a deal-only Decline Deal button opens LendTech's real decline reasons and email workflow.",
+  "publishedAt": "2026-08-28T18:32:16.1610565Z"
 }
