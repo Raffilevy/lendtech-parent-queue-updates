@@ -1,8 +1,8 @@
 {
-  "version": "1.9.41",
-  "latestVersion": "1.9.41",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.41/LendTech.Parent.Queue.1.9.41.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.41/LendTech.Parent.Queue.1.9.41.Installer.exe",
-  "notes": "Removes the unnecessary Prefix field from the Underwriting Workspace principals layout and removes its unused save path. Principal writeback and the corrected PDF preview loading state remain unchanged.",
-  "publishedAt": "2026-08-28T16:02:05.0468823Z"
+  "version": "1.9.42",
+  "latestVersion": "1.9.42",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.42/LendTech.Parent.Queue.1.9.42.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.42/LendTech.Parent.Queue.1.9.42.Installer.exe",
+  "notes": "Principal edits now save through LendTech's canonical signed-in Principals endpoint, keep the combined full name synchronized, and verify the saved field before reporting success.",
+  "publishedAt": "2026-08-28T16:45:16.5793247Z"
 }
