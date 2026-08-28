@@ -1,8 +1,8 @@
 {
-  "version": "1.9.36",
-  "latestVersion": "1.9.36",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.36/LendTech.Parent.Queue.1.9.36.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.36/LendTech.Parent.Queue.1.9.36.Installer.exe",
-  "notes": "Real LendTech underwriting workspace data; working scrollable document previews that close on backdrop click; PDFs reopen reliably inside the app.",
-  "publishedAt": "2026-08-28T14:45:40.5239289Z"
+  "version": "1.9.37",
+  "latestVersion": "1.9.37",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.37/LendTech.Parent.Queue.1.9.37.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.37/LendTech.Parent.Queue.1.9.37.Installer.exe",
+  "notes": "Fixes the Underwriting Workspace bridge so live principals and documents load reliably; adds explicit workspace request diagnostics.",
+  "publishedAt": "2026-08-28T14:54:09.3913888Z"
 }
