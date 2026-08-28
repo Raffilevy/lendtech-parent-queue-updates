@@ -1,8 +1,8 @@
 {
-  "version": "1.9.39",
-  "latestVersion": "1.9.39",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.39/LendTech.Parent.Queue.1.9.39.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.39/LendTech.Parent.Queue.1.9.39.Installer.exe",
-  "notes": "Fixes Underwriting Workspace loading by returning completed LendTech data on the WebView UI thread. Real principal, document, statement, worksheet, and offer data now renders reliably for UFS and TruPath. Expired-session prompts are deferred while a browser workspace is active so TruPath sign-in cannot interrupt the deal being reviewed.",
-  "publishedAt": "2026-08-28T15:29:33.6806054Z"
+    "version":  "1.9.40",
+    "latestVersion":  "1.9.40",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.40/LendTech.Parent.Queue.1.9.40.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.40/LendTech.Parent.Queue.1.9.40.Installer.exe",
+    "notes":  "Principal edits in the Underwriting Workspace now save directly to LendTech through the Owners API and refresh from the confirmed server record. Document previews now remove the Loading document overlay once the real PDF is visible.",
+    "publishedAt":  "2026-08-28T15:58:50.0029552Z"
 }
