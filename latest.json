@@ -1,8 +1,8 @@
 {
-  "version": "1.9.37",
-  "latestVersion": "1.9.37",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.37/LendTech.Parent.Queue.1.9.37.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.37/LendTech.Parent.Queue.1.9.37.Installer.exe",
-  "notes": "Fixes the Underwriting Workspace bridge so live principals and documents load reliably; adds explicit workspace request diagnostics.",
-  "publishedAt": "2026-08-28T14:54:09.3913888Z"
+  "version": "1.9.38",
+  "latestVersion": "1.9.38",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.38/LendTech.Parent.Queue.1.9.38.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.38/LendTech.Parent.Queue.1.9.38.Installer.exe",
+  "notes": "Fixes stuck Underwriting Workspace loading by delivering completed live deal data through redundant WebView callbacks; adds request/response traces.",
+  "publishedAt": "2026-08-28T15:14:12.5486904Z"
 }
