@@ -1,8 +1,8 @@
 {
-  "version": "1.9.50",
-  "latestVersion": "1.9.50",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.50/LendTech.Parent.Queue.1.9.50.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.50/LendTech.Parent.Queue.1.9.50.Installer.exe",
-  "notes": "Fixes the Underwriting Workspace Price section getting stuck on Preparing Pricing Advisor with Failed to fetch. All embedded pricing requests now relay through the workspace's native pricing bridge, covering evidence loading, calibration, corrections, feedback, decline analysis, and saved offers.",
-  "publishedAt": "2026-08-28T19:04:00.0000000Z"
+  "version": "1.9.51",
+  "latestVersion": "1.9.51",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.51/LendTech.Parent.Queue.1.9.51.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.51/LendTech.Parent.Queue.1.9.51.Installer.exe",
+  "notes": "Removes the stale Preparing Pricing Advisor placeholder as soon as the embedded advisor loads, eliminating the large empty loading box above the completed pricing data.",
+  "publishedAt": "2026-08-28T19:12:00.0000000Z"
 }
