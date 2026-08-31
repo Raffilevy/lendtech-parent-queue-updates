@@ -1,8 +1,8 @@
 {
-  "version": "1.9.63",
-  "latestVersion": "1.9.63",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.63/LendTech.Parent.Queue.1.9.63.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.63/LendTech.Parent.Queue.1.9.63.Installer.exe",
-  "notes": "Expands workspace page colors into an eight-part theme editor with Light Mode, Match App Theme, live preview, and Apply to all. Worksheet tables now show full values and month names without ellipses, remove both pay-percentage columns, dynamically fit long figures, and include more bottom scroll space.",
-  "publishedAt": "2026-08-31T18:07:43.2292372Z"
+  "version": "1.9.64",
+  "latestVersion": "1.9.64",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.64/LendTech.Parent.Queue.1.9.64.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.64/LendTech.Parent.Queue.1.9.64.Installer.exe",
+  "notes": "Fixes workspace Light Mode contrast by binding all page content, worksheet cells, and status colors to the selected page-level text palette instead of inheriting the dark app theme's light text.",
+  "publishedAt": "2026-08-31T18:15:50.7494976Z"
 }
