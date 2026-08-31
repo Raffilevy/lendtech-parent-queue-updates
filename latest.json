@@ -1,8 +1,8 @@
 {
-  "version": "1.9.60",
-  "latestVersion": "1.9.60",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.60/LendTech.Parent.Queue.1.9.60.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.60/LendTech.Parent.Queue.1.9.60.Installer.exe",
-  "notes": "Tightens the account Worksheet by combining Month and Year into one column and removing the As of Date and Note columns. The remaining fields are realigned and the table is narrower without changing Banking Totals calculations.",
-  "publishedAt": "2026-08-31T17:04:00.0000000Z"
+  "version": "1.9.61",
+  "latestVersion": "1.9.61",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.61/LendTech.Parent.Queue.1.9.61.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.61/LendTech.Parent.Queue.1.9.61.Installer.exe",
+  "notes": "Keeps each deal workspace on its selected tab when the page is refreshed. Also initializes Banking Totals from every account immediately, so consolidated values appear without opening each account tab first.",
+  "publishedAt": "2026-08-31T17:14:00.0000000Z"
 }
