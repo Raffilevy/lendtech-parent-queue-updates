@@ -1,8 +1,8 @@
 {
-  "version": "1.9.68",
-  "latestVersion": "1.9.68",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.68/LendTech.Parent.Queue.1.9.68.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.68/LendTech.Parent.Queue.1.9.68.Installer.exe",
-  "notes": "Moves Unprocessed Files to the top of Bank Statements and upgrades Credit to show complete Experian or CBC reports with one switchable tab per principal.",
-  "publishedAt": "2026-08-31T20:12:59.0162853Z"
+  "version": "1.9.69",
+  "latestVersion": "1.9.69",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.69/LendTech.Parent.Queue.1.9.69.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.69/LendTech.Parent.Queue.1.9.69.Installer.exe",
+  "notes": "Replaces the raw nested Experian data view with the original LendTech-style credit report layout, including risk model, profile summary, personal information, tradelines, payment histories, inquiries, and owner tabs.",
+  "publishedAt": "2026-08-31T20:46:29.8519191Z"
 }
