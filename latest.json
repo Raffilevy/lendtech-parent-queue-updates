@@ -1,8 +1,8 @@
 {
-  "version": "1.9.64",
-  "latestVersion": "1.9.64",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.64/LendTech.Parent.Queue.1.9.64.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.64/LendTech.Parent.Queue.1.9.64.Installer.exe",
-  "notes": "Fixes workspace Light Mode contrast by binding all page content, worksheet cells, and status colors to the selected page-level text palette instead of inheriting the dark app theme's light text.",
-  "publishedAt": "2026-08-31T18:15:50.7494976Z"
+  "version": "1.9.65",
+  "latestVersion": "1.9.65",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.65/LendTech.Parent.Queue.1.9.65.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.65/LendTech.Parent.Queue.1.9.65.Installer.exe",
+  "notes": "Refines Worksheet and Offers tables to match the original LendTech worksheet's compact proportions: uniform typography, tighter rows, title-case headers, improved column sizing, fully visible month labels, and calmer but distinct Total and Average rows.",
+  "publishedAt": "2026-08-31T18:28:23.2280157Z"
 }
