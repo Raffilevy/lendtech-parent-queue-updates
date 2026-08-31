@@ -1,8 +1,8 @@
 {
-  "version": "1.9.57",
-  "latestVersion": "1.9.57",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.57/LendTech.Parent.Queue.1.9.57.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.57/LendTech.Parent.Queue.1.9.57.Installer.exe",
-  "notes": "Fixes exact duplicate detection when one import has a derived average balance and the other does not; source account, period, balances, and every transaction now determine identity. Adds statement checkboxes, Select All, verified bulk deletion through LendTech's delete-multi route, and bulk movement into existing or new account groups.",
-  "publishedAt": "2026-08-31T16:04:00.0000000Z"
+  "version": "1.9.58",
+  "latestVersion": "1.9.58",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.58/LendTech.Parent.Queue.1.9.58.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.58/LendTech.Parent.Queue.1.9.58.Installer.exe",
+  "notes": "Locks bank-statement account-group names when groups are created so moving statements or changing deal assignments cannot rename them. The Rename group control remains the only way to change a group name, and names persist across reloads.",
+  "publishedAt": "2026-08-31T16:31:00.0000000Z"
 }
