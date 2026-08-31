@@ -1,8 +1,8 @@
 {
-  "version": "1.9.51",
-  "latestVersion": "1.9.51",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.51/LendTech.Parent.Queue.1.9.51.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.51/LendTech.Parent.Queue.1.9.51.Installer.exe",
-  "notes": "Removes the stale Preparing Pricing Advisor placeholder as soon as the embedded advisor loads, eliminating the large empty loading box above the completed pricing data.",
-  "publishedAt": "2026-08-28T19:12:00.0000000Z"
+  "version": "1.9.52",
+  "latestVersion": "1.9.52",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.52/LendTech.Parent.Queue.1.9.52.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.52/LendTech.Parent.Queue.1.9.52.Installer.exe",
+  "notes": "Opens downloaded files in a new internal browser tab instead of Microsoft Edge. PDF and image content is detected by file contents even when LendTech supplies a misleading extension; text files receive an internal preview and unsupported formats stay inside the app with clear guidance.",
+  "publishedAt": "2026-08-31T16:00:00.0000000Z"
 }
