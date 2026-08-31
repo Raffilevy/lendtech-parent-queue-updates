@@ -1,8 +1,8 @@
 {
-  "version": "1.9.69",
-  "latestVersion": "1.9.69",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.69/LendTech.Parent.Queue.1.9.69.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.69/LendTech.Parent.Queue.1.9.69.Installer.exe",
-  "notes": "Replaces the raw nested Experian data view with the original LendTech-style credit report layout, including risk model, profile summary, personal information, tradelines, payment histories, inquiries, and owner tabs.",
-  "publishedAt": "2026-08-31T20:46:29.8519191Z"
+  "version": "1.9.70",
+  "latestVersion": "1.9.70",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.70/LendTech.Parent.Queue.1.9.70.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.70/LendTech.Parent.Queue.1.9.70.Installer.exe",
+  "notes": "Simplifies the workspace credit report, translates and deduplicates Experian risk factors, highlights key profile metrics and missed payments, and removes parenthetical balance percentages from worksheet totals.",
+  "publishedAt": "2026-08-31T21:42:23.8795410Z"
 }
