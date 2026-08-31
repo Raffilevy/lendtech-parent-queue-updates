@@ -1,8 +1,8 @@
 {
-  "version": "1.9.58",
-  "latestVersion": "1.9.58",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.58/LendTech.Parent.Queue.1.9.58.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.58/LendTech.Parent.Queue.1.9.58.Installer.exe",
-  "notes": "Locks bank-statement account-group names when groups are created so moving statements or changing deal assignments cannot rename them. The Rename group control remains the only way to change a group name, and names persist across reloads.",
-  "publishedAt": "2026-08-31T16:31:00.0000000Z"
+  "version": "1.9.59",
+  "latestVersion": "1.9.59",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.59/LendTech.Parent.Queue.1.9.59.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.59/LendTech.Parent.Queue.1.9.59.Installer.exe",
+  "notes": "Fixes Worksheet Banking Totals so it consolidates every included bank account by month instead of repeating whichever account tab is selected. Account tabs remain independent while the all-account table and Offers worksheet breakdown stay truly combined.",
+  "publishedAt": "2026-08-31T16:57:00.0000000Z"
 }
