@@ -1,8 +1,8 @@
 {
-  "version": "1.9.66",
-  "latestVersion": "1.9.66",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.66/LendTech.Parent.Queue.1.9.66.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.66/LendTech.Parent.Queue.1.9.66.Installer.exe",
-  "notes": "Makes the Worksheet and Offers breakdown tables one step larger and easier to read, with proportionally resized table layouts and row spacing so every value remains fully visible.",
-  "publishedAt": "2026-08-31T18:46:38.7654955Z"
+  "version": "1.9.67",
+  "latestVersion": "1.9.67",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.67/LendTech.Parent.Queue.1.9.67.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.67/LendTech.Parent.Queue.1.9.67.Installer.exe",
+  "notes": "Adds API-backed Unprocessed Files to Bank Statements, correctly identifies processed statements that are Not Reconciled, links their MoneyThumb diagnostics, and fixes worksheet statement matching when account numbers are masked.",
+  "publishedAt": "2026-08-31T19:13:44.5004980Z"
 }
