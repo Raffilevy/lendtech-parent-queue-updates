@@ -1,8 +1,8 @@
 {
-  "version": "1.9.61",
-  "latestVersion": "1.9.61",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.61/LendTech.Parent.Queue.1.9.61.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.61/LendTech.Parent.Queue.1.9.61.Installer.exe",
-  "notes": "Keeps each deal workspace on its selected tab when the page is refreshed. Also initializes Banking Totals from every account immediately, so consolidated values appear without opening each account tab first.",
-  "publishedAt": "2026-08-31T17:14:00.0000000Z"
+  "version": "1.9.62",
+  "latestVersion": "1.9.62",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.62/LendTech.Parent.Queue.1.9.62.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.62/LendTech.Parent.Queue.1.9.62.Installer.exe",
+  "notes": "Removes the Bank Statements headline metrics and combined-view summary, compacts Worksheet tables, strengthens Total and Average row contrast, and adds persistent per-page workspace colors with an Apply to all option.",
+  "publishedAt": "2026-08-31T17:45:16.0975937Z"
 }
