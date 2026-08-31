@@ -1,8 +1,8 @@
 {
-  "version": "1.9.62",
-  "latestVersion": "1.9.62",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.62/LendTech.Parent.Queue.1.9.62.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.62/LendTech.Parent.Queue.1.9.62.Installer.exe",
-  "notes": "Removes the Bank Statements headline metrics and combined-view summary, compacts Worksheet tables, strengthens Total and Average row contrast, and adds persistent per-page workspace colors with an Apply to all option.",
-  "publishedAt": "2026-08-31T17:45:16.0975937Z"
+  "version": "1.9.63",
+  "latestVersion": "1.9.63",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.63/LendTech.Parent.Queue.1.9.63.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.63/LendTech.Parent.Queue.1.9.63.Installer.exe",
+  "notes": "Expands workspace page colors into an eight-part theme editor with Light Mode, Match App Theme, live preview, and Apply to all. Worksheet tables now show full values and month names without ellipses, remove both pay-percentage columns, dynamically fit long figures, and include more bottom scroll space.",
+  "publishedAt": "2026-08-31T18:07:43.2292372Z"
 }
