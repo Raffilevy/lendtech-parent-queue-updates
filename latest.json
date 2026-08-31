@@ -1,8 +1,8 @@
 {
-  "version": "1.9.67",
-  "latestVersion": "1.9.67",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.67/LendTech.Parent.Queue.1.9.67.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.67/LendTech.Parent.Queue.1.9.67.Installer.exe",
-  "notes": "Adds API-backed Unprocessed Files to Bank Statements, correctly identifies processed statements that are Not Reconciled, links their MoneyThumb diagnostics, and fixes worksheet statement matching when account numbers are masked.",
-  "publishedAt": "2026-08-31T19:13:44.5004980Z"
+  "version": "1.9.68",
+  "latestVersion": "1.9.68",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.68/LendTech.Parent.Queue.1.9.68.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.68/LendTech.Parent.Queue.1.9.68.Installer.exe",
+  "notes": "Moves Unprocessed Files to the top of Bank Statements and upgrades Credit to show complete Experian or CBC reports with one switchable tab per principal.",
+  "publishedAt": "2026-08-31T20:12:59.0162853Z"
 }
