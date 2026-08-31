@@ -1,8 +1,8 @@
 {
-  "version": "1.9.55",
-  "latestVersion": "1.9.55",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.55/LendTech.Parent.Queue.1.9.55.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.55/LendTech.Parent.Queue.1.9.55.Installer.exe",
-  "notes": "Automatically detects exact duplicate bank statements by comparing their complete MoneyThumb summary and every transaction while ignoring LendTech-generated record IDs. Workspace hides duplicates by default, provides reversible Show Hidden and manual Hide controls, and separates statements into persistent account groups that can be renamed or rearranged.",
-  "publishedAt": "2026-08-31T15:22:00.0000000Z"
+  "version": "1.9.56",
+  "latestVersion": "1.9.56",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.56/LendTech.Parent.Queue.1.9.56.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.56/LendTech.Parent.Queue.1.9.56.Installer.exe",
+  "notes": "Replaces duplicate hiding with verified MoneyThumb statement deletion while preserving the uploaded PDF in Documents. Exact duplicates are removed automatically through LendTech's own bank-statement delete route, every row has a confirmed manual Delete action, Processor is replaced by the full MoneyThumb transaction count, and account grouping remains available.",
+  "publishedAt": "2026-08-31T15:45:00.0000000Z"
 }
