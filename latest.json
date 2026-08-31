@@ -1,8 +1,8 @@
 {
-  "version": "1.9.54",
-  "latestVersion": "1.9.54",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.54/LendTech.Parent.Queue.1.9.54.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.54/LendTech.Parent.Queue.1.9.54.Installer.exe",
-  "notes": "Fixes internal file opening and Workspace Bank Statements links by dispatching tab creation through the visible app window instead of the hidden browser controller. Downloaded files, MoneyThumb breakdowns, consolidated views, middle-click tabs, and download restoration now share the handle-safe UI path.",
-  "publishedAt": "2026-08-31T14:52:47.0416469Z"
+  "version": "1.9.55",
+  "latestVersion": "1.9.55",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.55/LendTech.Parent.Queue.1.9.55.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.55/LendTech.Parent.Queue.1.9.55.Installer.exe",
+  "notes": "Automatically detects exact duplicate bank statements by comparing their complete MoneyThumb summary and every transaction while ignoring LendTech-generated record IDs. Workspace hides duplicates by default, provides reversible Show Hidden and manual Hide controls, and separates statements into persistent account groups that can be renamed or rearranged.",
+  "publishedAt": "2026-08-31T15:22:00.0000000Z"
 }
