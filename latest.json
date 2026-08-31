@@ -1,8 +1,8 @@
 {
-  "version": "1.9.52",
-  "latestVersion": "1.9.52",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.52/LendTech.Parent.Queue.1.9.52.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.52/LendTech.Parent.Queue.1.9.52.Installer.exe",
-  "notes": "Opens downloaded files in a new internal browser tab instead of Microsoft Edge. PDF and image content is detected by file contents even when LendTech supplies a misleading extension; text files receive an internal preview and unsupported formats stay inside the app with clear guidance.",
-  "publishedAt": "2026-08-31T16:00:00.0000000Z"
+  "version": "1.9.53",
+  "latestVersion": "1.9.53",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.53/LendTech.Parent.Queue.1.9.53.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.53/LendTech.Parent.Queue.1.9.53.Installer.exe",
+  "notes": "Turns each Deal also found in UFS or TruPath flag into a clickable connected-deals menu. The menu lists every matching deal with its submission date and opens each link in the correct experience: standard LendTech from Deal Submissions or the Underwriting Workspace from Workspace.",
+  "publishedAt": "2026-08-31T14:28:46.9088878Z"
 }
