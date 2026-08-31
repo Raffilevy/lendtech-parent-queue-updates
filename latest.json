@@ -1,8 +1,8 @@
 {
-  "version": "1.9.53",
-  "latestVersion": "1.9.53",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.53/LendTech.Parent.Queue.1.9.53.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.53/LendTech.Parent.Queue.1.9.53.Installer.exe",
-  "notes": "Turns each Deal also found in UFS or TruPath flag into a clickable connected-deals menu. The menu lists every matching deal with its submission date and opens each link in the correct experience: standard LendTech from Deal Submissions or the Underwriting Workspace from Workspace.",
-  "publishedAt": "2026-08-31T14:28:46.9088878Z"
+  "version": "1.9.54",
+  "latestVersion": "1.9.54",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.54/LendTech.Parent.Queue.1.9.54.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.54/LendTech.Parent.Queue.1.9.54.Installer.exe",
+  "notes": "Fixes internal file opening and Workspace Bank Statements links by dispatching tab creation through the visible app window instead of the hidden browser controller. Downloaded files, MoneyThumb breakdowns, consolidated views, middle-click tabs, and download restoration now share the handle-safe UI path.",
+  "publishedAt": "2026-08-31T14:52:47.0416469Z"
 }
