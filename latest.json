@@ -1,8 +1,8 @@
 {
-  "version": "1.9.72",
-  "latestVersion": "1.9.72",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.72/LendTech.Parent.Queue.1.9.72.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.72/LendTech.Parent.Queue.1.9.72.Installer.exe",
-  "notes": "Translates Experian account-condition and payment-status codes into readable meanings, and makes Workspace bank-statement uploads queue directly into LendTech MoneyThumb with progress and automatic result refreshes.",
-  "publishedAt": "2026-09-01T14:32:21.8119132Z"
+  "version": "1.9.73",
+  "latestVersion": "1.9.73",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.73/LendTech.Parent.Queue.1.9.73.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.73/LendTech.Parent.Queue.1.9.73.Installer.exe",
+  "notes": "Adds a native Workspace decline flow that saves LendTech decline reasons and can send the decline email to the deal rep. Credit scores are normalized, enlarged, and color-banded by risk.",
+  "publishedAt": "2026-09-01T15:03:01.3830825Z"
 }
