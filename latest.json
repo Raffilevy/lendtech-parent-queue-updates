@@ -1,8 +1,8 @@
 {
-  "version": "1.9.75",
-  "latestVersion": "1.9.75",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.75/LendTech.Parent.Queue.1.9.75.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.75/LendTech.Parent.Queue.1.9.75.Installer.exe",
-  "notes": "Formats Workspace-authored approval and decline email messages as bold, readable 16px text while preserving line breaks safely. Decline uses the shared formatter now; approval is prepared to use the same formatter when its endpoint is added.",
-  "publishedAt": "2026-09-01T15:31:54.4183300Z"
+  "version": "1.9.76",
+  "latestVersion": "1.9.76",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.76/LendTech.Parent.Queue.1.9.76.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.76/LendTech.Parent.Queue.1.9.76.Installer.exe",
+  "notes": "Prefetches Workspace deal data for the current UFS and TruPath queues with bounded concurrency, serves cached deals immediately, refreshes stale entries, invalidates edited deals, and removes cached entries only after a successful queue refresh confirms the deal is gone. Document bodies remain lazy and are never retained by the queue cache.",
+  "publishedAt": "2026-09-01T15:47:16.9399990Z"
 }
