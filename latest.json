@@ -1,8 +1,8 @@
 {
-  "version": "1.9.71",
-  "latestVersion": "1.9.71",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.71/LendTech.Parent.Queue.1.9.71.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.71/LendTech.Parent.Queue.1.9.71.Installer.exe",
-  "notes": "Removes four unused tradeline fields, adds Experian-style payment-history hover descriptions, and clarifies the current MoneyThumb bank-statement upload handoff.",
-  "publishedAt": "2026-09-01T13:51:24.4151028Z"
+  "version": "1.9.72",
+  "latestVersion": "1.9.72",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.72/LendTech.Parent.Queue.1.9.72.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.72/LendTech.Parent.Queue.1.9.72.Installer.exe",
+  "notes": "Translates Experian account-condition and payment-status codes into readable meanings, and makes Workspace bank-statement uploads queue directly into LendTech MoneyThumb with progress and automatic result refreshes.",
+  "publishedAt": "2026-09-01T14:32:21.8119132Z"
 }
