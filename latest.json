@@ -1,8 +1,8 @@
 {
-  "version": "1.9.81",
-  "latestVersion": "1.9.81",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.81/LendTech.Parent.Queue.1.9.81.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.81/LendTech.Parent.Queue.1.9.81.Installer.exe",
-  "notes": "Repairs Google Sheets in the embedded browser without removing saved sign-ins or user data. Each account clears only disposable WebView cache, Cache Storage, and service workers once; Google Docs/Sheets are excluded from custom page injections, and JavaScript failures are added to the five-minute browser trace.",
-  "publishedAt": "2026-09-01T18:22:00.0000000Z"
+  "version": "1.9.82",
+  "latestVersion": "1.9.82",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.82/LendTech.Parent.Queue.1.9.82.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.82/LendTech.Parent.Queue.1.9.82.Installer.exe",
+  "notes": "Workspace can now open any exact UFS or TruPath deal ID even when it is not in the queue; name lookup continues to search all deals. Google Sheets is isolated from the app's host bridge and receives a one-time Docs/Drive-only editor-state repair while cookies, passwords, autofill, history, and non-Google site data remain preserved.",
+  "publishedAt": "2026-09-01T18:44:36.8545821Z"
 }
