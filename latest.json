@@ -1,8 +1,8 @@
 {
-  "version": "1.9.74",
-  "latestVersion": "1.9.74",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.74/LendTech.Parent.Queue.1.9.74.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.74/LendTech.Parent.Queue.1.9.74.Installer.exe",
-  "notes": "Shows LendTech's actual decline-reason names, adds authenticated credit-pull history with user and exact time to External Searches, and removes OFAC from Workspace credit reports.",
-  "publishedAt": "2026-09-01T15:24:49.9421300Z"
+  "version": "1.9.75",
+  "latestVersion": "1.9.75",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.75/LendTech.Parent.Queue.1.9.75.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.75/LendTech.Parent.Queue.1.9.75.Installer.exe",
+  "notes": "Formats Workspace-authored approval and decline email messages as bold, readable 16px text while preserving line breaks safely. Decline uses the shared formatter now; approval is prepared to use the same formatter when its endpoint is added.",
+  "publishedAt": "2026-09-01T15:31:54.4183300Z"
 }
