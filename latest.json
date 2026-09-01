@@ -1,8 +1,8 @@
 {
-  "version": "1.9.79",
-  "latestVersion": "1.9.79",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.79/LendTech.Parent.Queue.1.9.79.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.79/LendTech.Parent.Queue.1.9.79.Installer.exe",
-  "notes": "Adds smooth two-axis resizing to Workspace cards using a bottom-right native resize grip. Card width and height preferences are saved by Workspace section and persist across deals and app restarts.",
-  "publishedAt": "2026-09-01T17:10:49.9054443Z"
+  "version": "1.9.80",
+  "latestVersion": "1.9.80",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.80/LendTech.Parent.Queue.1.9.80.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.80/LendTech.Parent.Queue.1.9.80.Installer.exe",
+  "notes": "Workspace card resizing now saves width only. Card height always fits all available rows automatically, so longer deals expand vertically without internal vertical scrolling; previously saved heights are ignored and cleared.",
+  "publishedAt": "2026-09-01T17:50:12.8691213Z"
 }
