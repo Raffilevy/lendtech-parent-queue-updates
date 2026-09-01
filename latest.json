@@ -1,8 +1,8 @@
 {
-  "version": "1.9.84",
-  "latestVersion": "1.9.84",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.84/LendTech.Parent.Queue.1.9.84.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.84/LendTech.Parent.Queue.1.9.84.Installer.exe",
-  "notes": "Workspace Offers now follows LendTech's real workflow. Create Offer calculates, saves, and verifies the offer directly in LendTech; Email Offers loads the assigned rep, includes all active offers, and supports an optional bold email message. The old Offer Impact section was removed.",
-  "publishedAt": "2026-09-01T20:30:12.6072861Z"
+  "version": "1.9.85",
+  "latestVersion": "1.9.85",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.85/LendTech.Parent.Queue.1.9.85.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.85/LendTech.Parent.Queue.1.9.85.Installer.exe",
+  "notes": "The Workspace Worksheet Edit button now edits banking values inline and saves them to LendTech. Save preserves the worksheet's bank and source mapping, supports Include Month, verifies every changed row after LendTech reloads it, and keeps Transfers Out read-only because LendTech does not store that field in its worksheet editor.",
+  "publishedAt": "2026-09-01T21:19:24.9856592Z"
 }
