@@ -1,8 +1,8 @@
 {
-  "version": "1.9.83",
-  "latestVersion": "1.9.83",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.83/LendTech.Parent.Queue.1.9.83.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.83/LendTech.Parent.Queue.1.9.83.Installer.exe",
-  "notes": "Workspace top tabs now use live LendTech data. Summary shows funded payment performance and activity only for funded deals; Syndication includes current partners and change history; Renewals separates funded, non-funded, declined, and past-offer records; Notes/History loads a deeper history; and Account Monitoring shows live AM status, pending ACH, returns, defaults, and history with an accurate non-funded empty state.",
-  "publishedAt": "2026-09-01T19:40:39.1515605Z"
+  "version": "1.9.84",
+  "latestVersion": "1.9.84",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.84/LendTech.Parent.Queue.1.9.84.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.84/LendTech.Parent.Queue.1.9.84.Installer.exe",
+  "notes": "Workspace Offers now follows LendTech's real workflow. Create Offer calculates, saves, and verifies the offer directly in LendTech; Email Offers loads the assigned rep, includes all active offers, and supports an optional bold email message. The old Offer Impact section was removed.",
+  "publishedAt": "2026-09-01T20:30:12.6072861Z"
 }
