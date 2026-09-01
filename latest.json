@@ -1,8 +1,8 @@
 {
-  "version": "1.9.70",
-  "latestVersion": "1.9.70",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.70/LendTech.Parent.Queue.1.9.70.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.70/LendTech.Parent.Queue.1.9.70.Installer.exe",
-  "notes": "Simplifies the workspace credit report, translates and deduplicates Experian risk factors, highlights key profile metrics and missed payments, and removes parenthetical balance percentages from worksheet totals.",
-  "publishedAt": "2026-08-31T21:42:23.8795410Z"
+  "version": "1.9.71",
+  "latestVersion": "1.9.71",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.71/LendTech.Parent.Queue.1.9.71.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.71/LendTech.Parent.Queue.1.9.71.Installer.exe",
+  "notes": "Removes four unused tradeline fields, adds Experian-style payment-history hover descriptions, and clarifies the current MoneyThumb bank-statement upload handoff.",
+  "publishedAt": "2026-09-01T13:51:24.4151028Z"
 }
