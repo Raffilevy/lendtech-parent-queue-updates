@@ -1,8 +1,8 @@
 {
-  "version": "1.9.85",
-  "latestVersion": "1.9.85",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.85/LendTech.Parent.Queue.1.9.85.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.85/LendTech.Parent.Queue.1.9.85.Installer.exe",
-  "notes": "The Workspace Worksheet Edit button now edits banking values inline and saves them to LendTech. Save preserves the worksheet's bank and source mapping, supports Include Month, verifies every changed row after LendTech reloads it, and keeps Transfers Out read-only because LendTech does not store that field in its worksheet editor.",
-  "publishedAt": "2026-09-01T21:19:24.9856592Z"
+  "version": "1.9.86",
+  "latestVersion": "1.9.86",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.86/LendTech.Parent.Queue.1.9.86.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.86/LendTech.Parent.Queue.1.9.86.Installer.exe",
+  "notes": "Decline reasons can now be filtered by typing any phrase. The Offers workspace places the worksheet first, then active offers, then an inline message and rep email form. Each active offer has a red delete action that confirms first, deletes the real LendTech offer, and verifies its removal before updating the row.",
+  "publishedAt": "2026-09-02T14:00:30.7144941Z"
 }
