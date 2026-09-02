@@ -1,8 +1,8 @@
 {
-  "version": "1.9.90",
-  "latestVersion": "1.9.90",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.90/LendTech.Parent.Queue.1.9.90.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.90/LendTech.Parent.Queue.1.9.90.Installer.exe",
-  "notes": "Moves Create Offer beneath the worksheet breakdown, adds each active offer's added withhold and position, and pulls UFS Experian credit directly inside Workspace without redirecting to LendTech.",
-  "publishedAt": "2026-09-02T15:59:00.0384836Z"
+  "version": "1.9.91",
+  "latestVersion": "1.9.91",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.91/LendTech.Parent.Queue.1.9.91.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.91/LendTech.Parent.Queue.1.9.91.Installer.exe",
+  "notes": "Persists single and bulk Workspace bank-statement account-group moves to LendTech, verifies each change, and groups Documents by category with a cleaner Document/Uploaded/Actions table.",
+  "publishedAt": "2026-09-02T16:17:38.1592919Z"
 }
