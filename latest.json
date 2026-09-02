@@ -1,8 +1,8 @@
 {
-  "version": "1.9.94",
-  "latestVersion": "1.9.94",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.94/LendTech.Parent.Queue.1.9.94.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.94/LendTech.Parent.Queue.1.9.94.Installer.exe",
-  "notes": "Formats Create Offer amounts with commas while typing and removes Offer Type, enforcing ACH throughout the Workspace offer flow.",
-  "publishedAt": "2026-09-02T17:15:44.8577715Z"
+  "version": "1.9.95",
+  "latestVersion": "1.9.95",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.95/LendTech.Parent.Queue.1.9.95.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.95/LendTech.Parent.Queue.1.9.95.Installer.exe",
+  "notes": "Refreshes the current status after offer and decline actions, opens Create Offer for immediate typing, and prevents delayed workspace lookups from stealing focus.",
+  "publishedAt": "2026-09-02T19:57:55.8014660Z"
 }
