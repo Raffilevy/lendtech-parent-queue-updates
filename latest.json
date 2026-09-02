@@ -1,8 +1,8 @@
 {
-  "version": "1.9.93",
-  "latestVersion": "1.9.93",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.93/LendTech.Parent.Queue.1.9.93.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.93/LendTech.Parent.Queue.1.9.93.Installer.exe",
-  "notes": "Allows manually typed same-company offer and decline recipients, saves custom reps per account, and suggests an omitted assigned rep such as Sam or Marcus using the proper company domain.",
-  "publishedAt": "2026-09-02T16:59:36.4384011Z"
+  "version": "1.9.94",
+  "latestVersion": "1.9.94",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.94/LendTech.Parent.Queue.1.9.94.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.94/LendTech.Parent.Queue.1.9.94.Installer.exe",
+  "notes": "Formats Create Offer amounts with commas while typing and removes Offer Type, enforcing ACH throughout the Workspace offer flow.",
+  "publishedAt": "2026-09-02T17:15:44.8577715Z"
 }
