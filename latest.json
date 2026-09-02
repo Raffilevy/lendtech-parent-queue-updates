@@ -1,8 +1,8 @@
 {
-  "version": "1.9.86",
-  "latestVersion": "1.9.86",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.86/LendTech.Parent.Queue.1.9.86.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.86/LendTech.Parent.Queue.1.9.86.Installer.exe",
-  "notes": "Decline reasons can now be filtered by typing any phrase. The Offers workspace places the worksheet first, then active offers, then an inline message and rep email form. Each active offer has a red delete action that confirms first, deletes the real LendTech offer, and verifies its removal before updating the row.",
-  "publishedAt": "2026-09-02T14:00:30.7144941Z"
+  "version": "1.9.87",
+  "latestVersion": "1.9.87",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.87/LendTech.Parent.Queue.1.9.87.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.87/LendTech.Parent.Queue.1.9.87.Installer.exe",
+  "notes": "Renewals now shows the linked-deal count directly in the top tab. TruPath CBC reports use the same clean, full-width credit presentation as UFS. Pull Credit and Repull Credit now request every TruPath principal directly inside Workspace, wait for the completed reports, and no longer redirect to LendTech.",
+  "publishedAt": "2026-09-02T14:30:47.0237248Z"
 }
