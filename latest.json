@@ -1,8 +1,8 @@
 {
-  "version": "1.9.89",
-  "latestVersion": "1.9.89",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.89/LendTech.Parent.Queue.1.9.89.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.89/LendTech.Parent.Queue.1.9.89.Installer.exe",
-  "notes": "Normalizes TruPath CBC reports into the same readable credit-report layout used for UFS. CBC scores, reason text, profile summaries, principals, addresses, employment, tradelines, dated payment histories, collections, public records, inquiries, and warnings now use the shared format, including score colors, delinquency highlights, and payment-code tooltips.",
-  "publishedAt": "2026-09-02T15:23:27.5023321Z"
+  "version": "1.9.90",
+  "latestVersion": "1.9.90",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.90/LendTech.Parent.Queue.1.9.90.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.90/LendTech.Parent.Queue.1.9.90.Installer.exe",
+  "notes": "Moves Create Offer beneath the worksheet breakdown, adds each active offer's added withhold and position, and pulls UFS Experian credit directly inside Workspace without redirecting to LendTech.",
+  "publishedAt": "2026-09-02T15:59:00.0384836Z"
 }
