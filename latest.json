@@ -1,8 +1,8 @@
 {
-  "version": "1.9.92",
-  "latestVersion": "1.9.92",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.92/LendTech.Parent.Queue.1.9.92.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.92/LendTech.Parent.Queue.1.9.92.Installer.exe",
-  "notes": "Restricts Workspace decline and offer emails to same-account company reps, adds a checked multi-select decline-reason picker, and closes queue search results after a deal is selected.",
-  "publishedAt": "2026-09-02T16:42:00.6837238Z"
+  "version": "1.9.93",
+  "latestVersion": "1.9.93",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.93/LendTech.Parent.Queue.1.9.93.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.93/LendTech.Parent.Queue.1.9.93.Installer.exe",
+  "notes": "Allows manually typed same-company offer and decline recipients, saves custom reps per account, and suggests an omitted assigned rep such as Sam or Marcus using the proper company domain.",
+  "publishedAt": "2026-09-02T16:59:36.4384011Z"
 }
