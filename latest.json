@@ -1,8 +1,8 @@
 {
-  "version": "1.9.88",
-  "latestVersion": "1.9.88",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.88/LendTech.Parent.Queue.1.9.88.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.88/LendTech.Parent.Queue.1.9.88.Installer.exe",
-  "notes": "Corrects direct TruPath credit pulling to use TruPath's External Searches CBC workflow for every principal. The app now distinguishes a real expired session from a LendTech server error instead of incorrectly asking an already signed-in user to sign in again.",
-  "publishedAt": "2026-09-02T14:51:38.2351534Z"
+  "version": "1.9.89",
+  "latestVersion": "1.9.89",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.89/LendTech.Parent.Queue.1.9.89.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.89/LendTech.Parent.Queue.1.9.89.Installer.exe",
+  "notes": "Normalizes TruPath CBC reports into the same readable credit-report layout used for UFS. CBC scores, reason text, profile summaries, principals, addresses, employment, tradelines, dated payment histories, collections, public records, inquiries, and warnings now use the shared format, including score colors, delinquency highlights, and payment-code tooltips.",
+  "publishedAt": "2026-09-02T15:23:27.5023321Z"
 }
