@@ -1,8 +1,8 @@
 {
-  "version": "1.9.87",
-  "latestVersion": "1.9.87",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.87/LendTech.Parent.Queue.1.9.87.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.87/LendTech.Parent.Queue.1.9.87.Installer.exe",
-  "notes": "Renewals now shows the linked-deal count directly in the top tab. TruPath CBC reports use the same clean, full-width credit presentation as UFS. Pull Credit and Repull Credit now request every TruPath principal directly inside Workspace, wait for the completed reports, and no longer redirect to LendTech.",
-  "publishedAt": "2026-09-02T14:30:47.0237248Z"
+  "version": "1.9.88",
+  "latestVersion": "1.9.88",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.88/LendTech.Parent.Queue.1.9.88.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.88/LendTech.Parent.Queue.1.9.88.Installer.exe",
+  "notes": "Corrects direct TruPath credit pulling to use TruPath's External Searches CBC workflow for every principal. The app now distinguishes a real expired session from a LendTech server error instead of incorrectly asking an already signed-in user to sign in again.",
+  "publishedAt": "2026-09-02T14:51:38.2351534Z"
 }
