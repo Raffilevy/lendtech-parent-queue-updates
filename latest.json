@@ -1,8 +1,8 @@
 {
-  "version": "1.9.96",
-  "latestVersion": "1.9.96",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.96/LendTech.Parent.Queue.1.9.96.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.96/LendTech.Parent.Queue.1.9.96.Installer.exe",
-  "notes": "Fixes Workspace bank-statement uploads by verifying the live LendTech session, using backend-scoped browser cookies, and displaying the real upload error instead of a false session-expired message.",
-  "publishedAt": "2026-09-03T15:35:17.2933711Z"
+  "version": "1.9.97",
+  "latestVersion": "1.9.97",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.97/LendTech.Parent.Queue.1.9.97.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.97/LendTech.Parent.Queue.1.9.97.Installer.exe",
+  "notes": "Compacts UFS and TruPath credit-report tables and adds linked-deal offer details to Renewals, including a clear no-offer fallback.",
+  "publishedAt": "2026-09-03T16:18:21.7373073Z"
 }
