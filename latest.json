@@ -1,8 +1,8 @@
 {
-  "version": "1.9.102",
-  "latestVersion": "1.9.102",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.102/LendTech.Parent.Queue.1.9.102.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.102/LendTech.Parent.Queue.1.9.102.Installer.exe",
-  "notes": "Repairs embedded UFS and TruPath sign-in by discarding expired cookie backups and clearing a rejected account session before login while preserving Google identity, saved credentials, and app data.",
-  "publishedAt": "2026-09-03T21:12:40.2546192Z"
+  "version": "1.9.103",
+  "latestVersion": "1.9.103",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.103/LendTech.Parent.Queue.1.9.103.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.103/LendTech.Parent.Queue.1.9.103.Installer.exe",
+  "notes": "Fixes the blank embedded LendTech sign-in window, falls back to a fresh in-app login tab when needed, and prevents expired Google OAuth or LendTech login pages from being restored as browser tabs.",
+  "publishedAt": "2026-09-03T21:24:26.2607974Z"
 }
