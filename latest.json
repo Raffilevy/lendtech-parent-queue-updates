@@ -1,8 +1,8 @@
 {
-  "version": "1.9.95",
-  "latestVersion": "1.9.95",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.95/LendTech.Parent.Queue.1.9.95.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.95/LendTech.Parent.Queue.1.9.95.Installer.exe",
-  "notes": "Refreshes the current status after offer and decline actions, opens Create Offer for immediate typing, and prevents delayed workspace lookups from stealing focus.",
-  "publishedAt": "2026-09-02T19:57:55.8014660Z"
+  "version": "1.9.96",
+  "latestVersion": "1.9.96",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.96/LendTech.Parent.Queue.1.9.96.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.96/LendTech.Parent.Queue.1.9.96.Installer.exe",
+  "notes": "Fixes Workspace bank-statement uploads by verifying the live LendTech session, using backend-scoped browser cookies, and displaying the real upload error instead of a false session-expired message.",
+  "publishedAt": "2026-09-03T15:35:17.2933711Z"
 }
