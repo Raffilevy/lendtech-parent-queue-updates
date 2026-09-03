@@ -1,8 +1,8 @@
 {
-  "version": "1.9.97",
-  "latestVersion": "1.9.97",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.97/LendTech.Parent.Queue.1.9.97.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.97/LendTech.Parent.Queue.1.9.97.Installer.exe",
-  "notes": "Compacts UFS and TruPath credit-report tables and adds linked-deal offer details to Renewals, including a clear no-offer fallback.",
-  "publishedAt": "2026-09-03T16:18:21.7373073Z"
+  "version": "1.9.98",
+  "latestVersion": "1.9.98",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.98/LendTech.Parent.Queue.1.9.98.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.98/LendTech.Parent.Queue.1.9.98.Installer.exe",
+  "notes": "Centers the compact UFS and TruPath credit reports within the Workspace credit panel.",
+  "publishedAt": "2026-09-03T16:36:30.8871940Z"
 }
