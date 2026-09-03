@@ -1,8 +1,8 @@
 {
-  "version": "1.9.100",
-  "latestVersion": "1.9.100",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.100/LendTech.Parent.Queue.1.9.100.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.100/LendTech.Parent.Queue.1.9.100.Installer.exe",
-  "notes": "Sends Bank Connect links directly from Workspace through the UFS or TruPath partner API, refreshes the inline status, and no longer redirects to LendTech.",
-  "publishedAt": "2026-09-03T18:55:48.6904034Z"
+  "version": "1.9.101",
+  "latestVersion": "1.9.101",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.101/LendTech.Parent.Queue.1.9.101.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.101/LendTech.Parent.Queue.1.9.101.Installer.exe",
+  "notes": "Adds a Worksheet refresh button that reloads current LendTech banking classifications, clears stale deal data, and updates Worksheet totals and the Offers breakdown in place.",
+  "publishedAt": "2026-09-03T19:02:54.8889920Z"
 }
