@@ -1,8 +1,8 @@
 {
-  "version": "1.9.99",
-  "latestVersion": "1.9.99",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.99/LendTech.Parent.Queue.1.9.99.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.99/LendTech.Parent.Queue.1.9.99.Installer.exe",
-  "notes": "Limits Workspace offer and decline rep-email lists to Sam, Marcus, Irving, Max, Maxantar, Barry, and David Jonas while preserving manual company-email entry.",
-  "publishedAt": "2026-09-03T18:06:08.1477501Z"
+  "version": "1.9.100",
+  "latestVersion": "1.9.100",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.100/LendTech.Parent.Queue.1.9.100.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.100/LendTech.Parent.Queue.1.9.100.Installer.exe",
+  "notes": "Sends Bank Connect links directly from Workspace through the UFS or TruPath partner API, refreshes the inline status, and no longer redirects to LendTech.",
+  "publishedAt": "2026-09-03T18:55:48.6904034Z"
 }
