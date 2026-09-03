@@ -1,8 +1,8 @@
 {
-  "version": "1.9.101",
-  "latestVersion": "1.9.101",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.101/LendTech.Parent.Queue.1.9.101.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.101/LendTech.Parent.Queue.1.9.101.Installer.exe",
-  "notes": "Adds a Worksheet refresh button that reloads current LendTech banking classifications, clears stale deal data, and updates Worksheet totals and the Offers breakdown in place.",
-  "publishedAt": "2026-09-03T19:02:54.8889920Z"
+  "version": "1.9.102",
+  "latestVersion": "1.9.102",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.102/LendTech.Parent.Queue.1.9.102.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.102/LendTech.Parent.Queue.1.9.102.Installer.exe",
+  "notes": "Repairs embedded UFS and TruPath sign-in by discarding expired cookie backups and clearing a rejected account session before login while preserving Google identity, saved credentials, and app data.",
+  "publishedAt": "2026-09-03T21:12:40.2546192Z"
 }
