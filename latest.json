@@ -1,8 +1,8 @@
 {
-  "version": "1.9.104",
-  "latestVersion": "1.9.104",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.104/LendTech.Parent.Queue.1.9.104.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.104/LendTech.Parent.Queue.1.9.104.Installer.exe",
-  "notes": "Fixes Google Docs and Sheets editing in the in-app browser by using a clean, persistent Google Workspace profile while preserving the user's existing Google sign-in.",
-  "publishedAt": "2026-09-10T16:36:17.3242061Z"
+  "version": "1.9.105",
+  "latestVersion": "1.9.105",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.105/LendTech.Parent.Queue.1.9.105.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.105/LendTech.Parent.Queue.1.9.105.Installer.exe",
+  "notes": "Fixes Google Docs and Sheets editing by keeping Google Workspace tabs completely outside the LendTech response/download interceptor.",
+  "publishedAt": "2026-09-10T17:47:01.7070241Z"
 }
