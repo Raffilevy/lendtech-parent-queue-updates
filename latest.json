@@ -1,8 +1,8 @@
 {
-  "version": "1.9.106",
-  "latestVersion": "1.9.106",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.106/LendTech.Parent.Queue.1.9.106.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.106/LendTech.Parent.Queue.1.9.106.Installer.exe",
-  "notes": "Adds saved Google Chat conversations, faster incremental refresh, and private GitHub profile chat sync with readable user profile names.",
-  "publishedAt": "2026-09-15T13:39:43Z"
+  "version": "1.9.110",
+  "latestVersion": "1.9.110",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.110/LendTech.Parent.Queue.1.9.110.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.110/LendTech.Parent.Queue.1.9.110.Installer.exe",
+  "notes": "Uses one full-size Google sign-in window and reports authorization results instead of lingering on loading. Includes saved chats and read-only admin QA from the pilot builds.",
+  "publishedAt": "2026-09-15T17:09:29Z"
 }
