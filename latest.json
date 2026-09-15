@@ -1,8 +1,8 @@
 {
-  "version": "1.9.110",
-  "latestVersion": "1.9.110",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.110/LendTech.Parent.Queue.1.9.110.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.110/LendTech.Parent.Queue.1.9.110.Installer.exe",
-  "notes": "Uses one full-size Google sign-in window and reports authorization results instead of lingering on loading. Includes saved chats and read-only admin QA from the pilot builds.",
-  "publishedAt": "2026-09-15T17:09:29Z"
+  "version": "1.9.111",
+  "latestVersion": "1.9.111",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.111/LendTech.Parent.Queue.1.9.111.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.111/LendTech.Parent.Queue.1.9.111.Installer.exe",
+  "notes": "Chat notifications show live elapsed time from the actual message timestamp. The queue Chat button switches to the account screen without opening in-app chat history. Existing local settings are preserved by the installer.",
+  "publishedAt": "2026-09-15T19:03:38.9909673Z"
 }
