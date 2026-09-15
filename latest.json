@@ -1,8 +1,8 @@
 {
-  "version": "1.9.105",
-  "latestVersion": "1.9.105",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.105/LendTech.Parent.Queue.1.9.105.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.105/LendTech.Parent.Queue.1.9.105.Installer.exe",
-  "notes": "Fixes Google Docs and Sheets editing by keeping Google Workspace tabs completely outside the LendTech response/download interceptor.",
-  "publishedAt": "2026-09-10T17:47:01.7070241Z"
+  "version": "1.9.106",
+  "latestVersion": "1.9.106",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.106/LendTech.Parent.Queue.1.9.106.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.106/LendTech.Parent.Queue.1.9.106.Installer.exe",
+  "notes": "Adds saved Google Chat conversations, faster incremental refresh, and private GitHub profile chat sync with readable user profile names.",
+  "publishedAt": "2026-09-15T13:39:43Z"
 }
