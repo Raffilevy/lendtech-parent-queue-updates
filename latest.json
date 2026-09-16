@@ -1,8 +1,8 @@
 {
   "version": "1.9.112",
   "latestVersion": "1.9.112",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/untagged-efc5e98b96ef23b5a80f/LendTech.Parent.Queue.1.9.112.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/untagged-efc5e98b96ef23b5a80f/LendTech.Parent.Queue.1.9.112.Installer.exe",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.112/LendTech.Parent.Queue.1.9.112.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.112/LendTech.Parent.Queue.1.9.112.Installer.exe",
   "notes": "Fix Google Chat queue chronology by sorting on the actual received timestamp, refreshing cached elapsed times, and keeping messages from the same conversation grouped together.",
-  "publishedAt": "2026-09-16T15:01:01.1570234Z"
+  "publishedAt": "2026-09-16T15:01:01Z"
 }
