@@ -1,9 +1,9 @@
 {
-    "version":  "1.9.114",
-    "latestVersion":  "1.9.114",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.114/LendTech.Parent.Queue.1.9.114.Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.114/LendTech.Parent.Queue.1.9.114.Installer.exe",
-    "notes":  "Fix missing renewal offer details by checking saved offers on linked UFS and TruPath deals, including unselected offers; preserve history and distinguish failed lookups from empty offers.",
-    "publishedAt":  "2026-09-17T15:26:25Z",
-    "sha256":  "31b5d19af68e9731160245295509ea1bed638bf965faf2af6eaa64d0c2aadde2"
+    "version":  "1.9.115",
+    "latestVersion":  "1.9.115",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.115/LendTech.Parent.Queue.1.9.115.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.115/LendTech.Parent.Queue.1.9.115.Installer.exe",
+    "notes":  "Delegated QA user dropdown, verified chat names, isolated read-only sessions, and admin visibility fix.",
+    "publishedAt":  "2026-09-17T20:21:12Z",
+    "sha256":  "6d776cea0a003baf5bc144206364c75d89e2ede21029be3cf3a406dfb5f0041d"
 }
