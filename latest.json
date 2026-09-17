@@ -1,8 +1,9 @@
 {
-  "version": "1.9.112",
-  "latestVersion": "1.9.112",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.112/LendTech.Parent.Queue.1.9.112.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.112/LendTech.Parent.Queue.1.9.112.Installer.exe",
-  "notes": "Fix Google Chat queue chronology by sorting on the actual received timestamp, refreshing cached elapsed times, and keeping messages from the same conversation grouped together.",
-  "publishedAt": "2026-09-16T15:01:01Z"
+    "version":  "1.9.113",
+    "latestVersion":  "1.9.113",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/untagged-a6bbc554a5bb5f95d231/LendTech.Parent.Queue.1.9.113.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/untagged-a6bbc554a5bb5f95d231/LendTech.Parent.Queue.1.9.113.Installer.exe",
+    "notes":  "Complete Workspace top-tab financial details, authoritative renewal and offer/decline history, in-app native management controls, and date/zero-value fixes for UFS and TruPath.",
+    "publishedAt":  "2026-09-17T14:45:17Z",
+    "sha256":  "3a49f559e9990b3c974052e69a8900cb0eefe12df1c714d42670ac39d846d56a"
 }
