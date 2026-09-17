@@ -1,9 +1,9 @@
 {
-  "version": "1.9.113",
-  "latestVersion": "1.9.113",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.113/LendTech.Parent.Queue.1.9.113.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.113/LendTech.Parent.Queue.1.9.113.Installer.exe",
-  "notes": "Complete Workspace top-tab financial details, authoritative renewal and offer/decline history, in-app native management controls, and date/zero-value fixes for UFS and TruPath.",
-  "publishedAt": "2026-09-17T14:45:17Z",
-  "sha256": "3a49f559e9990b3c974052e69a8900cb0eefe12df1c714d42670ac39d846d56a"
+    "version":  "1.9.114",
+    "latestVersion":  "1.9.114",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.114/LendTech.Parent.Queue.1.9.114.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.114/LendTech.Parent.Queue.1.9.114.Installer.exe",
+    "notes":  "Fix missing renewal offer details by checking saved offers on linked UFS and TruPath deals, including unselected offers; preserve history and distinguish failed lookups from empty offers.",
+    "publishedAt":  "2026-09-17T15:26:25Z",
+    "sha256":  "31b5d19af68e9731160245295509ea1bed638bf965faf2af6eaa64d0c2aadde2"
 }
