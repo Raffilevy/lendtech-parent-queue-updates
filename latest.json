@@ -1,9 +1,14 @@
 {
-    "version":  "1.9.115",
-    "latestVersion":  "1.9.115",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.115/LendTech.Parent.Queue.1.9.115.Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.115/LendTech.Parent.Queue.1.9.115.Installer.exe",
-    "notes":  "Delegated QA user dropdown, verified chat names, isolated read-only sessions, and admin visibility fix.",
-    "publishedAt":  "2026-09-17T20:21:12Z",
-    "sha256":  "6d776cea0a003baf5bc144206364c75d89e2ede21029be3cf3a406dfb5f0041d"
+    "schemaVersion":  1,
+    "version":  "1.9.116",
+    "latestVersion":  "1.9.116",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.116/LendTech.Parent.Queue.1.9.116.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.116/LendTech.Parent.Queue.1.9.116.Installer.exe",
+    "assetApiUrl":  "https://api.github.com/repos/Raffilevy/lendtech-parent-queue-updates/releases/assets/573321857",
+    "notes":  "Private-update transition: authenticated downloads, signed manifests, installer verification, and per-computer readiness checks.",
+    "publishedAt":  "2026-09-18T19:42:12Z",
+    "sha256":  "d275744e2e63d6323b061d42cc2a3a1c8f5eddc3b300b99bee9e4d7527d423f4",
+    "size":  4009984,
+    "signatureAlgorithm":  "RSA-SHA256",
+    "signature":  "B64eqdNovzKf7iSRAnJvPSmgHhfcRelvFQfdS/4uV7g/B4llZ9MpWb7zgccBJF4CXSq82/KKQbshgyAZSCuZZUcjOTnrzqVC1pmNMwRUDvkwJFmqcM62i9HS+6EOqIx5jeEbHhtTuB2RAL1A0E7J/RltmUiOSMRna2JCgdI0z1tWqFemhNVEf/ozVcWcPcq17A5FJ6llfPvTDjfVvz+BP19zqn/1kQys9tvY8I610b5XQppTKYPzEmwqnIrhaoMRoCrMsKcFOdpvHTodCFG0bcgsCnUIuhvqk0AuVWXXnx8Wdn+rvsklYqjiUb8xIZwOlCCAaEQQsaTQa8xExIaEbjZB3ZooOsPsHpefIiFyJJzJ+NrfpzkqLSZ2dEVJnXOrpidNluQbGEa08FTPHhNIVgiAfdV8sG32ulHdv8JTrIhj+MBRqiBdATuej6LXdprk9ZPAyAzXtpSLS0MyzZaYYRa3Egd8EArKLtKtAePWGZ5EDvhZPf2Tn6crTVxjX4T/"
 }
