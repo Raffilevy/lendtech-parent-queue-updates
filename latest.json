@@ -1,14 +1,14 @@
 {
     "schemaVersion":  1,
-    "version":  "1.9.121",
-    "latestVersion":  "1.9.121",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.121/LendTech.Parent.Queue.1.9.121.Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.121/LendTech.Parent.Queue.1.9.121.Installer.exe",
-    "assetApiUrl":  "https://api.github.com/repos/Raffilevy/lendtech-parent-queue-updates/releases/assets/581978104",
-    "notes":  "Cleaner Pricing Advisor, shared Claude reviews, Raffi-only learning, $5,000 recommendations and currency inputs; corrected balance and decline-risk signals.",
-    "publishedAt":  "2026-09-22T18:21:35Z",
-    "sha256":  "8a73c6435de41e5cb5213f608ae20347ea084309860258f71121560ac2b0c4f6",
-    "size":  4109312,
+    "version":  "1.9.122",
+    "latestVersion":  "1.9.122",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.122/LendTech.Parent.Queue.1.9.122.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.122/LendTech.Parent.Queue.1.9.122.Installer.exe",
+    "assetApiUrl":  "https://api.github.com/repos/Raffilevy/lendtech-parent-queue-updates/releases/assets/582309854",
+    "notes":  "Pricing evidence fixes: manually verified estimates for incomplete banking, date review, consolidated balances, stopped-position detection, deal-scoped pricing, CBC inquiry counts and Raffi-only decline capture.",
+    "publishedAt":  "2026-09-22T21:40:27Z",
+    "sha256":  "3bd26f99ac0b649286acfc5052d8311e255ca74332ce5033d633f32a5219bf9d",
+    "size":  4117504,
     "signatureAlgorithm":  "RSA-SHA256",
-    "signature":  "LnfLA9ZAilkDiJVfio9YNO5Jq9ySpt1F5HutjorMCoMCjYTrSBrR2dQZr5tfmSMj7oawMUvyJwXbB2t0N3JCxfOTIx0ESWiB5StDNO2Ue786dbrxgtKZL3BIsKxogXYmZmmsp1lgAyVxuyvGY+mmtqxY7wBjMfmuKhrWQiBULggIZGUHNiyRyUZ5+V3+Gwso5HeGjEZutV4vtfdjhnzBRoED9MP7XNPt9TNTYEV1mkC6mwljA1z5HfPDEGOmRG5VGT8aj2VTmrJZ6AdTKF+cURCFIieQuga0BwzdcMULgbuZNo3+zEqdC8R7S1RNuFaKdCl7VaFBdfsrfJtiSNAJEd/O2nvDVhCZVfQo6PGjcGoOS9JZeLZAXozKeSJOz+LfdQe/eOHSvoQzM5DpIFprZN3V2zftrms+A4dR6kFyuVt9Cls2XhDCsDANDk5SYTv5NxPpmXAQVXRxb76jRHpGpibXWpHELlJp2rlDQp+/Ariq225timFs+Lz+KdwLL9gN"
+    "signature":  "W0ez81FYY9E32sAjQU75KGPuiRFwwzHEajJGXcTTV/uAc+PzventRZ737ThRb7NVN/9+CoP1Q7dJDiiFH1GC2PszNKeat2cN5LIFz8s2TiLpj0A4wwj0k2Zdpp9o99VxJq3Snazx33d51yUInRtwMh087E3kxMIbs2Ysm3iW1GOqR2buqTdsawiCyGNsMmFaeUMtA8QAuW3NnIEAzB5SArHLQaUPLiAOmsT88aAcCRZal6cp6VAKjUR9KMbm4Dw9hJrmtsZ1Pss3iOA87fhkqQ+zJMo84UztrR4MjCAx3KFLR01SKVWo0zVqcW7sGjAfKPqUJ8L4unBLYfl1gdZhlQK7zBm3arXyHrjulqrpTbql5RpSYalHfKMeo8MDqlBFDWn/Y3vNTUxh4dZyn0INqI7mFdAVfJ4Ce/GdS66xxRNzp7EAkfFo8CCHv/qJnq+Km6wdKczGcDrMaLZlv87V9k89/BSb7nrbr+fT7fXCQ9Tr+4DEkYlneZf40YjPcbV8"
 }
