@@ -1,14 +1,14 @@
 {
     "schemaVersion":  1,
-    "version":  "1.9.120",
-    "latestVersion":  "1.9.120",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.120/LendTech.Parent.Queue.1.9.120.Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.120/LendTech.Parent.Queue.1.9.120.Installer.exe",
-    "assetApiUrl":  "https://api.github.com/repos/Raffilevy/lendtech-parent-queue-updates/releases/assets/581709867",
-    "notes":  "Factoring reviews and controls now apply only to trucking. Non-trucking deals skip payer-review calls and ignore stale factoring flags.",
-    "publishedAt":  "2026-09-22T15:44:12Z",
-    "sha256":  "13c464558e542056c7b9269034057d55e97310064dad0642f57d40446951bce4",
-    "size":  4100608,
+    "version":  "1.9.121",
+    "latestVersion":  "1.9.121",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.121/LendTech.Parent.Queue.1.9.121.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.121/LendTech.Parent.Queue.1.9.121.Installer.exe",
+    "assetApiUrl":  "https://api.github.com/repos/Raffilevy/lendtech-parent-queue-updates/releases/assets/581978104",
+    "notes":  "Cleaner Pricing Advisor, shared Claude reviews, Raffi-only learning, $5,000 recommendations and currency inputs; corrected balance and decline-risk signals.",
+    "publishedAt":  "2026-09-22T18:21:35Z",
+    "sha256":  "8a73c6435de41e5cb5213f608ae20347ea084309860258f71121560ac2b0c4f6",
+    "size":  4109312,
     "signatureAlgorithm":  "RSA-SHA256",
-    "signature":  "ObE5w/pSWzwu1U5fgBE7GumT8JV96gQ9JMlCIq7Pt9bzswi0IhZRrL4qtLHUZkkWpb4BmmgCKNgWt8ua87T1Db325ZHWl0MZ5ZbBSi6ptyGAz5FZTjtDVmNUBevsiE4wkmkXXZp899pXZ6ajQk9L0kfFDRCGOtyYntg3idzGgqkLN3hkJpemvo+yCK9rlTJu5LSH+7a/2GgxUuprq/+ZvtECamakawvhm7Zz9PUhiUljALyFTdV4YUS++cq2+wGgo7OOXgcsVLqXwz1R9nYtpD2/HcIuWprA3ZvZxOhMkgq06xE1quvy+Bwwtxdt90Hd4yQJBKKrf1MSyYnNpGYr2kHt24sIEwJzTIX0NE6YQcsjoXvQQTx3FspES97pRRSz+rnds6F8ONeXbIEASRDdDngVLkeEgoT4DZwYbLEKB5O5U+tUbiithbumY2m2hXh0PtZlIbaovuIsnG/q07FvqxkcKaZRh2xDCzuPKGYxnF7TlSu5ZgdT5sCGO1IqcJj+"
+    "signature":  "LnfLA9ZAilkDiJVfio9YNO5Jq9ySpt1F5HutjorMCoMCjYTrSBrR2dQZr5tfmSMj7oawMUvyJwXbB2t0N3JCxfOTIx0ESWiB5StDNO2Ue786dbrxgtKZL3BIsKxogXYmZmmsp1lgAyVxuyvGY+mmtqxY7wBjMfmuKhrWQiBULggIZGUHNiyRyUZ5+V3+Gwso5HeGjEZutV4vtfdjhnzBRoED9MP7XNPt9TNTYEV1mkC6mwljA1z5HfPDEGOmRG5VGT8aj2VTmrJZ6AdTKF+cURCFIieQuga0BwzdcMULgbuZNo3+zEqdC8R7S1RNuFaKdCl7VaFBdfsrfJtiSNAJEd/O2nvDVhCZVfQo6PGjcGoOS9JZeLZAXozKeSJOz+LfdQe/eOHSvoQzM5DpIFprZN3V2zftrms+A4dR6kFyuVt9Cls2XhDCsDANDk5SYTv5NxPpmXAQVXRxb76jRHpGpibXWpHELlJp2rlDQp+/Ariq225timFs+Lz+KdwLL9gN"
 }
