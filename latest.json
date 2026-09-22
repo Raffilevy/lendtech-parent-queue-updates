@@ -1,14 +1,14 @@
 {
     "schemaVersion":  1,
-    "version":  "1.9.117",
-    "latestVersion":  "1.9.117",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.117/LendTech.Parent.Queue.1.9.117.Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.117/LendTech.Parent.Queue.1.9.117.Installer.exe",
-    "assetApiUrl":  "https://api.github.com/repos/Raffilevy/lendtech-parent-queue-updates/releases/assets/581525554",
-    "notes":  "Shared team pricing brain and cached Claude industry profiles with specific-industry learning and broader-profile fallback.",
-    "publishedAt":  "2026-09-22T14:01:58Z",
-    "sha256":  "7ae6f7b75ad23ccaac40ebe13e58de87a07775fee33ed5e3942ac2278c0834f0",
-    "size":  4038144,
+    "version":  "1.9.118",
+    "latestVersion":  "1.9.118",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.118/LendTech.Parent.Queue.1.9.118.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.118/LendTech.Parent.Queue.1.9.118.Installer.exe",
+    "assetApiUrl":  "https://api.github.com/repos/Raffilevy/lendtech-parent-queue-updates/releases/assets/581601195",
+    "notes":  "Trucking factoring classification from bank deposits: 65% or more fully factored, 40% to under 65% mixed, below 40% non-factored, with payer evidence and uncertainty checks.",
+    "publishedAt":  "2026-09-22T14:44:37Z",
+    "sha256":  "fd5ada2fe13bc63fb75d36f3f63c41c6b3bb29ffd37671ce63401163c13a9481",
+    "size":  4079104,
     "signatureAlgorithm":  "RSA-SHA256",
-    "signature":  "gcudaBIniZh4J3MOKxaC7NLdLhMX50QMEvL/qhVCZm8IlSzeizblXrLSxTygxDaNgdNoxHujPNbX1/7GgbIR1pqa+0S0IB6Gzf8VbY5dJJkS/zpemJVIkCOsbaGjET4J7/Xv6A0MzdC6jnVAIPd6K3h6PdJy8uouyxSy4VCS5kZjkoSIudYWJ9w6VByNPdcQCd8q/XKexZYxGX0C8mFg+PG1rtqKdjW9HI3RqYdjstUttHw0g8WStmYzKtR9ggE2dk7dN0B6uWueIQiVkdVWDzSjKe0rMKxUZ7sBlE4Kb+kZSZ4c3gfjKhWcvQqitSVsz4h3SaJty5xcF7ehLuGb7J/uqJN12G8msizKqWb78Lr++qR+pcDKAAUsD1mu1iOBTQUrcQVPF5BrGznP+U1pCP1YY0eAc/9RxQilPChwWP8U7ASmt31gt7B2TDrnZBf0nmOXQq6FuO8WY/6t5XUdOjaEjzeIE4k/VsneQpiglKJNAMRaRZyvJ03HTyqCrcWR"
+    "signature":  "Ej2Gl/kqXL5LycEvh2XQimv9xL9y9JsvfGTPyHLqQQRPPJAOYekDMvjZU+OW1amaqDrWDUBWA3uV5EKlqcr73VTfLuH9G2LZocNiYtVkfXMPWDsNBJi1TKdSZlJzP7HGux1JLB3iYYnURfFwyIp5QiOY7ViE3BjlHcwtdDpuJupUfUsQ8PD/leeXmPnPgNv7pO66Jy1uAdKfqN7ru49QjtS+elgwpxBR31/KYQ8yS4Z5FyX4M3WXYasbi3Af3Qomd2nBuox84EeXAejNVrkAXb8vBWyXOR9lt8MIBF3wey9ISHQ+WZTM5FDEnqrrElvXlf14st66Gx98b4BYYsr16GZS5pqqVMMO4r3/w61IW8O2WU6t21Bdpf3308RgfNb4tmZZCViAsLKtKaBCc21mSlPTkJo1iooRRo8Yc0mrEguRLAUUOlj2YVlCUMzH5wwszRiz7+DgN2s56mwi7mYtzcDLm7gwF42C4AsHUNKSbQCOt/1wGYJVYW2YKjByNYdP"
 }
