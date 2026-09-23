@@ -1,14 +1,14 @@
 {
     "schemaVersion":  1,
-    "version":  "1.9.124",
-    "latestVersion":  "1.9.124",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.124/LendTech.Parent.Queue.1.9.124.Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.124/LendTech.Parent.Queue.1.9.124.Installer.exe",
-    "assetApiUrl":  "https://api.github.com/repos/Raffilevy/lendtech-parent-queue-updates/releases/assets/584474901",
-    "notes":  "Fix fresh installations failing to load WebView2Loader.dll; include the native browser loader and verify clean-install browser startup.",
-    "publishedAt":  "2026-09-23T19:46:59Z",
-    "sha256":  "61fbda0a839287fe1afe8e87c8e10f791583db1ca0caaa5237dd8e3b72d65a02",
-    "size":  4205568,
+    "version":  "1.9.125",
+    "latestVersion":  "1.9.125",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.125/LendTech.Parent.Queue.1.9.125.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.125/LendTech.Parent.Queue.1.9.125.Installer.exe",
+    "assetApiUrl":  "https://api.github.com/repos/Raffilevy/lendtech-parent-queue-updates/releases/assets/584613443",
+    "notes":  "Recover prior MoneyThumb banking, share bounded Claude relevance assessments, and automatically adjust verified pricing revenue with visible source checks and preserved manual totals.",
+    "publishedAt":  "2026-09-23T21:27:44Z",
+    "sha256":  "9f21db3b0ec4aa478685ce6d4ee6f15f52771e3f764cd2f45669f7c2b86f34bd",
+    "size":  4250112,
     "signatureAlgorithm":  "RSA-SHA256",
-    "signature":  "KZUgQlSOLn3OykTzsKwAd4KgrHhIRyxl1DXRSLqj5fTNqL0srnZg0o3eOAb7tGv+bewBbFl9bufD1VuMZw7v+FqRPxKuj5LiAW53TTA20BeIoCfINx/uW09j2WNM/F5CKiCx6adWTRh+2SuwTrSScpzyDZ8zCGMlXkqIfeDuoyl7lqglhxbbCjqtdEZtfZn1/yV/4DwAIvy7WIpH5CPg/m6DckOiQGrTptIooN+M77Y2m+Klo7QVjjZ0D6CMOHf/cxAmapeuoqhbkKSApIUz7R4RABfRmQ2CqwD7WKU7XWY7j0GQRrXwXeiYEuu3g3RoB+YqrF3i18flSRSVe0euCiaNrGCq7lVSTLdqWpjy4WFgKAnhOBmFIYSSm+cvc96OxUvahiQP2nViCOFE0AZj/2DbzDTMgEkd2QRIqa42ooYxgDkilAXfFYw27Eyz7YIkQ8l+FM9EmRJocuHSuddjFFmLi37pgW842r80BogwfWNq4uKN8XUoNchRMxRrhwbM"
+    "signature":  "CxcNm+vFy+HHcKLzKVvRKmwOxgihSLiCA//rJbZ66rjG7wk1y+jmCDXb6/eHw4izibJSLVJum0ShQKSygfzBqQD8QlHoUWShwg6l0s1Gx4PyE3Qku/Bkdu57hDHcsexNeLr7MApAYMNrrIW9lpisS7zxnrCV0e+tP6fsGCesQFwmFieL6q+7mBUfLHyWQfm3852tH3BnTKVB/K0yGVP6/p3CqErQcFSmLUS6SWTy8u0Ys/3Hr7dLS1HJYH1PNC6vE/D4rBQmp+sQCkj9IBLYj1QOpi/SweaXvcZ1HpLKiz0MWauVuBmF5id4YalfUIDz/wRofnm7mp2FKndFbVkvyMuZmvoVxRNaqMSJ8IYoXcQ2YsAgXbhgY2NRY5+m+1KkhUj68lJe4kW2EWqz00PJLd/cEcuOA6Vr9eZj1gKQ8Wrpu+kKXU8oIbxhpf4I10yRC/tXPFq3mmpmEKaBWXIpDn3C+LaOxO1qkAO8HN3cqZyrg9Z5jFJ6DlMyo9ADYyC0"
 }
