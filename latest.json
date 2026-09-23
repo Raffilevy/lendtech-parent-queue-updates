@@ -1,14 +1,14 @@
 {
     "schemaVersion":  1,
-    "version":  "1.9.123",
-    "latestVersion":  "1.9.123",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.123/LendTech.Parent.Queue.1.9.123.Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.123/LendTech.Parent.Queue.1.9.123.Installer.exe",
-    "assetApiUrl":  "https://api.github.com/repos/Raffilevy/lendtech-parent-queue-updates/releases/assets/583898908",
-    "notes":  "Shared offer settings for UFS/TruPath and combined-balance negative days with individual-account warnings.",
-    "publishedAt":  "2026-09-23T14:07:36Z",
-    "sha256":  "8bd631705ac61b9bcc67261faea2867d6c378a9b99fc5107572beb5e3e095b8b",
-    "size":  4123648,
+    "version":  "1.9.124",
+    "latestVersion":  "1.9.124",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.124/LendTech.Parent.Queue.1.9.124.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.124/LendTech.Parent.Queue.1.9.124.Installer.exe",
+    "assetApiUrl":  "https://api.github.com/repos/Raffilevy/lendtech-parent-queue-updates/releases/assets/584474901",
+    "notes":  "Fix fresh installations failing to load WebView2Loader.dll; include the native browser loader and verify clean-install browser startup.",
+    "publishedAt":  "2026-09-23T19:46:59Z",
+    "sha256":  "61fbda0a839287fe1afe8e87c8e10f791583db1ca0caaa5237dd8e3b72d65a02",
+    "size":  4205568,
     "signatureAlgorithm":  "RSA-SHA256",
-    "signature":  "Vbbn2vChN8KPpwuzl8PolgSJr7g83PINkUg1W68576FyjTKgnPbWb6B1dptUdoS5+NAdH5dtwXPJicECM6QXH7VYUjmMupFtg7a8m6lvUfNYPsqAaIvICFp3ekr2DvDe/X5GHFYDfrv58Uj+x4NovqpHpcYPZ95wT6svkdx30vj6hGZZQ03yXIAjsRHs0VKBYDI/C7+t2EmkUIBwthnNVGmrabhF7sxCwIJon1me2maESWzO5lgA8NB/LwUAKptM9pT92JQ24+IuFDVuwuaJFeML5R7tI2q/Pg9zOLMeagoc7aKW8oe6I8288IYQ9DqCnW8JYFugORhef0cRKEAKyDKSNofYmfNJed1/t7AQN+w6E727qi7vH73ipciT+O/zTyetxxjUKwgR7imdVBfWr8KA7EKqnOlMrMyTZFrA7S30B7WjY49Wym9/HVdmePPQkbC5pJIfVQ4emP8SJxsa7Z0bbGBTC3na6AQ6glujIdUeQWJxZAzzGmdhUUUprBa/"
+    "signature":  "KZUgQlSOLn3OykTzsKwAd4KgrHhIRyxl1DXRSLqj5fTNqL0srnZg0o3eOAb7tGv+bewBbFl9bufD1VuMZw7v+FqRPxKuj5LiAW53TTA20BeIoCfINx/uW09j2WNM/F5CKiCx6adWTRh+2SuwTrSScpzyDZ8zCGMlXkqIfeDuoyl7lqglhxbbCjqtdEZtfZn1/yV/4DwAIvy7WIpH5CPg/m6DckOiQGrTptIooN+M77Y2m+Klo7QVjjZ0D6CMOHf/cxAmapeuoqhbkKSApIUz7R4RABfRmQ2CqwD7WKU7XWY7j0GQRrXwXeiYEuu3g3RoB+YqrF3i18flSRSVe0euCiaNrGCq7lVSTLdqWpjy4WFgKAnhOBmFIYSSm+cvc96OxUvahiQP2nViCOFE0AZj/2DbzDTMgEkd2QRIqa42ooYxgDkilAXfFYw27Eyz7YIkQ8l+FM9EmRJocuHSuddjFFmLi37pgW842r80BogwfWNq4uKN8XUoNchRMxRrhwbM"
 }
