@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "version": "1.9.126",
-  "latestVersion": "1.9.126",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.126/LendTech.Parent.Queue.1.9.126.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.126/LendTech.Parent.Queue.1.9.126.Installer.exe",
-  "assetApiUrl": "https://api.github.com/repos/Raffilevy/lendtech-parent-queue-updates/releases/assets/603798159",
-  "notes": "Adds the admin Offer Learning review foundation and frozen shadow replay, fixes incorrect bank-PDF association, and packages the new review UI. Automatic capture and Brain delivery remain inactive pending setup; pricing formulas are unchanged.",
-  "publishedAt": "10/01/2026 17:47:07",
-  "sha256": "e4db949ed1d865b9069625c173c1c9005ab555823433f2748b214b3944798f99",
-  "size": 4440064,
+  "version": "1.9.130",
+  "latestVersion": "1.9.130",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.130/LendTech.Parent.Queue.1.9.130.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.130/LendTech.Parent.Queue.1.9.130.Installer.exe",
+  "assetApiUrl": "https://api.github.com/repos/Raffilevy/lendtech-parent-queue-updates/releases/assets/604261108",
+  "notes": "Connect TruPath existing CBC credit to approval review; preserve full evidence and report identity; include the managed review runtime and correct version reporting.",
+  "publishedAt": "10/01/2026 22:31:27",
+  "sha256": "fa5e3f3c7555b7f0c34669d106a09e5333637a51910dc06b5991787868a2a1bd",
+  "size": 4562432,
   "signatureAlgorithm": "RSA-SHA256",
-  "signature": "iTrTHcznYYEuddSbpfMCNfk4+ju46NZSGA2eVb9QGsTsFyUdC2jvao/GLzx+XP5nhna6i+2qJp0ayW0dEFTH6YDPJCr+8J9r+mkhpC9f6oyJx+UkEH95UPkYHUUz6SqhOhrm69YAy7QWd7lYWgK0DJw+Vgwio2K5py95DDmxPHO4LWHdauhKLEiiIvLFvDx9xVbcT5mX+Tucobir0wepkxRNGUFn9CYdXZAyWOSR0O5MLKIhH+7JDowSlBUriNNlWgruPUlpPI5Hta53enb6NB9ggvyS86s/buZbWhy7a6H9EaD4SJffSQtzS8si1trkVBXuVXBvMBO20kEMZyigK8585Xp8qoqzGu3dvp5YOiS7+It6wFNC1juAMpFu7BiOxNHDDWUQ/eFTTU/oK8pCxYNDgyN44sZv5DqTy0IsZRU/UmxKejedy6MZd1X5A2tPrnHibAErdtGTljMYcgEyD6cp42mlzyv6HEfrfqIgwlZ7HGmdqzL3d6y5SVL6hM1F"
+  "signature": "GMtQxtVdKQWhXn3Mx48u5lqRsuSGN2b7RPjmm539Tt+lMHC5amRYVR/dM4BwFMsdcBU4smRDzNNWwGkGxIdNf5SA/RwGw8DNtVLgkVmpN7GeQ0GO89l65HTv/jFGOxdBuPGZJXA1HrUQTSU1SNUXTSna5W8qpL7dk8RJf6fdkukrBSCPlXnAWEYfaagyNELUO34r5JThQP8JubHRBpFLBYLkXZY8KYM7kBivjYzzym8ewvpt70323s2iKM6MmRDly4Hflz7i1KSwj0qqIVDBhFL4PfUFvidd6U+wQ8/Y0fGEu0ahK6tF4FQ2t5ZkMoHJNBihpOy9O7uuTHB4OjH71mkZ9BLcyPjgmhOceR7kYWgWAguM/CpJMBSwwpDJSV/d0NwCGueVnHwH1/5qakYvup2hiZMsoMTY6f6cbYn6aaqaihEVaNMt3acVfYQA6T+2mUaaSZDm8yauef3S2nPvBOiG+2gACOWB88hYT8vDoP5USt/TGQpvSzMo6D9pGX1n"
 }
