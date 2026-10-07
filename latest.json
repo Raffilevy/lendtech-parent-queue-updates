@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "version": "1.9.134",
-  "latestVersion": "1.9.134",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.134/LendTech.Parent.Queue.1.9.134.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.134/LendTech.Parent.Queue.1.9.134.Installer.exe",
-  "assetApiUrl": "https://api.github.com/repos/Raffilevy/lendtech-parent-queue-updates/releases/assets/619709184",
-  "notes": "Funding-sheet defaults, automatic in-app opening and Google connection fixes; responsive pricing requests and safer tab handling.",
-  "publishedAt": "10/07/2026 20:17:46",
-  "sha256": "27e07b4c948eafcf4bd9370119874810a243acd0a6d4e335194b98b568f31951",
-  "size": 4612608,
+  "version": "1.9.135",
+  "latestVersion": "1.9.135",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.135/LendTech.Parent.Queue.1.9.135.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.135/LendTech.Parent.Queue.1.9.135.Installer.exe",
+  "assetApiUrl": "https://api.github.com/repos/Raffilevy/lendtech-parent-queue-updates/releases/assets/619749128",
+  "notes": "Optional blank Must Ask Questions documents alongside funding sheets, automatic in-app opening, and duplicate-safe retries.",
+  "publishedAt": "10/07/2026 20:36:17",
+  "sha256": "7e5aac870f49a8b3b0c1319b9c188589b212759ee7f27d97f027d59441feff3c",
+  "size": 4621824,
   "signatureAlgorithm": "RSA-SHA256",
-  "signature": "Qap5gjZz+NS1qV0p+bKNiAyQns9djJsXTC4BVr8NZnC2wth1fuRbZhL77rgstzSRljK1z1CIm96xVt0D6bu6SUZ1SbISJsDy4YpicHyeVfWaIl9zKq6G6hm+XfhqM50afZZlJwh48Gu9sFD/ezpNC70aocHpGPKFODxOpGqtPx7aL2XvG84ngJUMUJddmIUc0mm6As2RSMv9a8YXgGcmRihWHICH5qF1R8JC894n6HkfFjosmIJ7ZyLKUbFew9dybMevuwth3BBTsTSUxzkt0M95dU4fs4EWrA1aMsTugWroT4p1LFe0hcvkT6tgGo1agG0Yu0efUJr33t8OxhHNlfT8CfxwC3AbI1t4HS2FfKUC3uBxuzmmSXwztsr2k03DQE0z4rnjjVIWAoOGq7T5bA1CB5JAtOMAHIU/mmdBS4HchEaNT4E8/dLzFM/0chRlU2SWDtrk85Rtih31s8KNJNgLHCeBcLUeJoDtiRl3AUAr/tPrLendazb+xnBmWdoo"
+  "signature": "GaT1X/evxhQWgHEAgOEzLLQTovvdjQ99+0KW+R07jOOaKhUiJ3yA8wXvKBTpeoUNl6db4RM0HKsedkmeFxrn6ULkZXZPjLgIFglRCB8IaDDqRvFbLnm7x7PVTCWX55HjojncM9bwPRHnjQVxREa2VQR2jlkxEb5WaAif2sRRKf87AF6brxuZjGvqKQHOsdhI2fjDy8C5UKyE9FQYg3tqNe/llyU9gqkqw9RXvRJmBvzeDms/ZiY1Duj6Sg0C/X+LbwDNMProDsCzOKdgB/Zwx2IRPwfdljfudAg4qHB5VBpmju2MdpoRY2FPn/kPCO95C7C/akXMMMOIVQsmpkcnAVo7tbhxbQMAqTyp22VDcilliSu93o2qkElGN95aerSV4s7vdXzcVkQKCtZJjXq92MAAkTXFDqczbhIA6sVd7jacFqQEqp5JeG6fz1zOfJqrIGNrccN62kF53sTgWLNZZN9/KcMTOy4GEfBLMEW641z+t7SXflfhVT98GC3/KiGN"
 }
