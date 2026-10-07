@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "version": "1.9.130",
-  "latestVersion": "1.9.130",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.130/LendTech.Parent.Queue.1.9.130.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.130/LendTech.Parent.Queue.1.9.130.Installer.exe",
-  "assetApiUrl": "https://api.github.com/repos/Raffilevy/lendtech-parent-queue-updates/releases/assets/604261108",
-  "notes": "Connect TruPath existing CBC credit to approval review; preserve full evidence and report identity; include the managed review runtime and correct version reporting.",
-  "publishedAt": "10/01/2026 22:31:27",
-  "sha256": "fa5e3f3c7555b7f0c34669d106a09e5333637a51910dc06b5991787868a2a1bd",
-  "size": 4562432,
+  "version": "1.9.133",
+  "latestVersion": "1.9.133",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.133/LendTech.Parent.Queue.1.9.133.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.133/LendTech.Parent.Queue.1.9.133.Installer.exe",
+  "assetApiUrl": "https://api.github.com/repos/Raffilevy/lendtech-parent-queue-updates/releases/assets/619210306",
+  "notes": "Funding-sheet generator in UFS and TruPath browsers, editable 1.28 buy rate, corrected rep fee tiers, fixed 1% UFS/rep commissions, native Google template copies, and safe retry handling. Google Sheets consent required; no email or LendTech changes.",
+  "publishedAt": "10/07/2026 16:31:08",
+  "sha256": "d0b6b9095b2b80cafc024985af830f3e13b444af66c542f8a4340835579ee2ba",
+  "size": 4608512,
   "signatureAlgorithm": "RSA-SHA256",
-  "signature": "GMtQxtVdKQWhXn3Mx48u5lqRsuSGN2b7RPjmm539Tt+lMHC5amRYVR/dM4BwFMsdcBU4smRDzNNWwGkGxIdNf5SA/RwGw8DNtVLgkVmpN7GeQ0GO89l65HTv/jFGOxdBuPGZJXA1HrUQTSU1SNUXTSna5W8qpL7dk8RJf6fdkukrBSCPlXnAWEYfaagyNELUO34r5JThQP8JubHRBpFLBYLkXZY8KYM7kBivjYzzym8ewvpt70323s2iKM6MmRDly4Hflz7i1KSwj0qqIVDBhFL4PfUFvidd6U+wQ8/Y0fGEu0ahK6tF4FQ2t5ZkMoHJNBihpOy9O7uuTHB4OjH71mkZ9BLcyPjgmhOceR7kYWgWAguM/CpJMBSwwpDJSV/d0NwCGueVnHwH1/5qakYvup2hiZMsoMTY6f6cbYn6aaqaihEVaNMt3acVfYQA6T+2mUaaSZDm8yauef3S2nPvBOiG+2gACOWB88hYT8vDoP5USt/TGQpvSzMo6D9pGX1n"
+  "signature": "miiE4vCAYFxq2+wIKjdfbkha4EqVbBqjgBgnjDmt7mzZR3f3qiarEey79LV2uy4poMDOgB5TJYpIVc60WCozqWK+CGdwR/oKfOCnRG2+YThHDH99DCg22LY5uDcI8DbCz7bUWuEFd7gpWVvWizDSjzWw8jUiMiBBIh4I0yOPNeAteB2FnR6eWGaBBxsiTforDhmGeHatHLaUKABdlQsV3Wef2yLPJNr5yrErrsZXx0+1fYAT+zJt5pnJOWXbbqqm09woMv76ayr5FjKLI8EkCZdxouStjDOR+/IeDzjk+L1DZGteBNnaTBaTiKd8DkYb4GxGAjm+dxf9RL8WJpJPf0DAAx2YIB7WkoKIoRAOsbVmT/CcY1+N/hN3hYcBPxvF6BcMjaFJsqsbnD3vlDhHKmpL1UgYHqAlo2pbk0scQ1mXsGnhMF2f/RwEgeWpFPqdTvJI7ic5/xnrdIyd4byMxIMwv0Ydsbq+I/4Uo20EjLa0jqNZJ18jyNeDJtjivxgS"
 }
