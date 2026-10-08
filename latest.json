@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "version": "1.9.136",
-  "latestVersion": "1.9.136",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.136/LendTech.Parent.Queue.1.9.136.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.136/LendTech.Parent.Queue.1.9.136.Installer.exe",
-  "assetApiUrl": "https://api.github.com/repos/Raffilevy/lendtech-parent-queue-updates/releases/assets/622141977",
-  "notes": "Funding Sheet: clear missing-deal and API-access messages, exact deal-ID verification, and faster handling of invalid lookups.",
-  "publishedAt": "10/08/2026 15:00:18",
-  "sha256": "122c849c721a8cf74d47d713f35205eafdbc5ff25128a653595c3f9bcaaa702c",
-  "size": 4623872,
+  "version": "1.9.137",
+  "latestVersion": "1.9.137",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.137/LendTech.Parent.Queue.1.9.137.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.137/LendTech.Parent.Queue.1.9.137.Installer.exe",
+  "assetApiUrl": "https://api.github.com/repos/Raffilevy/lendtech-parent-queue-updates/releases/assets/622332795",
+  "notes": "Funding now creates new Google spreadsheets and blank questions documents directly in each connected account, with no template access or copying required.",
+  "publishedAt": "10/08/2026 16:13:25",
+  "sha256": "38d28ba9a7b1b8972254cca42c3cd14e0064da5b2ef040ac4df7f9599e525058",
+  "size": 4637184,
   "signatureAlgorithm": "RSA-SHA256",
-  "signature": "RqVSCsc01oweUGgEGQYnmB8pGNT236hToeTZqtRBqIBkSnAiLmiOR8ddCJeI2YyYesGHMdkbBNr+RLIDW8jPH6XyUgxDblqAWbHLwog9hsO2QaW5it6d1Domh6C0PhLpTj6aMD3/fog268WsLYb90mqKY3pUQOt5F2dRrhBNpL34dsF0OqQSq8ABUrpTDPN2bTZIKkbuopFJAxnsYKyRqZR6fkdMSOeA0vMelO7ov22VIxlqs9adN+mKKMNorXhmgRZxOR+JZXPSTrXxSre5zONoBHA25FRQNs0C8+zYvUmfpiyLv+FRQOK+66asvxDAQIbuiVaXByMLPqT6SGmnV96mWh5JfY22u2kRZiGRD7ldeFB+9l72TU1w0IxMSTE+nWHgke0pujYMTg+QNLO8tDUJDhHTxfb7HOOhdxc0QpF5w4mYjuLiQ6XeOdXltVsfub99sHJOTfYGJ6+cH04sV350hQmxnxEirbzGvLtdywbLTBufVTSjn6wDA4zg1Cwj"
+  "signature": "Qut2md4sjSnjG/IqspUqeBzfpFQGNaElvX5ydeA0CykNCZCaPIvX8Af+saSW3sKH9JZFr1TPIXwGJOvCj0EHbkf74gNQuOhe8Te3Gz1Jm6IxRHf+FQ3r4zkMc7/QiIsRecz569UyTCk90e4qKWk1uicUSuW+QO6twRE296r/Vl6SK/p8sJtBqhVwtIyyyncMCtZd1M8RW3GQXo/MSva3ska3JPpFPV3BePqrIzatA/45WJog+VGD4KsZ2G7btuObQANTkS/L28Ud1saz6xA/LLdiMfrAEFcxFyjxoDq41syCCLRDVBxWpp/5ChAODb0mdoIQ5wwTxwH7JqYXO5gIoPuwy1y5/YjIO/hBtqrLRXE8c/eM01teOwQkWE7l2xVH4N011v+XyBikEiWWIso25HnibVspvmjVhLiV1vK47BqkOSH9ItHcFGemEYYfSlcmxECG/Wc8Eb1ANuWKJCIJG0G6zdJDWUtOaLBBivMqKLdUutccvQ9t7M83y1dsdUIh"
 }
