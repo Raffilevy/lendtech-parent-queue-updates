@@ -1,14 +1,14 @@
 {
     "schemaVersion":  1,
-    "version":  "1.9.139",
-    "latestVersion":  "1.9.139",
-    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.139/LendTech.Parent.Queue.1.9.139.Installer.exe",
-    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.139/LendTech.Parent.Queue.1.9.139.Installer.exe",
-    "assetApiUrl":  "https://api.github.com/repos/Raffilevy/lendtech-parent-queue-updates/releases/assets/622548645",
-    "notes":  "Company Google sign-in enables shared pricing, Claude and LendTech for fresh installations; encrypted hidden keys, actionable setup, and faster model loading.",
-    "publishedAt":  "2026-10-08T17:44:39Z",
-    "sha256":  "2155a233923b97c8522885751554d6b9aa781c2abe534243b9c80c86ab4bf2e8",
-    "size":  4678656,
+    "version":  "1.9.140",
+    "latestVersion":  "1.9.140",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.140/LendTech.Parent.Queue.1.9.140.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.140/LendTech.Parent.Queue.1.9.140.Installer.exe",
+    "assetApiUrl":  "https://api.github.com/repos/Raffilevy/lendtech-parent-queue-updates/releases/assets/622797935",
+    "notes":  "Automatic employee-only pricing access through the existing company Google Chat connection. No separate pricing sign-in or Drive consent; private credentials remain outside the public installer.",
+    "publishedAt":  "2026-10-08T19:32:28Z",
+    "sha256":  "9f51744a78be1410c67a5ec3251810579aa453b68902023660b1cba5db8f8441",
+    "size":  4679680,
     "signatureAlgorithm":  "RSA-SHA256",
-    "signature":  "ax9ZjOZOtoD8Gt9HhRdktDoSx44oZlTOMJgHInv5ywwmt+WOcOAhoYcXhXlDgoTMcr8marMi8FA9NFd9jAsX1k1yTlXGPH0FnIA/iGi7CON7LP0YwJIXGp4XKPdE92hgBYmlbNhohLkCSwdRn08v1N0Q/VWQ4zDu9atAdq94Uvrq6Fl+v8RCi2zst4vtXSZaJtRQW7nkNn/gvGaSm32cqWwLbJ9nNu3awnNC/4iNB6UAnuES8qOC0NpIC3cLaGPpdmWkBE/lWHIK9VBQAt0W7Jkli+iSOEuftCpUp+AcwDAJJfF83opZda9jTAf+MtBLl1Ofhc92tLAfDUAuxz1obWpSK1WW0d2ll3yfsc0hffeAyVqkITo7qejfoY5COSj2ulkGPXBNz1qScrU3EEO7wes0jWcoBjqoSOpC4cL2PUVl/jPPRp/N9/iNYpKU8vgGvYbnAC0DK+P9CU1HDitMILYoqM6sw9qBvVIVGkShEkHPQq51WHoPIE1rzd4qvja2"
+    "signature":  "hfO1vZioH7sZ3YfLkWzPnXs5DhsjfXsrVAdaiX74Ix7Vg/XL27gg5zL/suwxApnM22DF2Ilhe+FqZgFVvf2jeyUovB/S8B8as9+7A8JCe7+R0Me/dguYmErXOA4jyKZsPxOAW5fako194fOSn11yAPcW2qlNBafGTaogy107DjzNI3+TP95JfFSdAuEHdlRzyAcoq2dIvXGbWtYPFddxjgg+j7wjjPGI4JBeTOSf0Sbjkg6IXSaTr4ISw0qBFgSpmFeaCbtlQydkjDvWuTgLX0Bfk47mMTAtUbKtQ/0JzV2fCZGK+wzk55UishSlu6+CjUjb6mGlQnvZAgH9f72w26xOKULe5NQZK2r+uB+JsseDhZOvc5RVPLs/PWHfFoFe77sSw9MhMAQ7HG8cEm07bAOy68JQzFV31xIzn6bE3q5QH7pHUF6Vfa/YP2eD5hI6tl5ON6YVkmMaD5p8dwwAz8UeY4ndHyg2m+b82E2ZWqazHUEyJSNtY9R5pK2W9vo3"
 }
