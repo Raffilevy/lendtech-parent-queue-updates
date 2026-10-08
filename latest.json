@@ -1,14 +1,14 @@
 {
-  "schemaVersion": 1,
-  "version": "1.9.138",
-  "latestVersion": "1.9.138",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.138/LendTech.Parent.Queue.1.9.138.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.138/LendTech.Parent.Queue.1.9.138.Installer.exe",
-  "assetApiUrl": "https://api.github.com/repos/Raffilevy/lendtech-parent-queue-updates/releases/assets/622403697",
-  "notes": "Restores original funding sheet gridlines, fonts, widths, spacing and highlights; funding sheet title dates now use MM/dd/yyyy. New sheets still require no original-template access.",
-  "publishedAt": "10/08/2026 16:43:28",
-  "sha256": "a9821a8ddb7a92f92d8c3b93db394f24e1ff2d20b194e6a467ac463dd097b9b6",
-  "size": 4640256,
-  "signatureAlgorithm": "RSA-SHA256",
-  "signature": "f+545S+t/xSRW82fynVZKMEwKzt6tdg4SUAw2pST6jd8hJErjSoPjitKz6MbScMNi9YdmYGVG70IruWChgTAGmrB/QOhTX9AFL02oIhZzK5ndvaKBWqW2ssUU42q8lBGK12slXAWr9NmezXB6aXLW/vp4tyFW1UqtjoR7JX/JMR7mQ04EoZv9LV+jb+TxkRU91QHPwhOlfK5ZYAroUzl11DvOvgtBhb7T8HgmILczyzpEo3V4I+aYY64JIawnY4UYHK6CSnHnyhFh6EtgZ63FeljLWZtneCiJR/uDsvJH2FkV48z4jUVNN0eTPT+O16hRWRQZbNfMK2XCxPwS8I/Fya6dAMoPr0DGPw4hkfoHfv2KrrtXedyCvetinILCHEUCLR8jNloY+OAULTPDfjNttScNBNnSYofb5uvwQ5NvxQtMPWV4vHEgKegbE8uQUzn8SzyochSDGVCCkEuDWey1nN4954itGkj7HGNPLmq9wD3IIhZFP0fJm22m+6wWATh"
+    "schemaVersion":  1,
+    "version":  "1.9.139",
+    "latestVersion":  "1.9.139",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.139/LendTech.Parent.Queue.1.9.139.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.139/LendTech.Parent.Queue.1.9.139.Installer.exe",
+    "assetApiUrl":  "https://api.github.com/repos/Raffilevy/lendtech-parent-queue-updates/releases/assets/622548645",
+    "notes":  "Company Google sign-in enables shared pricing, Claude and LendTech for fresh installations; encrypted hidden keys, actionable setup, and faster model loading.",
+    "publishedAt":  "2026-10-08T17:44:39Z",
+    "sha256":  "2155a233923b97c8522885751554d6b9aa781c2abe534243b9c80c86ab4bf2e8",
+    "size":  4678656,
+    "signatureAlgorithm":  "RSA-SHA256",
+    "signature":  "ax9ZjOZOtoD8Gt9HhRdktDoSx44oZlTOMJgHInv5ywwmt+WOcOAhoYcXhXlDgoTMcr8marMi8FA9NFd9jAsX1k1yTlXGPH0FnIA/iGi7CON7LP0YwJIXGp4XKPdE92hgBYmlbNhohLkCSwdRn08v1N0Q/VWQ4zDu9atAdq94Uvrq6Fl+v8RCi2zst4vtXSZaJtRQW7nkNn/gvGaSm32cqWwLbJ9nNu3awnNC/4iNB6UAnuES8qOC0NpIC3cLaGPpdmWkBE/lWHIK9VBQAt0W7Jkli+iSOEuftCpUp+AcwDAJJfF83opZda9jTAf+MtBLl1Ofhc92tLAfDUAuxz1obWpSK1WW0d2ll3yfsc0hffeAyVqkITo7qejfoY5COSj2ulkGPXBNz1qScrU3EEO7wes0jWcoBjqoSOpC4cL2PUVl/jPPRp/N9/iNYpKU8vgGvYbnAC0DK+P9CU1HDitMILYoqM6sw9qBvVIVGkShEkHPQq51WHoPIE1rzd4qvja2"
 }
