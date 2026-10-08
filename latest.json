@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "version": "1.9.137",
-  "latestVersion": "1.9.137",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.137/LendTech.Parent.Queue.1.9.137.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.137/LendTech.Parent.Queue.1.9.137.Installer.exe",
-  "assetApiUrl": "https://api.github.com/repos/Raffilevy/lendtech-parent-queue-updates/releases/assets/622332795",
-  "notes": "Funding now creates new Google spreadsheets and blank questions documents directly in each connected account, with no template access or copying required.",
-  "publishedAt": "10/08/2026 16:13:25",
-  "sha256": "38d28ba9a7b1b8972254cca42c3cd14e0064da5b2ef040ac4df7f9599e525058",
-  "size": 4637184,
+  "version": "1.9.138",
+  "latestVersion": "1.9.138",
+  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.138/LendTech.Parent.Queue.1.9.138.Installer.exe",
+  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.138/LendTech.Parent.Queue.1.9.138.Installer.exe",
+  "assetApiUrl": "https://api.github.com/repos/Raffilevy/lendtech-parent-queue-updates/releases/assets/622403697",
+  "notes": "Restores original funding sheet gridlines, fonts, widths, spacing and highlights; funding sheet title dates now use MM/dd/yyyy. New sheets still require no original-template access.",
+  "publishedAt": "10/08/2026 16:43:28",
+  "sha256": "a9821a8ddb7a92f92d8c3b93db394f24e1ff2d20b194e6a467ac463dd097b9b6",
+  "size": 4640256,
   "signatureAlgorithm": "RSA-SHA256",
-  "signature": "Qut2md4sjSnjG/IqspUqeBzfpFQGNaElvX5ydeA0CykNCZCaPIvX8Af+saSW3sKH9JZFr1TPIXwGJOvCj0EHbkf74gNQuOhe8Te3Gz1Jm6IxRHf+FQ3r4zkMc7/QiIsRecz569UyTCk90e4qKWk1uicUSuW+QO6twRE296r/Vl6SK/p8sJtBqhVwtIyyyncMCtZd1M8RW3GQXo/MSva3ska3JPpFPV3BePqrIzatA/45WJog+VGD4KsZ2G7btuObQANTkS/L28Ud1saz6xA/LLdiMfrAEFcxFyjxoDq41syCCLRDVBxWpp/5ChAODb0mdoIQ5wwTxwH7JqYXO5gIoPuwy1y5/YjIO/hBtqrLRXE8c/eM01teOwQkWE7l2xVH4N011v+XyBikEiWWIso25HnibVspvmjVhLiV1vK47BqkOSH9ItHcFGemEYYfSlcmxECG/Wc8Eb1ANuWKJCIJG0G6zdJDWUtOaLBBivMqKLdUutccvQ9t7M83y1dsdUIh"
+  "signature": "f+545S+t/xSRW82fynVZKMEwKzt6tdg4SUAw2pST6jd8hJErjSoPjitKz6MbScMNi9YdmYGVG70IruWChgTAGmrB/QOhTX9AFL02oIhZzK5ndvaKBWqW2ssUU42q8lBGK12slXAWr9NmezXB6aXLW/vp4tyFW1UqtjoR7JX/JMR7mQ04EoZv9LV+jb+TxkRU91QHPwhOlfK5ZYAroUzl11DvOvgtBhb7T8HgmILczyzpEo3V4I+aYY64JIawnY4UYHK6CSnHnyhFh6EtgZ63FeljLWZtneCiJR/uDsvJH2FkV48z4jUVNN0eTPT+O16hRWRQZbNfMK2XCxPwS8I/Fya6dAMoPr0DGPw4hkfoHfv2KrrtXedyCvetinILCHEUCLR8jNloY+OAULTPDfjNttScNBNnSYofb5uvwQ5NvxQtMPWV4vHEgKegbE8uQUzn8SzyochSDGVCCkEuDWey1nN4954itGkj7HGNPLmq9wD3IIhZFP0fJm22m+6wWATh"
 }
