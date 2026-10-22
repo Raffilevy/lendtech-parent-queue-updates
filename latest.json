@@ -1,14 +1,14 @@
 {
-  "schemaVersion": 1,
-  "version": "1.9.142",
-  "latestVersion": "1.9.142",
-  "downloadUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.142/LendTech.Parent.Queue.1.9.142.Installer.exe",
-  "installerUrl": "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.142/LendTech.Parent.Queue.1.9.142.Installer.exe",
-  "assetApiUrl": "https://api.github.com/repos/Raffilevy/lendtech-parent-queue-updates/releases/assets/641614485",
-  "notes": "Fix verified banking totals being rejected by Confirm Review in the Pricing Advisor.",
-  "publishedAt": "10/14/2026 20:45:54",
-  "sha256": "64eb4e0b9740ae32701313a21d1763f4631fe94458306b32cf3d01888962f8d2",
-  "size": 4680704,
-  "signatureAlgorithm": "RSA-SHA256",
-  "signature": "efllxkAuVZObh42QnPRSxh0ll/JugZOH3R8TeaXp4ZXviWH8OJGEsWvN9gif72Q9sgrND7ZR8G7+sTZQEEbLf3nY4aIydfuidnXghGVKYELZ71fH5dn0+VZDqh6mV+8jjwhIxQCtj6HLA6gRUJPHG1XnrJd5bhH5S7sL7iNKujo8YLdBRKFzFvx1HfTzzUFkL4Hti6BZ3xPAJt7CbShutu+8Nfygbp05PYKqBe93k6p6Ed3e+eUH1tIQ1qYMcAVT1eWUSLQy5yZHKjO/5XaVBTBprhLf5xnlQjXpU4BBRNQuUj9wKTsM35NjnvHBaF7UJzpp/fj2wYTR6YFj7cIR3PBzxmLTam4gCyHQAdQtQlJXs/A9HtNB1WCT+wtvhTg71wbv5NO6vo8/svgeJhzm0Gqy5YXwcdzbC7GYKtN1nCA1Qdqf6vQnMrd69fMmGDMfSeTkFP/gnnJ7Q7RosPq/7Qy71PF3I4EMcF4GWPzz4ImUE09uygSNo8DXlBTgvJGD"
+    "schemaVersion":  1,
+    "version":  "1.9.143",
+    "latestVersion":  "1.9.143",
+    "downloadUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.143/LendTech.Parent.Queue.1.9.143.Installer.exe",
+    "installerUrl":  "https://github.com/Raffilevy/lendtech-parent-queue-updates/releases/download/v1.9.143/LendTech.Parent.Queue.1.9.143.Installer.exe",
+    "assetApiUrl":  "https://api.github.com/repos/Raffilevy/lendtech-parent-queue-updates/releases/assets/666477036",
+    "notes":  "Add shared underwriter availability and owner-only distribution/statistics settings. Automatic redistribution remains disabled.",
+    "publishedAt":  "2026-10-22T16:54:44Z",
+    "sha256":  "50e7f98584fbdbc64d951f503175f77ec0e074627feec2023c87559d7c03db45",
+    "size":  4687360,
+    "signatureAlgorithm":  "RSA-SHA256",
+    "signature":  "kCZoDWk01TJkCu4UlL0TfvlAiTq0iFOKnylUL0tbTo54eXkwt16SCrwAdjjcoi+5cRBiXTT3fBjHCBjuhOWO8d/YQK9yuNpFugjOF6zf4wl/4kqa+kQHeWa2OzhXTK5isPJ1ErJYyqRz/2HeCX589olarf2DDD6C2gSC+rL0Na6lMSbmEzhkyqHo6AkqR6g4fyl6uTEzE+wXgr3KxMtfpnmrqLcItl6+XnaxDzSKe8lK8/QeOfNwxkufR49+8xwLYhcBRcVJtaQc3rdritOZrjHcDERohztdSCzxvTxJMSoNNKXPQVyNg7wmyFDNshuSLTbYyDwx8fSPVziGrp56UVx7TggXI+k1ttJ1tkW6v2noIiCId8yeM6EZoFbQnT8OL1B6mex4k56CMmz01V09cTUUSiIg5wmYVFnLXSyDPQ76fVx++RKk8oTehJsdztANd9QRTygY94f1+M4BlFZkB1dDxb5aSbf1J1b/HPkPrkPZKRjFsZTU5I/hPCUcKb0Y"
 }
